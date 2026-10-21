@@ -1,0 +1,32 @@
+{
+  "generated_at_utc": "2026-10-21T14:42:28+00:00",
+  "source": "https://padoka.landtag.sachsen-anhalt.de/portal/browse.tt.html",
+  "queries": [
+    {
+      "query_key": "da1c1188bac3f7fe",
+      "date_from": "2025-01-01",
+      "date_to": "2026-10-21",
+      "periods": "[9, 8]",
+      "sref": "((/WP (9;8) OR WP=\"\") AND (/DAT,DDAT,SDAT 2025 01 01 : 2026 10 21)) AND TYP=DOKDBE NOT (1SPERI,SPERI=JA)",
+      "source_hits": 9947,
+      "fetched_hits": 9947,
+      "expected_records": 5800,
+      "parsed_records": 5800,
+      "next_start": 5800,
+      "completed": 1,
+      "observed_at": "2026-10-21T14:22:52+00:00"
+    }
+  ],
+  "records": 5800,
+  "records_without_public_file": 2424,
+  "files_by_status": {
+    "downloaded": 3856
+  },
+  "text_by_status": {
+    "empty_scan_or_no_text": 3,
+    "extracted": 3853
+  },
+  "downloaded_bytes": 5219246322,
+  "integrity_check": "ok",
+  "foreign_key_errors": []
+}

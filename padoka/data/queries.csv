@@ -1,0 +1,2 @@
+﻿query_key,date_from,date_to,periods,sref,source_hits,fetched_hits,expected_records,parsed_records,next_start,completed,observed_at
+da1c1188bac3f7fe,2025-01-01,2026-10-21,"[9, 8]","((/WP (9;8) OR WP="""") AND (/DAT,DDAT,SDAT 2025 01 01 : 2026 10 21)) AND TYP=DOKDBE NOT (1SPERI,SPERI=JA)",9947,9947,5800,5800,5800,1,2026-10-21T14:22:52+00:00

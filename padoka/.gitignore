@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.venv/
+files/
+data/padoka.sqlite
+*.part
+data/*.sqlite-journal
+data/*.sqlite-wal
+data/*.sqlite-shm
