@@ -1,0 +1,368 @@
+[
+  {
+    "name": "padoka-pdfs-001.zip",
+    "files": 194,
+    "bytes": 87209341,
+    "sha256": "419567d762323a51d636f795a23a0276e8431aa856c7d652557e880858317f13"
+  },
+  {
+    "name": "padoka-pdfs-002.zip",
+    "files": 128,
+    "bytes": 86364163,
+    "sha256": "1429e86c8d028144269d0ae5038bc0dd02b10930abf86212d03b9ee8829eb9bc"
+  },
+  {
+    "name": "padoka-pdfs-003.zip",
+    "files": 163,
+    "bytes": 82706723,
+    "sha256": "212ac5ccb36a005a5709b110802cd721b802b873de7eb30a2c4d9331dc0b66bf"
+  },
+  {
+    "name": "padoka-pdfs-004.zip",
+    "files": 171,
+    "bytes": 81855072,
+    "sha256": "236b58f113a8b1fef75f602fc25609c13d567011710ce27763e5855902212814"
+  },
+  {
+    "name": "padoka-pdfs-005.zip",
+    "files": 163,
+    "bytes": 81253397,
+    "sha256": "0cb21bb4388f3ece1c611fdcc68223c6b835151756ac14ab23d58c43828183c9"
+  },
+  {
+    "name": "padoka-pdfs-006.zip",
+    "files": 152,
+    "bytes": 86368133,
+    "sha256": "7230b82d647fd4c7ea11b20cedcf85f995497228f53ebb73885df62588bf94c0"
+  },
+  {
+    "name": "padoka-pdfs-007.zip",
+    "files": 178,
+    "bytes": 86189131,
+    "sha256": "30683673caf3f557794030922e1dff01d60fa5cafcef81635ded7015d732b3d1"
+  },
+  {
+    "name": "padoka-pdfs-008.zip",
+    "files": 153,
+    "bytes": 73505676,
+    "sha256": "7e5587ec4e54f24d6f61d0fe24a9977dfd7f5d5b7dc9a0d96519973e74b1ca7c"
+  },
+  {
+    "name": "padoka-pdfs-009.zip",
+    "files": 73,
+    "bytes": 87576468,
+    "sha256": "f9fd81b776beb3eb08a2c2922e626ecc47a99ecb73ca9590f2d48c01b383f82a"
+  },
+  {
+    "name": "padoka-pdfs-010.zip",
+    "files": 94,
+    "bytes": 86808732,
+    "sha256": "3af5b0db48a7971e2a9bcc6e3e60ea392cdb30fa06d9f729780112cd1c96a1b4"
+  },
+  {
+    "name": "padoka-pdfs-011.zip",
+    "files": 96,
+    "bytes": 79331185,
+    "sha256": "4eb56f352a8034e90613bc2bcecd6a6ddc3bc297e7de1e35d5233209921ef2e9"
+  },
+  {
+    "name": "padoka-pdfs-012.zip",
+    "files": 52,
+    "bytes": 83719678,
+    "sha256": "321d74cc16e5086fc4fc8219046bd2d69c97038496ef8598301603451bec4ae5"
+  },
+  {
+    "name": "padoka-pdfs-013.zip",
+    "files": 75,
+    "bytes": 85635135,
+    "sha256": "38d9b9f47a17bc9a5249e650b7a1d0bd3ebbc5b170f8b3af1a9d71ea70fde92f"
+  },
+  {
+    "name": "padoka-pdfs-014.zip",
+    "files": 66,
+    "bytes": 84896897,
+    "sha256": "9f53f6ce787e7d889259a9112e15bb499b30714b2d978c156c5a393773c9562e"
+  },
+  {
+    "name": "padoka-pdfs-015.zip",
+    "files": 86,
+    "bytes": 83880594,
+    "sha256": "398240f8bfbac7819ebdc794a8118963b2c008f90336448a99c295c80f6aed00"
+  },
+  {
+    "name": "padoka-pdfs-016.zip",
+    "files": 57,
+    "bytes": 73122637,
+    "sha256": "982b3e73c55d4dd63de0e8eadc66e53cd00d9c141b6ccb551400080776f18c62"
+  },
+  {
+    "name": "padoka-pdfs-017.zip",
+    "files": 62,
+    "bytes": 79678126,
+    "sha256": "cf193ccb3ff832646d6e0f4dc2d5db465327452d7911f3b7a35037abcd8336e3"
+  },
+  {
+    "name": "padoka-pdfs-018.zip",
+    "files": 56,
+    "bytes": 83415576,
+    "sha256": "9d65a1f3bb177f8567d4cbe8df3eda19cf395c3629cb07e990e00c1454fa4676"
+  },
+  {
+    "name": "padoka-pdfs-019.zip",
+    "files": 45,
+    "bytes": 86901447,
+    "sha256": "f429438e1b47708f18d4ef58337df799ef0b8390a692ce3a2d950d3a4b659f24"
+  },
+  {
+    "name": "padoka-pdfs-020.zip",
+    "files": 60,
+    "bytes": 85590899,
+    "sha256": "b0b9f70c8622419fc0ef9c042c8ee943997c39e081a6791037c43cd07c4d2d0a"
+  },
+  {
+    "name": "padoka-pdfs-021.zip",
+    "files": 40,
+    "bytes": 82289735,
+    "sha256": "13760e95a35d59efe0889d594124b94da96174559447ca1fa8b264a0a89074cd"
+  },
+  {
+    "name": "padoka-pdfs-022.zip",
+    "files": 15,
+    "bytes": 10990802,
+    "sha256": "68bc25612ce9d45da302ff59511dc92bd93952d08ff09e739e5121a8aaea6fd8"
+  },
+  {
+    "name": "padoka-pdfs-023.zip",
+    "files": 71,
+    "bytes": 85793106,
+    "sha256": "a39e0f7c2912b7ead3e6c265512a67a6634dfd6a6d8c45b0fc2385e52d7d8320"
+  },
+  {
+    "name": "padoka-pdfs-024.zip",
+    "files": 64,
+    "bytes": 79013233,
+    "sha256": "a12cd4a49fa769e8390ede173aaa530bd2e7be1ab5378618887926ce38534d57"
+  },
+  {
+    "name": "padoka-pdfs-025.zip",
+    "files": 48,
+    "bytes": 85353275,
+    "sha256": "6e7fdc89cc8fa01a100a684772bba2de45951fc9f94f544ad5e20c3b725c5e33"
+  },
+  {
+    "name": "padoka-pdfs-026.zip",
+    "files": 68,
+    "bytes": 85872762,
+    "sha256": "ef419642fc00d3b0f31b0ea1c83ec207bfee0d0ca2f921706cde5c1924115db0"
+  },
+  {
+    "name": "padoka-pdfs-027.zip",
+    "files": 50,
+    "bytes": 83963931,
+    "sha256": "8ccc62dba290e6a8b09d0cfec9876b32d3c5bb127e0f61b0ac0429fac489dad2"
+  },
+  {
+    "name": "padoka-pdfs-028.zip",
+    "files": 62,
+    "bytes": 79794398,
+    "sha256": "50f1e078fd843d97ec87241887fd37af0c559d16fb802bde1550c5738076ca13"
+  },
+  {
+    "name": "padoka-pdfs-029.zip",
+    "files": 55,
+    "bytes": 84370200,
+    "sha256": "5a04f21e38d553e298c7ba010e6c988677d765a7d34532f3de4fa2d5fb056058"
+  },
+  {
+    "name": "padoka-pdfs-030.zip",
+    "files": 55,
+    "bytes": 82416899,
+    "sha256": "eda6d6cb3ce24f0fb296f9197f9eebf14d9f67d120050cceb14bbc99102f9991"
+  },
+  {
+    "name": "padoka-pdfs-031.zip",
+    "files": 53,
+    "bytes": 79853016,
+    "sha256": "11cf45df3ba0caaf924a1c755e9d235a99ae5147e058922e5b6a49c94a40b53c"
+  },
+  {
+    "name": "padoka-pdfs-032.zip",
+    "files": 10,
+    "bytes": 25574230,
+    "sha256": "4e0d9304695965d8cd696f6ff65f7ed07fb88cd3f74e8f406544cc6d7e7525b8"
+  },
+  {
+    "name": "padoka-pdfs-033.zip",
+    "files": 41,
+    "bytes": 77200066,
+    "sha256": "466421ac00222c40679c186a1889bc81296200729a20983032b877e004da69e7"
+  },
+  {
+    "name": "padoka-pdfs-034.zip",
+    "files": 50,
+    "bytes": 80876890,
+    "sha256": "9b0047fd26c1d05811dad861fb0553f7fcd49e4546b884519f17a72f57a93fac"
+  },
+  {
+    "name": "padoka-pdfs-035.zip",
+    "files": 49,
+    "bytes": 80564279,
+    "sha256": "5cd58a06c3c77b3993b567aa95d9cba9096994b2fcad827ad24544f0f39a8084"
+  },
+  {
+    "name": "padoka-pdfs-036.zip",
+    "files": 55,
+    "bytes": 77131814,
+    "sha256": "18596fb681a1b64f8edd2f7c8c95d99089a86d0de57240f50458744a47d4ded9"
+  },
+  {
+    "name": "padoka-pdfs-037.zip",
+    "files": 38,
+    "bytes": 80502262,
+    "sha256": "545f87eaafe20e71c608a147b8fb0a5a0b39bb4ae0e09024a7015367e7ac340c"
+  },
+  {
+    "name": "padoka-pdfs-038.zip",
+    "files": 54,
+    "bytes": 77311205,
+    "sha256": "534544c16b29562df42d5c879df8e9b4650ee7172002f3d94a9afe20f7a7effe"
+  },
+  {
+    "name": "padoka-pdfs-039.zip",
+    "files": 33,
+    "bytes": 69918496,
+    "sha256": "6753649b018e684ce6b3ffe7e639176cf0888d079235605cea0eb2daf068fbfa"
+  },
+  {
+    "name": "padoka-pdfs-040.zip",
+    "files": 52,
+    "bytes": 79207471,
+    "sha256": "501de5d87f1ad163d7c1db6b49fe756defe6fc40a374922b93a3419a1ab59e52"
+  },
+  {
+    "name": "padoka-pdfs-041.zip",
+    "files": 37,
+    "bytes": 81211964,
+    "sha256": "5142555da3d008fd69dc5fa8c787dc9939beb34c0e136b41b9bac48442e1fbf9"
+  },
+  {
+    "name": "padoka-pdfs-042.zip",
+    "files": 39,
+    "bytes": 83145545,
+    "sha256": "3ab7bbe2eb2218300b83d57822ce318076436db8399745a34cb0bbf03581a2a3"
+  },
+  {
+    "name": "padoka-pdfs-043.zip",
+    "files": 13,
+    "bytes": 22630125,
+    "sha256": "16e2e4bbd23c6efac88b58b923042be2127cacf5498420aaa956d800e4212a4d"
+  },
+  {
+    "name": "padoka-pdfs-044.zip",
+    "files": 42,
+    "bytes": 80652011,
+    "sha256": "cc09f5b15e9593ec40e62b0e0491cdc61ce57f6e11894b5bd537d1070b49c4b5"
+  },
+  {
+    "name": "padoka-pdfs-045.zip",
+    "files": 25,
+    "bytes": 40940329,
+    "sha256": "13147c7578ee5b357aad926443c9a229af713939a05d0a4c4167d54e7937e48a"
+  },
+  {
+    "name": "padoka-pdfs-046.zip",
+    "files": 18,
+    "bytes": 87583989,
+    "sha256": "ec12fad24f24672577f416a97e7b2522c44c478641041adb33b37698296ed6f4"
+  },
+  {
+    "name": "padoka-pdfs-047.zip",
+    "files": 35,
+    "bytes": 78919823,
+    "sha256": "db33a70c4936bf23ec2423c410f45af9e2a073fca906f2be2f877c8c3a991f0e"
+  },
+  {
+    "name": "padoka-pdfs-048.zip",
+    "files": 39,
+    "bytes": 69668456,
+    "sha256": "3557bcd1e65cee603d133c0670b23b09c233aae22a18467f50aae1822714603f"
+  },
+  {
+    "name": "padoka-pdfs-049.zip",
+    "files": 34,
+    "bytes": 81120674,
+    "sha256": "6a9452223479078b01057c191565100c71a875aee7f1857e6b303e83541157ac"
+  },
+  {
+    "name": "padoka-pdfs-050.zip",
+    "files": 37,
+    "bytes": 80968718,
+    "sha256": "db6bb963267cb45b210dc7c3f9690d002e4ad3ccad8a5e4ffa6228b51d0fc9a9"
+  },
+  {
+    "name": "padoka-pdfs-051.zip",
+    "files": 40,
+    "bytes": 82472255,
+    "sha256": "7fa026cdd8881dab0b87ee0f0a09a590a52dd1657de5744187fa0469d2f64b95"
+  },
+  {
+    "name": "padoka-pdfs-052.zip",
+    "files": 31,
+    "bytes": 79469947,
+    "sha256": "8020fe9403ace20334eb1fdb404567cb5f391aada71d17d49bc5ecc35aa69ebc"
+  },
+  {
+    "name": "padoka-pdfs-053.zip",
+    "files": 18,
+    "bytes": 84976000,
+    "sha256": "1a6d9f19cfdf9fcae2b667ca8b778558122d19b5d053cbec8ad7c0218554ce1f"
+  },
+  {
+    "name": "padoka-pdfs-054.zip",
+    "files": 37,
+    "bytes": 77366587,
+    "sha256": "81784442e9dad53626d55a69b210f2abe173dbf3c67959aed1fe4fa6a1b9c2ff"
+  },
+  {
+    "name": "padoka-pdfs-055.zip",
+    "files": 23,
+    "bytes": 42857827,
+    "sha256": "7c55d5aa16ef88a5b9dbcb21a38fe48d5fa67724979e167ff841c30dac32df0b"
+  },
+  {
+    "name": "padoka-pdfs-056.zip",
+    "files": 57,
+    "bytes": 81601012,
+    "sha256": "e1c982f090edef0836f13d9a7fe4907627ecb0da8f2a1d30263d835999c5a38e"
+  },
+  {
+    "name": "padoka-pdfs-057.zip",
+    "files": 62,
+    "bytes": 81644664,
+    "sha256": "ae1b38925ec22d7d26c408d6040686927f95ffcc08ae4676034f6ffafa6bd806"
+  },
+  {
+    "name": "padoka-pdfs-058.zip",
+    "files": 56,
+    "bytes": 74360125,
+    "sha256": "124837ffc0d03f916236f496bf01dd554fdb68a3f9315b0f0e846c7e55de02d7"
+  },
+  {
+    "name": "padoka-pdfs-059.zip",
+    "files": 48,
+    "bytes": 71998671,
+    "sha256": "6c05197e347faa060cf26ad35e2784af6406797064118c2ef205d56087941c06"
+  },
+  {
+    "name": "padoka-pdfs-060.zip",
+    "files": 52,
+    "bytes": 79343448,
+    "sha256": "ea61a6f60f8d7a7828af8a5a92aae231c0c9bea09e774c600c02ddb926b82645"
+  },
+  {
+    "name": "padoka-pdfs-061.zip",
+    "files": 26,
+    "bytes": 32417701,
+    "sha256": "dd3624a03c26fe4e5c324c941d218c2196d2717bff2479057e88bce514749349"
+  }
+]
