@@ -1,0 +1,19 @@
+{
+  "candidate_records": 264,
+  "discovered_post_candidates": 246,
+  "core_sources": 19,
+  "supplementary_sources": 1,
+  "all_coded_sources": 20,
+  "core_units": 57,
+  "supplementary_units": 13,
+  "all_units": 70,
+  "codes": 12,
+  "judgments": 840,
+  "questions": 16,
+  "blank_judgments": 0,
+  "review_tasks": 102,
+  "human_review_completed": 0,
+  "search_requests": 28,
+  "codebook_version": "v0.3",
+  "working_time_window": "暂定工作范围：2025-01-01至2026-09-06"
+}

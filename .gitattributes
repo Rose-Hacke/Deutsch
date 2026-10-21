@@ -1,0 +1,3 @@
+# Preserve archived sources, CSV line endings, and checksum manifests byte for byte.
+/afd_history_coding/** -text
+*.zip -text

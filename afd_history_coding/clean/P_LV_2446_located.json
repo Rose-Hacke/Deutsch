@@ -1,0 +1,80 @@
+{
+  "source_id": "P_LV_2446",
+  "raw_path": "raw/search_WP010_20261021T085802143898Z.json",
+  "raw_sha256": "8bc193844454283212ef755c529652494c30918a22ae5996fd3dcadfc83e24f1",
+  "api_post_id": 2446,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Angriff auf Wahlkampfstand in Magdeburg-Salbke: AfD-Direktkandidat ins Gesicht getreten",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Am Dienstag ist ein Wahlkampfstand der AfD Sachsen-Anhalt in Magdeburg-Salbke von einem Pärchen angegriffen worden. Beide wurden von den Wahlkämpfern festgehalten und der Polizei übergeben.",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Dem Angriff ging nach Darstellung der Beteiligten ein längerer Verlauf voraus. Zunächst trat der Mann aggressiv auf, pöbelte gegen die Anwesenden und beleidigte sie. Aufforderungen, das zu unterlassen, blieben wirkungslos. Nachdem er ein Stellschild des Standes mit dem Fuß zertreten hatte, riefen die Wahlkämpfer die Polizei und kündigten an, ihn bis zu deren Eintreffen festzuhalten. Auch davon ließ er sich nicht beeindrucken, sodass einige der anwesenden AfD-Wahlkämpfer ihn am Boden fixieren mussten.",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Beteiligt daran waren die Direktkandidaten Ronny Kumpf und Christian Mertens. Während Kumpf am Boden und bei der Fixierung des Mannes half, trat ihm dessen Begleiterin von hinten mit Anlauf ins Gesicht. Sie wurde daraufhin ebenfalls dingfest gemacht. Wenige Minuten später traf die Polizei ein und übernahm die beiden Tatverdächtigen. Gegen sie wurde Anzeige erstattet.",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "Dazu erklärt der Landesvorsitzende der AfD Sachsen-Anhalt, Martin Reichardt:",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P006",
+      "text": "„Von den Medien und insbesondere vom öffentlich-rechtlichen Rundfunk weitgehend unbeachtet, ereignete sich damit bereits der dritte Angriff auf AfD-Wahlkämpfer in Sachsen-Anhalt. Nach gelösten Radmuttern und Faustschlägen in das Gesicht eines 13-Jährigen wurden nun neben Sachbeschädigungen am Infostand zwei unserer Direktkandidaten angegriffen.",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P007",
+      "text": "Das zeigt das hohe Gewaltpotenzial, das die vom politischen Establishment aufgehetzten linken Schläger und Kriminellen mittlerweile an den Tag legen. Die Grundlagen für die Brutalisierung dieses Wahlkampfs haben der weisungsgebundene Verfassungsschutz, die etablierten Medien und der politische Gegner gelegt. Ihre wahllosen und haltlosen Zuschreibungen wie ‚Nazi‘ und ‚Rechtsextremist‘ liefern gewaltbereiten Schlägern die scheinbare Legitimation für ihr Handeln. Einen besonders hetzerischen Höhenpunkt lieferte in diesem Zusammenhang erst kürzlich der Spiegel, der unseren Spitzenkandidaten Ulrich Siegmund auf seiner Titelseite zum gefährlichsten Mann Deutschlands erklärte.",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P008",
+      "text": "Wer Vertreter einer gewählten Partei in einseitiger Berichterstattung Tag für Tag und über Jahre hinweg entmenschlicht, der senkt die Hemmschwelle für genau solche Taten und trägt maßgeblich zur Verschlechterung des gesellschaftlichen Klimas bei. Fest steht: Die Angriffe auf unsere demokratische Partei sind schäbig und müssten von allen Parteien, ebenso wie von den Medien, scharf verurteilt werden. Dass dies nicht geschieht, zeigt, dass es in Deutschland offenbar Opfer erster und zweiter Klasse gibt, und legt die Vermutung nahe, dass sich unsere politischen Gegner, aber auch Teile der Medien, darüber womöglich sogar freuen.“",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P009",
+      "text": "Der stellvertretende Landesvorsitzende der AfD Sachsen-Anhalt, Oliver Kirchner, ergänzt:",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P010",
+      "text": "„Je näher der Wahltermin rückt, desto aggressiver werden die, die uns an den Ständen angehen. Wer aus einer politischen Haltung heraus Menschen, Sachen, Wahlkampfstände oder die Leute, die dort stehen, angreift, der ist ein Extremist.",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P011",
+      "text": "Es handelt sich hierbei um eine eindeutig linksextrem motivierte Tat, die sich gezielt gegen die AfD und ihre Wahlkämpfer richtete. Wenn wir in Regierungsverantwortung sind, werden wir den Strafrahmen, den das Gesetz für solche Taten vorsieht, ausschöpfen. Eine Kuscheljustiz wird es mit uns nicht geben, egal ob die Gewalt von rechts, von links oder aus religiöser Richtung kommt.",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P012",
+      "text": "Bei Angriffen und Gewalt gegen Andersdenkende gehört das höchste Strafmaß angesetzt, und diese Leute gehören mit aller Härte des Rechtsstaates zur Verantwortung gezogen.“",
+      "selector": "官方WordPress API post.id=2446 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

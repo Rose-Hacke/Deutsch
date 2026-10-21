@@ -1,0 +1,56 @@
+{
+  "source_id": "P_LV_1132",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 1132,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Kirchensteuerkirchen kritisieren Regierungsprogramm der AfD",
+      "selector": "官方WordPress API post.id=1132 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Die beiden Kirchensteuerkirchen haben das Regierungsprogramm der AfD Sachsen-Anhalt scharf angegriffen. Es sei mit dem „christlichen Menschenbild“ nicht vereinbar, kehre sich von „Freiheitsrechten“ ab, biete „Menschenwürde, Freiheit und Solidarität“ keine Heimat, zeige „Angst vor Veränderung“, verenge Kunst und Kultur durch „eine völkisch-nationalistische Sicht“, und setze „patriarchalische Rollenbilder“ gegen die „Freiheit der individuellen Lebensgestaltung“ etc. etc.",
+      "selector": "官方WordPress API post.id=1132 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Dazu erklärt Dr. Hans-Thomas Tillschneider, stellv. Vorsitzender der AfD Sachsen-Anhalt:",
+      "selector": "官方WordPress API post.id=1132 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "„Die Kritik der Kirchensteuerkirchen an unserem Regierungsprogramm besteht in einem einzigen Schwall von Phrasen, wie sie auch für die Altparteien typisch sind, mehr nicht.",
+      "selector": "官方WordPress API post.id=1132 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "Die Kirchenoberen mögen doch bitte nachweisen, was genau sie unter ‚Menschenwürde‘ oder ‚Freiheitsrechten‘ verstehen und inwiefern unsere Forderungen dem entgegenstehen sollen. Die Phrase ‚Angst vor Veränderung‘ wird von den Altparteien verwendet, um den Widerstand der Bürger gegen ihre Reformen, die in Wahrheit immer Verschlechterungen sind, zu psychologisieren und so zu entkräften. Der Widerstand wird nicht mehr sachlich ernst genommen, sondern als Ausdruck einer Angst abgetan. Es ist sehr enttäuschend, dass Personen, die sich selbst als Geistliche ausgeben, ein solch schäbiges Spiel mitspielen.",
+      "selector": "官方WordPress API post.id=1132 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P006",
+      "text": "Die im Einklang mit dem Missionsbefehl stehende Bejahung von Volk und Nation wird als ‚völkisch-nationalistische Sicht‘ abqualifiziert, was nicht mehr ist als eine Art Igitt-Äußerung. Von jemandem, der ein Theologiestudium hinter sich gebracht hat, sollte man mehr erwarten können als solche intellektuell erbärmlichen Verlautbarungen.",
+      "selector": "官方WordPress API post.id=1132 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P007",
+      "text": "Besonders enttäuschend aber ist, dass die Kirchensteuerkirchen auch auf das wohlfeile Patriarchats-Bashing mit einsteigen. Gerade die christlichen Kirchen sollten erkennen, dass unsere gesellschaftliche Krise wesentlich damit zu tun hat, dass uns die stabilisierende Figur des guten Vaters abhandengekommen ist. Gerade Christen, die Abraham, Issak und Jakob als Patriarchen verehren, sollten zum Patriarchat mehr zu sagen haben. Die alte Kirche war in Patriarchate organisiert, die in den orthodoxen Kirchen, aber auch im Papsttum, weiterleben. Unsere Vorstellung von Gott selbst ist in einem Vater-Sohn-Verhältnis fundiert. Wie anders als mit satanischer Eingebung soll man es sich erklären, dass Kirchenobere abfällig über ‚patriarchalische Rollenbilder‘ sprechen?",
+      "selector": "官方WordPress API post.id=1132 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P008",
+      "text": "Indem die Kirchen die Phraseologie der Altparteien in all ihrer Oberflächlichkeit und Seinsvergessenheit übernehmen, bestärken sie genau jene Haltung, die zum Schwund des Glaubens geführt hat. Der Herr möge ihnen Augen und Herzen öffnen und sie auf den rechten Weg zurückführen!“",
+      "selector": "官方WordPress API post.id=1132 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

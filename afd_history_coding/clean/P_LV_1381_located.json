@@ -1,0 +1,20 @@
+{
+  "source_id": "P_LV_1381",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 1381,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Hier finden Sie die Transparenzerklärung zur o.g. Werbemaßnahme sowie ggf. die Transparenzerklärungen von Anbietern pol. Werbung gemäß der Verordnung (EU) 2024/900 des Europäischen Parlamentes und des Rates vom 13. März 2024 über die Transparenz und das Targeting politischer Werbung.",
+      "selector": "官方WordPress API post.id=1381 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Kampagne: Landtagswahl Sachsen-Anhalt 2026 – AfD Kreisverband Wittenberg",
+      "selector": "官方WordPress API post.id=1381 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

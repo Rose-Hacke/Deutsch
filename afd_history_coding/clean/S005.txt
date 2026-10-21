@@ -1,0 +1,134 @@
+[P001]
+Sie sind hier:
+
+[P002]
+Hier geht's direkt zur Datenbank PADOKA
+
+[P003]
+Was ist PADOKA?
+
+[P004]
+Die parlamentarische Arbeit des Landtags, seiner Abgeordneten und Gremien schlägt sich in einer großen Anzahl von Parlamentsdokumenten nieder. Diese Dokumente werden seit der 1. Wahlperiode in der Dokumentationsdatenbank PADOKA mit einer inhaltlichen Kurzbeschreibung und ihrem Beratungsverlauf nachgewiesen. Sie können gezielt nach einzelnen Dokumenten, Beratungsvorgängen zu unterschiedlichen Themen oder Redebeiträgen der Abgeordneten suchen. Alle Drucksachen und Plenarprotokolle sind online verfügbar.
+
+[P005]
+Die öffentlichen Dokumente sind im Volltext hinterlegt. Bitte beachten Sie, dass einige Ausschussprotokolle und andere nicht öffentliche Dokumente Ihnen nicht als Volltext zur Verfügung stehen. Die Möglichkeit der Einsichtnahme in die Protokolle nicht öffentlicher Ausschusssitzungen richtet sich nach der Geschäftsordnungdes Landtags von Sachsen-Anhalt.
+
+[P006]
+PADOKA
+
+[P007]
+Was ist die Suche in PADOKA?
+
+[P008]
+Die Suche ähnelt den bekannten Internet-Suchmaschinen und ermöglicht Ihnen den einfachen Rechercheeinstieg über die Optionen „Vorgänge“, „Dokumente“, „Gesetze“, „Reden“ und „Abgeordnete.
+
+[P009]
+Suche in Parlamentsdatenbank
+
+[P010]
+Was sind „Aktuelle Themen“?
+
+[P011]
+Mit einem Klick erhalten Sie hier Antworten auf eine Auswahl der aktuellsten „Standardsuchen“. Sie können sich gerne mit uns in Verbindung setzen, wenn Sie eine auf Sie zugeschnittene Suchanfrage benötigen. Diese individuelle Suchanfrage können Sie in Ihrem Browser speichern.
+
+[P012]
+Aktuelle Themen
+
+[P013]
+Was sind die Standardsuchen?
+
+[P014]
+Mit einem Klick erhalten Sie hier Antworten auf häufig gestellte Suchanfragen.
+
+[P015]
+Sie können sich gerne mit uns in Verbindung setzen, wenn Sie eine auf Sie zugeschnittene Suchanfrage benötigen. Diese individuelle Suchanfrage können Sie in Ihrem Browser speichern.
+
+[P016]
+Standardsuchen
+
+[P017]
+Was sind „Weitere Suchoptionen“?
+
+[P018]
+Mit „Weiteren Suchoptionen“ können Sie gezielt in kombinierbaren Datenfeldern recherchieren. Die Möglichkeiten der Auswahl werden Ihnen durch Autocomplete angezeigt oder können in einem Index zu dem jeweiligen Suchfeld ausgewählt werden. Sie können hier sowohl wahlperiodenübergreifend, als auch in einer bestimmten Wahlperiode suchen. Sie können z. B. alle Drucksachen einer Fraktion suchen, die sich mit dem Thema Pflege beschäftigen.
+
+[P019]
+Weitere Suchoptionen
+
+[P020]
+Was ist die Dokumentsuche?
+
+[P021]
+Hier können Sie gezielt nach einem Dokument suchen, dessen Dokumentnummer Ihnen bekannt ist. Die Dokumentart und die Wahlperiodekönnen ausgewählt werden.
+
+[P022]
+Dokumentensuche
+
+[P023]
+Wer ist wer im Parlament?
+
+[P024]
+Hier können Sie gezielt nach Informationen über alle Abgeordneten des Landtags von Sachsen-Anhalt suchen. Zusätzlich enthalten sind Angaben über Regierungsmitglieder, die nicht dem Landtag angehören bzw. angehörten.
+
+[P025]
+Abgeordnetendatenbank
+
+[P026]
+Wie finden Sie Redebeiträge im Parlament?
+
+[P027]
+Hier können Sie gezielt nach in Plenarsitzungen gehaltenen Redebeiträgen von Abgeordneten, Regierungsmitgliedern und Gästen suchen.
+
+[P028]
+Suchbeispiel:
+
+[P029]
+Redebeiträge verschiedener Abgeordneter zum Thema Digitalisierung
+
+[P030]
+Reden
+
+[P031]
+Welche Gesetze werden beraten?
+
+[P032]
+Hier können Sie gezielt nach Gesetzentwürfen und verabschiedeten Gesetzen suchen.
+
+[P033]
+Suchbeispiel: Parlamentsreform
+
+[P034]
+Gesetze
+
+[P035]
+Wie nutzen Sie den Infodienst?
+
+[P036]
+Unser Infodienst informiert Sie per E-Mail regelmäßig über neue Dokumente und den tagaktuellen Stand einer Beratungsinitiative. Registrieren Sie sich mit Ihrer E-Mail-Adresse und bleiben Sie mit unserem Abo-Service aktuell. Zusätzlich ermöglichen Funktionen wie Notizzettel, Favoriten, Merklisten und Leselisten ein individuelles Arbeiten.
+
+[P037]
+PADOKA Infodienst
+
+[P038]
+Was ist der Parlamentsspiegel?
+
+[P039]
+Der Parlamentsspiegel ist das gemeinsame Informationssystem der Landesparlamente der Bundesrepublik Deutschland. Das integrierte System Parlamentsspiegel.de stellt umfangreiche Suchfunktionalitäten bereit und ermöglicht den direkten Zugriff auf Dokumente und Beratungsvorgänge aller 16 Landtage.
+
+[P040]
+Hier finden Sie Dokumente zu allen gesetzgeberischen Initiativen mit ihrer parlamentarischen Behandlung, zu Regierungserklärungen und aktuellen Debatten, zu Anträgen, zu Anfragen an die Landesregierungen, zu Untersuchungsausschüssen und Enquete-Kommissionen und vieles andere mehr.
+
+[P041]
+Parlamentsspiegel
+
+[P042]
+Weiterführende Informationen
+
+[P043]
+Flyer „Kurzinfo“ (PDF; 308.01 KB)
+
+[P044]
+Antrag auf Einsichtnahme (PDF; 54.87 KB)
+
+[P045]
+FAQs (PDF; 592.24 KB)

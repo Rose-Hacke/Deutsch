@@ -1,0 +1,23 @@
+[
+  {
+    "source_id": "S002",
+    "pdf_page_index": 56,
+    "image_path": "checks/S002_PDF56.png",
+    "ai_visual_check": "已在本次任务调用图像查看工具核对；非人类复核",
+    "note": "核对历史人物及贡献段、文字层断词"
+  },
+  {
+    "source_id": "S002",
+    "pdf_page_index": 58,
+    "image_path": "checks/S002_PDF58.png",
+    "ai_visual_check": "已在本次任务调用图像查看工具核对；非人类复核",
+    "note": "确认Revolution未注明年份；保留间接引语及优越性措辞"
+  },
+  {
+    "source_id": "S003",
+    "pdf_page_index": 4,
+    "image_path": "checks/S003_PDF4.png",
+    "ai_visual_check": "已在本次任务调用图像查看工具核对；非人类复核",
+    "note": "核对原文beigetraten拼写、理由段和签名"
+  }
+]

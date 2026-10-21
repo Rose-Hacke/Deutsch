@@ -1,0 +1,50 @@
+{
+  "source_id": "P_LV_2855",
+  "raw_path": "raw/search_WP010_20261021T085802143898Z.json",
+  "raw_sha256": "8bc193844454283212ef755c529652494c30918a22ae5996fd3dcadfc83e24f1",
+  "api_post_id": 2855,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Vier Tage vor der Landtagswahl erreicht die AfD in Sachsen-Anhalt in einer aktuellen INSA-Umfrage 43 Prozent und damit ihren bislang höchsten gemessenen Wert. Die CDU kommt auf 22 Prozent. Der Abstand zwischen beiden Parteien beträgt 21 Prozentpunkte.",
+      "selector": "官方WordPress API post.id=2855 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Erstmals liegt AfD-Spitzenkandidat Ulrich Siegmund auch bei einer hypothetischen Direktwahl des Ministerpräsidenten vor Sven Schulze. 39 Prozent der Befragten würden für Siegmund stimmen, 28 Prozent für Schulze. Bei der Frage, wer nach der Wahl tatsächlich Ministerpräsident sein wird, rechnen 42 Prozent mit Siegmund und 25 Prozent mit Schulze.",
+      "selector": "官方WordPress API post.id=2855 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Das Wählerpotenzial der AfD wird in der Erhebung mit insgesamt 48 Prozent angegeben. Neben den 43 Prozent sicheren Stimmen können sich weitere 5 Prozent der Befragten vorstellen, die AfD zu wählen.",
+      "selector": "官方WordPress API post.id=2855 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Dazu erklärt der Landesvorsitzende der AfD Sachsen-Anhalt, Martin Reichardt:",
+      "selector": "官方WordPress API post.id=2855 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "„43 Prozent – das ist der höchste Wert, der jemals für uns gemessen wurde. Und erstmals liegt Ulrich Siegmund jetzt auch bei der Direktwahl des Ministerpräsidenten vor Sven Schulze. Damit ist auch Schulzes letzter persönlicher Vorsprung weg.",
+      "selector": "官方WordPress API post.id=2855 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P006",
+      "text": "Diese Zahlen zeigen, wie sehr sich die politische Stimmung in Sachsen-Anhalt verändert hat. Aber für uns ist das kein Grund, uns zurückzulehnen. Im Gegenteil. Umfragen sind keine Wahlergebnisse. Noch ist nichts entschieden.",
+      "selector": "官方WordPress API post.id=2855 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P007",
+      "text": "Jetzt gilt es, in den letzten Tagen noch einmal alle Kräfte zu mobilisieren. Sprecht mit euren Freunden, euren Familien und euren Nachbarn und nehmt jeden mit zur Wahl. Wer den politischen Wechsel will, muss am 6. September mit beiden Stimmen AfD wählen.“",
+      "selector": "官方WordPress API post.id=2855 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

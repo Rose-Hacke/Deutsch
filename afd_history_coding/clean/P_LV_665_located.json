@@ -1,0 +1,20 @@
+{
+  "source_id": "P_LV_665",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 665,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "An diesem Wochenende wählte die CDU ihre Landesliste zur Landtagswahl 2026. Dabei wurde Sven Schulze als Spitzenkandidat seiner Partei nominiert. Die Wahl Schulzes kommentiert Martin Reichardt , Landesvorsitzender der AfD Sachsen-Anhalt, welche laut aktuellen Umfragen mit großem Abstand die stärkste politische Kraft in Sachsen-Anhalt ist:",
+      "selector": "官方WordPress API post.id=665 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "„Bei Herrn Schulze handelt es sich um nichts weiter als einen Schmalspur-Merz. Einen Kandidaten, der im Wahlkampf zwar konservative Töne spielt, aufgrund der ihm durch die infantile CDU-Brandmauer zur Verfügung stehenden linken Bündnispartner jedoch nichts wird umsetzen können. Daher gilt: Mit Schulze nichts Neues! Und darum gilt auch: Es braucht eine starke AfD, die allein regieren kann.",
+      "selector": "官方WordPress API post.id=665 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

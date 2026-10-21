@@ -1,0 +1,5 @@
+item_id,filename_or_item,material_nature,readable,is_primary_corpus,missing_or_limitation
+I001,inputs/task_request.txt（原上传文件名：已粘贴的文本.txt）,用户任务说明，唯一已提供的研究文件；本地副本不另算一份材料,是，全文读取,否,包含网址和方法文献线索，但没有德语原文
+I002,论文提纲（未提供）,预期研究设计文件,不存在于本任务可访问文件,否,不能访问其他对话；按任务说明使用暂定工作范围
+I003,既有德语语料／既有编码表（未提供）,预期试编码输入,不存在于本任务可访问文件,尚无,没有可先行试编码的现有原文
+I004,/workspace/Deutsch（研究开始前）,已有Git仓库：main含初始空提交,是；研究开始前无已跟踪项目文件,否,未发现研究提纲、参考文献或原始材料

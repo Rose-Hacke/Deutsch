@@ -1,0 +1,43 @@
+{
+  "source_id": "S001",
+  "raw_path": "raw/S001_20261021T084617017689Z_642340e64b32.html",
+  "raw_sha256": "642340e64b326c96d445604e036d120241e93b4b9a221cea29f7cdd1744a80f6",
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Sie sehen gerade einen Platzhalterinhalt von YouTube. Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P002",
+      "text": "Programmatik",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P003",
+      "text": "Sie sehen gerade einen Platzhalterinhalt von Vimeo. Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P004",
+      "text": "Sie sehen gerade einen Platzhalterinhalt von YouTube. Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P005",
+      "text": "Sie müssen den Inhalt von reCAPTCHA laden, um das Formular abzuschicken. Bitte beachten Sie, dass dabei Daten mit Drittanbietern ausgetauscht werden.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P006",
+      "text": "Sie müssen den Inhalt von reCAPTCHA laden, um das Formular abzuschicken. Bitte beachten Sie, dass dabei Daten mit Drittanbietern ausgetauscht werden.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    }
+  ]
+}

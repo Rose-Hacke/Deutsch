@@ -1,0 +1,38 @@
+{
+  "source_id": "P_LV_1224",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 1224,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Nachdem Ex-Ministerpräsident Reiner Haseloff (CDU) faktenwidrig behauptet hatte, nach einer AfD-Regierungsübernahme würde ein in Sachsen-Anhalt abgeleistetes Abitur nicht mehr bundesweit anerkannt, legt nun Ministerpräsident Sven Schulze (CDU) nach und behauptet nicht weniger faktenwidrig, unter einer AfD-Regierung drohten Schulschließungen.",
+      "selector": "官方WordPress API post.id=1224 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Dazu erklärt Dr. Hans-Thomas Tillschneider, stellv. Vorsitzender der AfD Sachsen-Anhalt und Bildungspolitiker:",
+      "selector": "官方WordPress API post.id=1224 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "„Die CDU führt seit mehr als 10 Jahren das Bildungsministerium und verantwortet alle seitdem durchgedrückten Schulschließungen, während die AfD sich mit aller Kraft dagegen gewehrt hat. Wir haben im Landtag mehrfach versucht, das Schulgesetz und die Verordnung zur Schulentwicklungsplanung so ändern zu lassen, dass keine Schule mehr geschlossen werden muss; die CDU hat immer dagegen gestimmt. Außerdem haben wir wie etwa im Fall Siersleben vor Ort gegen Schulschließungen gekämpft.",
+      "selector": "官方WordPress API post.id=1224 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Wenn die Schulschließungs-Partei CDU nun davor warnt, mit einer AfD-Regierung stünden Schulschließungen bevor, ist das an Absurdität und Dreistigkeit nicht mehr zu überbieten. Merz hat nach der Wahl seine Wahlversprechen gebrochen. Die CDU Sachsen-Anhalt verbreitet in ihrer Verzweiflung vor der Wahl glatte Falschbehauptungen über die AfD.",
+      "selector": "官方WordPress API post.id=1224 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "Mit der AfD würde keine einzige Schule mehr geschlossen werden. Anders als die CDU wollen wir keine Riesenschulen schaffen und den ländlichen Raum weiter veröden lassen. Forderung 25 im Kapitel ‚Schulbildung‘ unseres Regierungsprogramms lautet: ‚Schulen erhalten!‘ Wir erklären, wie genau wir auch sehr kleine Schulen erhalten wollen. Außerdem zielt unsere Familienpolitik darauf, dass wieder mehr Kinder geboren werden. Die Behauptung der CDU entbehrt jeder Grundlage. Egal ob Merz, Haseloff oder Schulze: Die CDU ist die Partei der Lüge!“",
+      "selector": "官方WordPress API post.id=1224 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

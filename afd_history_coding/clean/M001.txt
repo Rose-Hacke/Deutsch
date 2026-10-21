@@ -1,0 +1,104 @@
+[P001]
+Qualitative Content Analysis: Demarcation, Varieties, Developments
+
+[P002]
+Authors
+
+[P003]
+Philipp Mayring Universität Klagenfurt
+
+[P004]
+DOI:
+
+[P005]
+Keywords:
+
+[P006]
+Abstract
+
+[P007]
+More than 35 years ago I developed the basic procedures of a qualitative content analysis which are still widely used in qualitative oriented social science text analysis. I want to give an overview of the reception and recent developments of this approach.
+
+[P008]
+Three topics are elaborated in this article: First the theoretical background of qualitative content analysis is summarized and compared to other approaches of social science text analysis. This includes a differentiation of quantitative content analysis. In quantitative content analysis the process of categorization is running automatically, following a fixed algorithm, whereas in qualitative content analysis the assignment of categories to text passages always remains an act of interpretation. But this process strictly follows rules of interpretation. Second, the reception of my conception of qualitative content analysis is retraced and some misunderstandings cleared up. Additionally, the approach of qualitative content analysis proposed by Margrit SCHREIER and Udo KUCKARTZ is compared to my concept. This is demonstrated with an example. Third, recent developments are reviewed and free available software especially developed for qualitative content analysis (QCAmap) is introduced.
+
+[P009]
+Downloads
+
+[P010]
+Author Biography
+
+[P011]
+Philipp Mayring, Universität Klagenfurt
+
+[P012]
+Downloads
+
+[P013]
+HTML
+
+[P014]
+PDF
+
+[P015]
+HTML (Deutsch)
+
+[P016]
+PDF (Deutsch)
+
+[P017]
+Published
+
+[P018]
+How to Cite
+
+[P019]
+ACM
+
+[P020]
+ACS
+
+[P021]
+APA
+
+[P022]
+ABNT
+
+[P023]
+Chicago
+
+[P024]
+Harvard
+
+[P025]
+IEEE
+
+[P026]
+MLA
+
+[P027]
+Turabian
+
+[P028]
+Vancouver
+
+[P029]
+Endnote/Zotero/Mendeley (RIS)
+
+[P030]
+BibTeX
+
+[P031]
+Issue
+
+[P032]
+Section
+
+[P033]
+License
+
+[P034]
+Copyright (c) 2019 Philipp Mayring
+
+[P035]
+This work is licensed under a Creative Commons Attribution 4.0 International License.

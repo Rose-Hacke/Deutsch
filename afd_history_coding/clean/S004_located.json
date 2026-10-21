@@ -1,0 +1,745 @@
+{
+  "source_id": "S004",
+  "raw_path": "raw/S004_20261021T084617019539Z_71d280b6d268.html",
+  "raw_sha256": "71d280b6d268d6ee39f21ddd1ab11b6e290c8b7dbe725463c4689fa53428a78b",
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Tagesordnungspunkt 7",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P002",
+      "text": "Beratung",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P003",
+      "text": "#deutschdenken - Ein neues Markenzeichen für Sachsen-Anhalt",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P004",
+      "text": "Antrag Fraktion AfD - Drs. 8/5478",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P005",
+      "text": "(Beifall bei der AfD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P006",
+      "text": "Es ist eine Fünfminutendebatte verabredet worden. Der Antrag gehört zum Prioritätenblock. Einbringen wird diesen Antrag der Abg. Herr Dr. Tillschneider.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P007",
+      "text": "Dr. Hans-Thomas Tillschneider (AfD):",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P008",
+      "text": "Vielen Dank, Frau Präsidentin. - Sehr geehrte Damen und Herren! Ende letzten Jahres haben wir die auf das Bauhauserbe fokussierte Imagekampagne der Landesregierung „#moderndenken“ kritisiert.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P009",
+      "text": "Heute wollen wir unsere Kritik konstruktiv abrunden und, nachdem wir klargemacht haben, was wir nicht wollen, ausführlich vorstellen, was wir wollen, woran wir das Image des Landes Sachsen-Anhalt festmachen und was wir - gesetzt den Fall, wir regieren das Land - an die Stelle der Kampagne „#moderndenken“ setzen würden.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P010",
+      "text": "Die Kampagne „#moderndenken“ beruht auf einem verflachten Modernitätsverständnis im Sinne einer geistig armen, spezifisch linken Progressivitätsideologie: vorwärts immer, rückwärts nimmer! Was aber ließe sich diesem selbstzweckhaften Fortschrittlichkeitsdenken entgegenhalten? Da die Modernität des Bauhauses auf die Aufhebung der nationalen Besonderheiten zielt und die Bindung des Menschen an den Boden einer Nationalkultur im Sinne einer totalen Globalisierung aufzuheben trachtet; da also diese Art von Modernität mit einem starken Universalitätsanspruch einhergeht, scheint das Festhalten an deutscher Identität und Partikularität als eigentliche Gegenthese zur Kampagne „#moderndenken“ der Landesregierung deshalb „#deutschdenken“ zu sein.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P011",
+      "text": "„Deutsch denken“ heißt zunächst, auf deutsche Weise denken, also in deutschen Begriffen denken in dem Sinne, wie die Sprache das Denken prägt, also auf Deutsch denken. Sodann aber heißt „Deutsch denken“ auch, die politischen Verhältnisse aus deutscher Sicht zu durchdenken, die deutsche Sache abzuwägen, das deutsche Interesse zu berücksichtigen und bei jeder Entscheidung an Deutschland zu denken. Dieses „Deutsch denken“, das „an Deutschland denken“ und das „auf Deutsch denken“ verbindet und soll unser Landesimage sein.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P012",
+      "text": "Wenn jetzt jemand einen Sachsen-Anhalt-Bezug vermissen sollte, so irrt er gründlich. Gerade im Deutschlandbezug liegt nämlich zugleich der stärkstmögliche Sachsen-Anhalt-Bezug und umgekehrt.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P013",
+      "text": "Betrachtet man die Geschichte des Gebietes, das heute Sachsen-Anhalt ausmacht, stellt man schnell fest, dass sich hier Motiv und Traditionsstränge unserer Nationalgeschichte in einer Weise verdichten, die unserem unscheinbaren und auf den ersten Blick mitunter konstruiert wirkenden Bindestrich-Bundesland einen ausgezeichneten Bezug zu Deutschland verleihen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P014",
+      "text": "Aus einer Zeit, aus der sonst nichts überliefert ist, sprechen uns die Merseburger Zaubersprüche an; einem heutigen Deutschen kaum noch verständlich, aber eben auch nicht ganz unverständlich. Die „Schwester“ erscheint als „Suister“, das Verb „fahren“ als „fuorun“, der Wald als „Holz“, als Gehölz, wie wir heute noch sagen würden, und den Vers „ben zibena“ dürften die meisten auch heute verstehen: „Bein zu Bein“ oder, in einer mittlerweile veralteten, aber immer noch brauchbaren Form: „Bein zu Beine“; ein urvertrauter Klang aus den Tiefen unserer Geschichte.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P015",
+      "text": "Die in der Merseburger Dombibliothek 1842 aufgefundene Zaubersprüche markieren als die ältesten Dokumente des Althochdeutschen den Beginn der deutschen Sprachgeschichte. Die Merseburger Zaubersprüche sollen deshalb im Jahr 2026 in das Weltdokumentenerbe der UNESCO eingetragen werden. Dieses Weltdokumentenerbe besteht allerdings schon seit dem Jahr 1992. Ich frage mich: Weshalb mussten mehr als 30 Jahre vergehen, bis jemand auf die Idee kam, man könnte auch die Merseburger Zaubersprüche aufnehmen?",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P016",
+      "text": "Die Merseburger Zaubersprüche hätten wie selbstverständlich schon bei der Gründung des Weltdokumentenerbes mit dabei sein müssen. Dass der deutsche UNESCO-Vertreter damals nicht aufgestanden ist und das gefordert hat,",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P017",
+      "text": "(Zuruf von Sebastian Striegel, GRÜNE)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P018",
+      "text": "kann nur mit einem Mangel an Bildung und einem Mangel an nationalem Selbstbewusstsein erklärt werden. Beidem soll unsere Kampagne abhelfen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P019",
+      "text": "(Beifall bei der AfD - Dr. Gunnar Schellenberger, CDU: Manche Dinge brauchen Zeit!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P020",
+      "text": "In Sachsen-Anhalt aber liegen nicht nur die Anfänge unserer Sprachgeschichte, hier beginnt auch die politische Geschichte unseres Landes. Im Quedlinburger Dom",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P021",
+      "text": "(Susan Sziborra-Seidlitz, GRÜNE: Langes „e“: „Queedlinburg“!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P022",
+      "text": "wurde Heinrich I., König des Ostfrankenreiches, aus dem unser Deutschland hervorging, beerdigt. Im Magdeburger Dom liegt sein Sohn Otto I., der als Begründer des ersten Deutschen Reiches gilt. Gestorben sind beide in Memleben im südlichen Sachsen-Anhalt. Heinrich I. wurde auch in Memleben geboren, Otto I. wahrscheinlich in Wallhausen im heutigen Landkreis Mansfeld-Südharz. Kein Bundesland weist eine solche Dichte an Kaiserpfalzen auf wie Sachsen-Anhalt, sodass man mit Fug und Recht sagen kann, dass hier das Zentrum des mittelalterlichen Reiches lag. - Sie müssen gar nicht den Kopf schütteln, Herr Tullner, diese Feststellung habe ich nämlich aus einem der Bücher Ihres Vaters.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P023",
+      "text": "(Zustimmung bei der AfD - Marco Tullner, CDU: Abgeschrieben!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P024",
+      "text": "Wenn man dann sieht, wie angesichts dieser Bedeutung das Grab Ottos I. im Magdeburger Dom förmlich versteckt ist, wie sich kaum jemand dorthin verirrt und wie dort nichts auf seine nationale Bedeutung hinweist, dann erkennt man: Eine Kampagne „#deutschdenken“ ist längst überfällig.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P025",
+      "text": "(Zustimmung bei der AfD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P026",
+      "text": "Nicht nur die Gründerfiguren des alten Deutschen Reiches, das 1806 aufgelöst wurde, kommen aus Sachsen-Anhalt. Auch der Begründer des Reiches von 1871, Otto von Bismarck, wurde 1815 bei Stendal in Sachsen-Anhalt geboren. Die Altmark gilt als die Wiege Preußens und das Vorgängergebilde Sachsen-Anhalts war die 1815 geschaffene preußische Provinz Sachsen. Die Geschichte Sachsen-Anhalts ist so aufs Engste mit der Geschichte Preußens verbunden, woran der AfD-Kreisverband Saalekreis in jedem Spätsommer mit seinem Preußenfest erinnert.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P027",
+      "text": "(Zustimmung bei der AfD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P028",
+      "text": "Aber nicht nur die deutsche politische Geschichte, auch die Geschichte der deutschen Philosophie hat aus Sachsen-Anhalt heraus wesentliche Impulse empfangen. Nachdem der deutsche Idealismus der Welt gezeigt hatte, was deutsches Denken erreichen kann, hat der 1844 in Röcken im heutigen Burgenlandkreis geborene Friedrich Nietzsche eine Variante der deutschen Philosophie geschaffen, der man das Prädikat „modern“ durchaus zuerkennen könnte; freilich nicht im Sinne einer subjektivistisch-linken Progressivität, sondern in dem Sinne, dass Nietzsche die abgestandenen Abstraktionen der Aufklärung und die lebensfernen Sondereinstellungen einer irreführenden Wissenschaft überwindet, um das Denken wieder beim Leben selbst ansetzen zu lassen. Nietzsche hat übrigens die heute noch bestehende Landesschule Pforta besucht.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P029",
+      "text": "(Sebastian Striegel, GRÜNE: Eine „Schule ohne Rassismus“!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P030",
+      "text": "Der einzige Hinweis auf der Homepage dieser Schule ist eine Eintragung, neben 25 weiteren Eintragungen, in der Liste bedeutender Schüler und es gibt eine unscheinbare Gedenktafel an einer Wand des Schulgebäudes. Dort kann und muss mehr getan werden.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P031",
+      "text": "Nicht nur die Philosophie, auch Glaube und Religion der Deutschen sind im Wesentlichen auf dem Gebiet des heutigen Sachsen-Anhalt geprägt worden. Der Eislebener Martin Luther hat mit seinem Widerstand gegen die römisch-katholische Kirche und mit einer Bibelübersetzung ein spezifisch deutsches Christentum geschaffen,",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P032",
+      "text": "(Olaf Meister, GRÜNE, lacht - Juliane Kleemann, SPD: Nein! Christentum hat mit Nationalität nichts zu tun, Herr Tillschneider! Meine Herren, so viel Inkompetenz ist wirklich beeindruckend!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P033",
+      "text": "das wir als Renaissance bezeichnen, weil es vor der Latinisierung schon ein sehr frühes volkssprachliches deutsches Christentum gegeben haben muss,",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P034",
+      "text": "(Zuruf von Sebastian Striegel, GRÜNE)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P035",
+      "text": "wovon nicht zuletzt die gotische Wulfila-Bibel aus dem 4. Jahrhundert Zeugnis ablegt. Diese alte deutsche Orthodoxie wurde von Martin Luther wiederbelebt.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P036",
+      "text": "So ähnlich wie Martin Luther gegen Rom ein deutsches Christentum festgehalten hat, so ähnlich hat Eike von Repgow aus Reppichau im heutigen Landkreis Anhalt-Bitterfeld mit dem Sachsenspiegel erstmals deutsches Recht kodifiziert und damit einen Kontrapunkt gegen das römische Recht gesetzt. Schließlich ist da das Goethe-Theater in Bad Lauchstädt als Ableger der Weimarer Klassik, wodurch auch unser Bundesland Anteile an dieser Hochphase der deutschen Nationalliteratur hat.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P037",
+      "text": "Da ist sicher noch mehr, das nur auf seine Entdeckung wartet. Unsere Themenliste versteht sich nicht als eine abschließende Liste, sondern soll offen für Ergänzungen bleiben. Wenn man es wagt, all das zusammen zu sehen, dann erscheint unser Bundesland als ein Land, wo abseits der großen Szenen unserer jüngeren und jüngsten Geschichte im Stillen und in etwas fernerer Vergangenheit die Fundamente dessen gelegt wurden, was es bedeutet, deutsch zu sein. Man könnte davon sprechen, dass in Sachsen-Anhalt das geheime Deutschland zu finden sei. Unsere Kampagne „#deutschdenken“ will dazu einladen, sich in Sachsen-Anhalt auf die Suche nach diesem geheimen Deutschland zu machen. Denn in Sachsen-Anhalt steckt mehr Deutschland, als es den Anschein hat.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P038",
+      "text": "Ein neues Tourismuskonzept soll die Orte der „#deutschdenken“-Kampagne im Sinne eines populären Kulturtourismus für das ganze Volk besser herausstellen und vermarkten.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P039",
+      "text": "(Unruhe)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P040",
+      "text": "Vizepräsidentin Anne-Marie Keding:",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P041",
+      "text": "Herr Dr. Tillschneider, einen Augenblick bitte. - Es wäre gut, wenn es im Plenum nicht ganz so laut wäre, sodass man seine",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P042",
+      "text": "(Unruhe - Dr. Andreas Schmidt, SPD: Dieser Unsinn ist ja nicht auszuhalten! - Weitere Zurufe)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P043",
+      "text": "- Herr Dr. Schmidt, es wäre gut, wenn es im Plenum doch so wäre, dass diejenigen, die zuhören wollen, auch zuhören können. - Bitte, Herr Dr. Tillschneider.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P044",
+      "text": "Dr. Hans-Thomas Tillschneider (AfD):",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P045",
+      "text": "Identitätserfahrung, Bildung und Erholung sollen sich zu einem touristischen Erlebnis ergänzen, das nirgendwo anders zu haben ist. Da viele Momente, in denen deutsche Identität in Sachsen-Anhalt geprägt wurde, im Mittelalter liegen, soll eine „Straße des Deutschen Reiches“ mehrere Themen der Kampagne verbinden. Die Themen Merseburger Zaubersprüche, Luther und Goethe-Theater wiederum verbindet das Thema Sprache, das mit den Festspielen der deutschen Sprache heute schon in Bad Lauchstädt aufgegriffen wird. Allerdings wollen wir diese Festspiele von einem auf Bad Lauchstädt beschränkten Ereignis zu einem veritablen Landesfestival mit Standorten in Merseburg, Eisleben, Wittenberg und Bad Lauchstädt aufwerten, das sprach- und kulturbegeisterte Patrioten aus ganz Deutschland anziehen wird.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P046",
+      "text": "Wenn es uns gelingen sollte, ab September 2026 mit einer AfD-Landesregierung diese „#deutschdenken“-Kampagne umzusetzen, dann werden wir einen ganz neuartigen Volksbildungstourismus schaffen und Sachsen-Anhalt zum Sehnsuchtsort aller deutschen Patrioten machen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P047",
+      "text": "(Zustimmung bei der AfD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P048",
+      "text": "Dann müssen wir keine Tourismus-BWLer beschäftigen, die hoffen, mit ihren schalen Konzepten mühsam für ein paar Übernachtungen mehr pro Jahr zu sorgen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P049",
+      "text": "Die Kampagne „#deutschdenken“ soll aber mehr bieten als nur Touristisches. Die Einbeziehung der Schulen versteht sich von selbst. Schulen, die an Geburts- oder Wirkungsstätten von historischen Persönlichkeiten im Zusammenhang mit Themen der Kampagne liegen, sollen sich im Unterricht damit auseinandersetzen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P050",
+      "text": "Wir wollen in Bezug zu den Themen der Kampagne Historiker-, Kunst-, Philosophie- und Literaturpreise für Leistungen ausloben, die auf ihrem Gebiet einen wertvollen Beitrag zu einem spezifisch deutschen Geistesleben erkennen lassen. Es ist beschämend, dass das Land den ab 1996 vergebenen Friedrich-Nietzsche-Preis 2014 eingestellt hat. Wir werden im Rahmen unserer Kampagne diesen Friedrich-Nietzsche-Preis als Preis für Leistungen auf dem Gebiet der deutschen Philosophie wieder einführen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P051",
+      "text": "Jedes Thema der Kampagne soll mit Kongressen, Gedenktagen und Festveranstaltungen intensiv behandelt werden. Eine deutschland- und europaweit zu zeigende Landesausstellung „Sachsen-Anhalt - Wo Deutschland begann“ soll auf unser Bundesland aufmerksam machen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P052",
+      "text": "Die häufige Frage „Was ist denn überhaupt deutsch?“ gehört zu den dümmsten und schwersten Fragen zugleich.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P053",
+      "text": "(Hendrik Lange, Die Linke: Aha!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P054",
+      "text": "Dumm ist sie, wenn sie schon davon ausgeht, dass es keine Antwort gibt, wenn sie also gar kein Interesse an Erkenntnis hat, sondern einen nur überrumpeln und dazu verführen will, Beispiele für deutsche Kultur herzuzählen, um dann die Jämmerlichkeit oder Kuriosität der Beispiele von Bratwurst bis Lederhose zu verspotten. Die schwerste Frage aber ist sie, wenn sie ernst gemeint ist, also darauf aus ist zu erfahren, worin das deutsche Sein besteht.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P055",
+      "text": "Es gibt sehr viel, was deutsch ist. Es gibt eine deutsche Malerei, eine deutsche Architektur, eine deutsche Kochkunst oder deutsche Sitten. Die Frage, was denn deutsch sei, scheint sich in dieser Mannigfaltigkeit zu verlieren. Diese Mannigfaltigkeit aber ist die Mannigfaltigkeit einer ganzen Welt. Wenn wir auf die Frage, was diese unsere Welt zu einer deutschen Welt macht, antworten, indem wir einzelne Dinge aus diesem Inventar herzeigen, dann verzerren wir immer die Verhältnisse; denn das, was wir dann aus dieser Überfülle auswählen - was auch immer wir auswählen , kann doch niemals pars pro toto das Ganze dieser Welt erfassen. Die Frage ist doch nicht, was in unserer deutschen Welt angetroffen wurde und angetroffen werden kann, sondern eher, was diese unsere Welt mit ihrem ganzen Inventar zu einer deutschen Welt macht. Eben darauf hat unsere Kampagne eine Antwort. Frage: Was ist deutsch? - Antwort: deutsch denken.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P056",
+      "text": "(Zustimmung bei der AfD - Zuruf von der AfD: Bravo!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P057",
+      "text": "Vizepräsidentin Anne-Marie Keding:",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P058",
+      "text": "Herr Dr. Tillschneider, sind Sie fertig? - Sie sind fertig. Es gibt drei Interventionen, von Frau Sziborra-Seidlitz, Herrn Dr. Grube und Herrn Dr. Schmidt, und zwar in dieser Reihenfolge. - Frau Sziborra-Seidlitz, bitte.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P059",
+      "text": "Susan Sziborra-Seidlitz (GRÜNE):",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P060",
+      "text": "Herr Tillschneider, wenn Sie hier glaubhaft darstellen wollen, dass Sie irgendetwas für Sachsen-Anhalt empfinden, dann sollten Sie wissen und lernen, dass es „Queedlinburg“ heißt mit langem „e“ und nicht „Queddlinburg“.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P061",
+      "text": "(Zuruf von der AfD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P062",
+      "text": "Dahin möchte ich Sie sehr gern einladen, weil Sie dann in Ihrer Auseinandersetzung mit den Ottonen, die Sie ja hier einfordern, dort eines sehr deutlich lernen können, nämlich den Wert von Zuwanderung und den Wert von Vielfalt.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P063",
+      "text": "(Beifall bei den GRÜNEN - Zuruf von der AfD: Oh!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P064",
+      "text": "Sie werden nämlich in Quedlinburg in der Auseinandersetzung mit den deutschen Kaisern der großen und großartigen Theophanu begegnen, einer Prinzessin, die aus dem Morgenland nach Quedlinburg kam,",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P065",
+      "text": "(Felix Zietmann, AfD: Das war eine Griechin aus Byzanz, nicht aus dem Morgenland!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P066",
+      "text": "um dort die Familie der Ottonen zu vervollständigen und zu bereichern. Sie ist im Übrigen eine von vielen starken Frauen und damit sind wir bei einem zweiten wichtigen Thema, dem wir in Sachsen-Anhalt in der Geschichte begegnen können und dessen sehr wunderbar mit den Frauenorten in Quedlinburg gedacht wird.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P067",
+      "text": "Vielleicht sollten Sie sich, bevor Sie hier solche Dinge vorschlagen, einmal damit auseinandersetzen, was wirklich die Stärken unseres Landes sind.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P068",
+      "text": "(Zustimmung bei den GRÜNEN und bei der Linken - Zuruf von Jan Scharfenort, AfD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P069",
+      "text": "Vizepräsidentin Anne-Marie Keding:",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P070",
+      "text": "Herr Dr. Tillschneider, wollen Sie reagieren oder wollen wir erst sammeln?",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P071",
+      "text": "Dr. Hans-Thomas Tillschneider (AfD):",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P072",
+      "text": "Ich würde sagen, wie man „Queddlinburg“ oder „Queedlinburg“ ausspricht, das ist jedem selbst überlassen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P073",
+      "text": "(Zurufe von der Linken, von der SPD und von den GRÜNEN - Olaf Meister, GRÜNE: Aber „Forscher*innen“ nicht!? - Weitere Zurufe)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P074",
+      "text": "Ich habe von Mitgliedern des Hauses aus dem Harz soeben zugerufen bekommen, dass man es auch anders sagen kann. Auf die Korinthenkackerei will ich gar nicht weiter eingehen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P075",
+      "text": "(Olaf Meister, GRÜNE: „Maagdeburg“!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P076",
+      "text": "Vizepräsidentin Anne-Marie Keding:",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P077",
+      "text": "Herr Dr. Tillschneider, ich bitte, keine solchen Worte am Rednerpult zu äußern.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P078",
+      "text": "Dr. Hans-Thomas Tillschneider (AfD):",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P079",
+      "text": "Zum Kern Ihrer Intervention. Sie haben ins Feld geführt, dass ich die Vielfalt übersehen hätte. - Nein, unser Antrag ist doch vielfältig.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P080",
+      "text": "(Sebastian Striegel, GRÜNE: Nein, der ist nur deutsch!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P081",
+      "text": "Die Vielfalt des deutschen Wesens wird sehr sichtbar",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P082",
+      "text": "(Zuruf von Susan Sziborra-Seidlitz, GRÜNE)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P083",
+      "text": "und eine Zuwanderung aus Griechenland widerspricht doch gar nicht dem deutschen Wesen. Ich denke, ich habe am Schluss auch deutlich gemacht, dass das Entscheidende ist, dass diese Vielfalt, die hier zusammenkommt, unter einem deutschen Dach geeint und deutsch geprägt wird.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P084",
+      "text": "(Zustimmung bei der AfD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P085",
+      "text": "Vizepräsidentin Anne-Marie Keding:",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P086",
+      "text": "Herr Dr. Grube.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P087",
+      "text": "Dr. Falko Grube (SPD):",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P088",
+      "text": "Herr Tillschneider, Sie sind derjenige hier in diesem Haus, der dort vorn am häufigsten vom Bildungsnotstand redet, und Sie sind auch derjenige, der sich mit dem Antrag auf die deutsche Geschichte bezieht. Ich möchte Sie bitten, das dann wenigstens korrekt zu machen. Ich will Sie auf zwei Irrtümer hinweisen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P089",
+      "text": "Der erste Irrtum ist: Das Deutsche Reich ist ohne das Vorgängerreich, das Frankenreich bzw. das Kaiserreich Karls des Großen, nicht zu denken. Insofern sind der Sachsenspiegel und Eike von Repgow nicht der erste Kontrapunkt zum römischen Recht. Ich erinnere an die sogenannten Leges Barbarorum aus dem 8. und 9. Jahrhundert und übrigens auch an das Lex Saxonum aus dem Jahr 802. Es war also nicht das Erste.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P090",
+      "text": "Der zweite Irrtum ist: Ich bitte darum, die Geschichte meiner werten Heimatstadt Magdeburg - es ist nicht egal, wie man das ausspricht;",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P091",
+      "text": "(Zustimmung bei der SPD und bei den GRÜNEN - Zurufe: Magdeburg!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P092",
+      "text": "kurzes „a“, gern auch „Machteburch“ - richtig zu erzählen. Magdeburg ist nicht das Zentrum des Reiches gewesen. Auch haben Sie den Kollegen Tullner Senior falsch zitiert. Er spricht von der Wiege des Reiches; das ist richtig. Zentrum des Reiches ist Magdeburg zu Zeiten Ottos nie gewesen. Wir reden von der Slawenmission östlich der Elbe, es war also keinen Steinwurf von hier entfernt. Da fing das Deutsche Reich noch nicht an. Insofern würde ich Ihnen vorschlagen: Wenn Sie solche Anträge stellen, dann wenigstens historisch korrekt. Für den Rest bringen Sie sicherlich gleich der Kollege Schmidt und der Kollege Hövelmann zu Bett.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P093",
+      "text": "(Zustimmung bei der SPD, bei der Linken, bei den GRÜNEN und von Guido Heuer, CDU)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P094",
+      "text": "Dr. Hans-Thomas Tillschneider (AfD):",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P095",
+      "text": "Entschuldigung, auf die Gefahr einer Rüge hin, muss ich noch einmal die Metapher von der Korinthenkackerei bemühen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P096",
+      "text": "(Lachen - Olaf Meister, GRÜNE: Ausgerechnet Sie! Ausgerechnet Sie! - Zuruf von Dr. Katja Pähle, SPD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P097",
+      "text": "Ob Eike von Repgow jetzt einer der Ersten oder der Erste war, der germanisches Recht kodifiziert hat, ist nicht entscheidend. Er hat früh einen Kontrapunkt zum römischen Recht gesetzt. Alles andere ist Haarspalterei.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P098",
+      "text": "(Zustimmung bei der AfD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P099",
+      "text": "Genauso ist es mit der Frage, ob man das Gebiet hier im Kontext des Reisekönigtums aufgrund seiner Dichte an Kaiserpfalzen als Wiege oder als Zentrum bezeichnen will. Ich bitte Sie. Wenn Sie nichts anderes haben, was Sie dagegen vorbringen können, dann haben Sie nichts und dann lassen Sie es besser bleiben.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P100",
+      "text": "(Beifall bei der AfD - Zuruf von der AfD: Jawohl!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P101",
+      "text": "Vizepräsidentin Anne-Marie Keding:",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P102",
+      "text": "Jetzt ist Herr Dr. Schmidt mit seiner Intervention an der Reihe.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P103",
+      "text": "Dr. Andreas Schmidt (SPD):",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P104",
+      "text": "Herr Tillschneider, Sie haben vergessen, einen anderen großen Sohn des Landes in Ihr Obskuritätenkabinett einzugemeinden: Georg Friedrich Händel. Ihre geistigen Vorväter haben schon irgendwann einmal versucht, ihn zum Wikinger der Musik zu machen. Der Unsinn liegt auf der Hand, weil kaum jemand ein solcher Europäer ist wie Händel.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P105",
+      "text": "Damit es einmal gesagt ist: Der Versuch, im 19. Jahrhundert eine deutsche Nationalgeschichte bis ins 9. Jahrhundert zurück zu konstruieren, sich auf die draufzusetzen, sich einen großen roten Bart wachsen zu lassen",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P106",
+      "text": "(Olaf Meister, GRÜNE, und Sebastian Striegel, GRÜNE, lachen)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P107",
+      "text": "und das dann Geschichtsschreibung zu nennen, ist schon damals Unsinn gewesen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P108",
+      "text": "(Zustimmung bei der SPD, bei der Linken und bei den GRÜNEN)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P109",
+      "text": "Der Versuch ist heute durch Forschung und durch Fakten widerlegt. Sie kommen durch kein Proseminar in Geschichte mehr mit dem Zeug, das Sie hier erzählen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P110",
+      "text": "Und jetzt will ich noch eine Sache sagen. Wissen Sie, Sie reden ja gern von Schande und so. Dass in Deutschland jemand wie Sie habilitiert worden ist, das ist eine Schande,",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P111",
+      "text": "(Zuruf von der AfD: Großkotz! - Weitere Zurufe)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P112",
+      "text": "und zwar nicht, weil Sie ein Verfassungsfeind sind, sondern weil Ihre Art, in Schächtelchen zu denken, jeder Wissenschaft widerspricht.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P113",
+      "text": "(Beifall bei der SPD - Zustimmung bei den GRÜNEN und bei der Linken)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P114",
+      "text": "Dr. Hans-Thomas Tillschneider (AfD):",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P115",
+      "text": "Ich halte fest, dass wir uns wohl nie auf einen gemeinsamen Wissenschaftsbegriff werden einigen können.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P116",
+      "text": "(Oliver Kirchner, AfD: Das ist auch gut so!)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P117",
+      "text": "Aber damit kann ich leben.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P118",
+      "text": "Händel können wir natürlich ergänzen. Die Liste ist offen. Wenn der Antrag für Sie genießbar wird, wenn wir Händel dazu nehmen, dann nehmen wir noch Händel dazu. Dann stimmen Sie zu.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P119",
+      "text": "(Jawohl! und Beifall bei der AfD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P120",
+      "text": "Aber Sie haben von Obskuritäten gesprochen.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P121",
+      "text": "(Zurufe von der SPD)",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P122",
+      "text": "Das heißt, die Merseburger Zaubersprüche, Luther, Nietzsche, das Goethe-Theater Bad Lauchstädt sind für Sie alles Obskuritäten.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    },
+    {
+      "locator": "P123",
+      "text": "Und dann zu diesem blöden Einwand, dass die deutsche Nationalidentität ein Konstrukt aus dem 19. Jahrhundert sei. Natürlich ist die Nationalidentität wie jede kulturelle Identität und wie auch die Sprache selbst ein Konstrukt. Aber das heißt nicht, dass es etwas Beliebiges wäre oder irgendwie flüchtig oder instabil. Es gibt schon bei Walter von der Vogelweide - damit kenne ich mich ein bisschen aus - Texte, die ein Nationalbewusstsein erkennen lassen, ein deutsches Volk, das im Hintergrund steht. Dabei müssen Sie gar nicht Ihre Glatze streicheln; es ist einfach so.",
+      "html_tag": "p",
+      "selector": "div.transcript-wrapper"
+    }
+  ]
+}

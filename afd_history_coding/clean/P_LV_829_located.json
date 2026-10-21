@@ -1,0 +1,38 @@
+{
+  "source_id": "P_LV_829",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 829,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Zu Wochenbeginn wurde presseöffentlich, dass ein Junge in Hettstedt bereits seit Monaten nicht mehr zur Schule geht – aus Angst vor gewalttätigen ausländischen Mitschülern. Diese hatten ihn über Wochen hinweg geschlagen und gedemütigt und ihm anschließend im Herbst sogar mit dem Tode gedroht. Während den Tätern keine Konsequenzen widerfuhren, wurde der Mutter des Opfers von Seiten der Schule nahegelegt, eine andere Schule für ihr Kind zu suchen.",
+      "selector": "官方WordPress API post.id=829 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Dazu erklärt der Landeschef der AfD Sachsen-Anhalt, Martin Reichardt:",
+      "selector": "官方WordPress API post.id=829 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": ",,Der furchtbare Fall des jungen Hettstedter Grundschülers ist ein weiterer Beleg dafür, dass die halsbrecherische Migrationspolitik der Bundesregierung, die auch Sachsen-Anhalts CDU unter Ministerpräsident Haseloff stets mitgetragen hat, auch vor unseren Jüngsten nicht Halt macht. Kinder und Jugendliche müssen im Alltag nun ausbaden, was hochideologisierte und lebensfremde Politiker einsam entschieden haben. Mit fadenscheinigen Argumenten weichen die Verantwortlichen in Schule und Landesschulamt einem maßgebenden Vorgehen aus und lassen die Familie des Opfers kalt im Regen stehen. Die Täter wurden noch nicht einmal ermahnt. Es wird einfach darauf verwiesen, dass solche Probleme zuvor nicht zu beobachten waren.",
+      "selector": "官方WordPress API post.id=829 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Ich fordere Schulleitung und Schulamt dazu auf, dafür Sorge zu tragen, dass der betroffene Junge wieder angstfrei in die Schule gehen kann. Den Tätern und auch ihren Eltern muss mit allem Nachdruck deutlich gemacht werden, dass Morddrohungen und Gewalt gegen Mitschüler in Deutschland nicht geduldet werden. Es kann nicht sein, dass deutschen Schülern in ihrer eigenen Heimat aufgrund von Ausländergewalt die Beschulung verunmöglicht wird! Die Landesregierung muss unverzüglich alle gesetzgeberischen und administrativen Maßnahmen ergreifen, damit der angstfreie Schulbesuch für alle Kinder unseres Landes künftig sichergestellt werden kann.",
+      "selector": "官方WordPress API post.id=829 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "Als bildungs- und familienpolitischer Sprecher unserer Bundestagsfraktion werde ich mich weiterhin dafür einsetzen, dass die Problematik der Migrantengewalt an deutschen Schulen als Problem nationaler Tragweite von Seiten der Bundesregierung nicht mit linkischen Verweisen auf administrative Zuständigkeiten abmoderiert wird. Als AfD fordern wir seit langem ein Ende der zerstörerischen Asyl- und Einwanderungspolitik. Auch unsere von den Altparteien im Deutschen Bundestag abgelehnte Forderung nach Absenkung der Strafmündigkeit auf 12 Jahre halten wir weiter aufrecht.“",
+      "selector": "官方WordPress API post.id=829 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

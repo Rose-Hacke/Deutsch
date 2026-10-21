@@ -1,0 +1,38 @@
+{
+  "source_id": "P_LV_679",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 679,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Offenbarung bei Lanz:",
+      "selector": "官方WordPress API post.id=679 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Der CDU-Spitzenkandidat für Sachsen-Anhalt, Sven Schulze, hat in der ZDF-Sendung Markus Lanz eine klare Absage an die AfD erneuert, zugleich aber eine Zusammenarbeit mit der Linkspartei offengelassen. Auf die wiederholte Nachfrage, ob er sich von der Linken zum Ministerpräsidenten wählen lassen würde, wich Schulze aus. Damit bestätigt sich aus Sicht der AfD, dass die CDU bereit ist, eine Zusammenarbeit mit den Wahlverlierern einzugehen, um den klaren Wählerwillen nach einer bürgerlichen Mehrheit auszuhebeln.",
+      "selector": "官方WordPress API post.id=679 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Dazu erklärt Martin Reichardt, Landesvorsitzender der AfD Sachsen-Anhalt:",
+      "selector": "官方WordPress API post.id=679 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "„Sven Schulze bestärkt die Brandmauer gegen die AfD, während er gleichzeitig die Tür nach links offenhält. Wer mit der Linkspartei liebäugelt, verabschiedet sich endgültig von konservativer Politik. Das, was Schulze in der Sendung geboten hat, war nichts anderes als ein Offenbarungseid: Er hat weder Haltung noch Richtung. Nur Angst vor dem Wählerwillen.“",
+      "selector": "官方WordPress API post.id=679 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "Reichardt weiter: „Schulze steht an der Spitze eines sinkenden Schiffes. Nach 14 Jahren CDU-Regierung in Sachsen-Anhalt ist die Partei inhaltlich erschöpft, politisch orientierungslos und in den Umfragen abgestürzt. Doch anstatt hier endlich gegenzusteuern, setzt Schulze auf Machterhalt durch linke Mehrheiten. Damit verrät die CDU ihre eigenen Wähler und macht Sachsen-Anhalt erneut zum Spielball linker Ideologen. Daher gilt: Gegen eine Linksrutsch-Allianz unter Schulze hilft nur eine starke AfD-Alleinregierung.“",
+      "selector": "官方WordPress API post.id=679 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

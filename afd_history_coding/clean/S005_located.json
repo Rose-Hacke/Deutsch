@@ -1,0 +1,277 @@
+{
+  "source_id": "S005",
+  "raw_path": "raw/S005_20261021T084618843254Z_f2f126e13457.html",
+  "raw_sha256": "f2f126e1345717b0b6ea4e2fd457271ea11a5393c5741d790069ccbb06350727",
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Sie sind hier:",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P002",
+      "text": "Hier geht's direkt zur Datenbank PADOKA",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P003",
+      "text": "Was ist PADOKA?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P004",
+      "text": "Die parlamentarische Arbeit des Landtags, seiner Abgeordneten und Gremien schlägt sich in einer großen Anzahl von Parlamentsdokumenten nieder. Diese Dokumente werden seit der 1. Wahlperiode in der Dokumentationsdatenbank PADOKA mit einer inhaltlichen Kurzbeschreibung und ihrem Beratungsverlauf nachgewiesen. Sie können gezielt nach einzelnen Dokumenten, Beratungsvorgängen zu unterschiedlichen Themen oder Redebeiträgen der Abgeordneten suchen. Alle Drucksachen und Plenarprotokolle sind online verfügbar.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P005",
+      "text": "Die öffentlichen Dokumente sind im Volltext hinterlegt. Bitte beachten Sie, dass einige Ausschussprotokolle und andere nicht öffentliche Dokumente Ihnen nicht als Volltext zur Verfügung stehen. Die Möglichkeit der Einsichtnahme in die Protokolle nicht öffentlicher Ausschusssitzungen richtet sich nach der Geschäftsordnungdes Landtags von Sachsen-Anhalt.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P006",
+      "text": "PADOKA",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P007",
+      "text": "Was ist die Suche in PADOKA?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P008",
+      "text": "Die Suche ähnelt den bekannten Internet-Suchmaschinen und ermöglicht Ihnen den einfachen Rechercheeinstieg über die Optionen „Vorgänge“, „Dokumente“, „Gesetze“, „Reden“ und „Abgeordnete.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P009",
+      "text": "Suche in Parlamentsdatenbank",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P010",
+      "text": "Was sind „Aktuelle Themen“?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P011",
+      "text": "Mit einem Klick erhalten Sie hier Antworten auf eine Auswahl der aktuellsten „Standardsuchen“. Sie können sich gerne mit uns in Verbindung setzen, wenn Sie eine auf Sie zugeschnittene Suchanfrage benötigen. Diese individuelle Suchanfrage können Sie in Ihrem Browser speichern.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P012",
+      "text": "Aktuelle Themen",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P013",
+      "text": "Was sind die Standardsuchen?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P014",
+      "text": "Mit einem Klick erhalten Sie hier Antworten auf häufig gestellte Suchanfragen.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P015",
+      "text": "Sie können sich gerne mit uns in Verbindung setzen, wenn Sie eine auf Sie zugeschnittene Suchanfrage benötigen. Diese individuelle Suchanfrage können Sie in Ihrem Browser speichern.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P016",
+      "text": "Standardsuchen",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P017",
+      "text": "Was sind „Weitere Suchoptionen“?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P018",
+      "text": "Mit „Weiteren Suchoptionen“ können Sie gezielt in kombinierbaren Datenfeldern recherchieren. Die Möglichkeiten der Auswahl werden Ihnen durch Autocomplete angezeigt oder können in einem Index zu dem jeweiligen Suchfeld ausgewählt werden. Sie können hier sowohl wahlperiodenübergreifend, als auch in einer bestimmten Wahlperiode suchen. Sie können z. B. alle Drucksachen einer Fraktion suchen, die sich mit dem Thema Pflege beschäftigen.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P019",
+      "text": "Weitere Suchoptionen",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P020",
+      "text": "Was ist die Dokumentsuche?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P021",
+      "text": "Hier können Sie gezielt nach einem Dokument suchen, dessen Dokumentnummer Ihnen bekannt ist. Die Dokumentart und die Wahlperiodekönnen ausgewählt werden.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P022",
+      "text": "Dokumentensuche",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P023",
+      "text": "Wer ist wer im Parlament?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P024",
+      "text": "Hier können Sie gezielt nach Informationen über alle Abgeordneten des Landtags von Sachsen-Anhalt suchen. Zusätzlich enthalten sind Angaben über Regierungsmitglieder, die nicht dem Landtag angehören bzw. angehörten.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P025",
+      "text": "Abgeordnetendatenbank",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P026",
+      "text": "Wie finden Sie Redebeiträge im Parlament?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P027",
+      "text": "Hier können Sie gezielt nach in Plenarsitzungen gehaltenen Redebeiträgen von Abgeordneten, Regierungsmitgliedern und Gästen suchen.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P028",
+      "text": "Suchbeispiel:",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P029",
+      "text": "Redebeiträge verschiedener Abgeordneter zum Thema Digitalisierung",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P030",
+      "text": "Reden",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P031",
+      "text": "Welche Gesetze werden beraten?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P032",
+      "text": "Hier können Sie gezielt nach Gesetzentwürfen und verabschiedeten Gesetzen suchen.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P033",
+      "text": "Suchbeispiel: Parlamentsreform",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P034",
+      "text": "Gesetze",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P035",
+      "text": "Wie nutzen Sie den Infodienst?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P036",
+      "text": "Unser Infodienst informiert Sie per E-Mail regelmäßig über neue Dokumente und den tagaktuellen Stand einer Beratungsinitiative. Registrieren Sie sich mit Ihrer E-Mail-Adresse und bleiben Sie mit unserem Abo-Service aktuell. Zusätzlich ermöglichen Funktionen wie Notizzettel, Favoriten, Merklisten und Leselisten ein individuelles Arbeiten.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P037",
+      "text": "PADOKA Infodienst",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P038",
+      "text": "Was ist der Parlamentsspiegel?",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P039",
+      "text": "Der Parlamentsspiegel ist das gemeinsame Informationssystem der Landesparlamente der Bundesrepublik Deutschland. Das integrierte System Parlamentsspiegel.de stellt umfangreiche Suchfunktionalitäten bereit und ermöglicht den direkten Zugriff auf Dokumente und Beratungsvorgänge aller 16 Landtage.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P040",
+      "text": "Hier finden Sie Dokumente zu allen gesetzgeberischen Initiativen mit ihrer parlamentarischen Behandlung, zu Regierungserklärungen und aktuellen Debatten, zu Anträgen, zu Anfragen an die Landesregierungen, zu Untersuchungsausschüssen und Enquete-Kommissionen und vieles andere mehr.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P041",
+      "text": "Parlamentsspiegel",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P042",
+      "text": "Weiterführende Informationen",
+      "html_tag": "h4",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P043",
+      "text": "Flyer „Kurzinfo“ (PDF; 308.01 KB)",
+      "html_tag": "li",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P044",
+      "text": "Antrag auf Einsichtnahme (PDF; 54.87 KB)",
+      "html_tag": "li",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P045",
+      "text": "FAQs (PDF; 592.24 KB)",
+      "html_tag": "li",
+      "selector": "entry-content、main或body"
+    }
+  ]
+}

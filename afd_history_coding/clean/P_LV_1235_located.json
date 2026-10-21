@@ -1,0 +1,50 @@
+{
+  "source_id": "P_LV_1235",
+  "raw_path": "raw/search_WP001_20261021T085758964233Z.json",
+  "raw_sha256": "e5840bf6721174b86a8f76e3af2676e71d2c494632bcf05a5a88ba2d7ea1bcf5",
+  "api_post_id": 1235,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Eine aktuelle INSA-Umfrage im Auftrag des Mediums NIUS sieht die AfD in Sachsen-Anhalt bei 42 Prozent. Damit liegt die AfD 18 Prozentpunkte vor der CDU, die auf 24 Prozent kommt.",
+      "selector": "官方WordPress API post.id=1235 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Aufgrund des hohen Stimmenanteils, der auf Parteien unterhalb der Fünf-Prozent-Hürde entfällt, läge eine rechnerische parlamentarische absolute Mehrheit in dieser Konstellation bereits bei etwa 43 Prozent. Die AfD ist nach den aktuellen Werten damit nur einen Prozentpunkt von einer parlamentarischen absoluten Mehrheit im Magdeburger Landtag entfernt. Die Linke kommt laut Erhebung auf 13 Prozent, die SPD auf 6 Prozent. Bündnis 90/Die Grünen (4 Prozent), BSW (4 Prozent) und FDP (3 Prozent) würden den Einzug in den Landtag derzeit verfehlen.",
+      "selector": "官方WordPress API post.id=1235 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Das ermittelte Wählerpotenzial der AfD wird mit 48 Prozent beziffert. Die Erhebung weist zudem eine hohe Unzufriedenheit mit der Regierungsarbeit aus. 62 Prozent der Befragten geben an, mit der Arbeit der Landesregierung unzufrieden zu sein. Mit der Arbeit der Bundesregierung sind 80 Prozent unzufrieden.",
+      "selector": "官方WordPress API post.id=1235 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Dazu erklärt der Landesvorsitzende der AfD Sachsen-Anhalt, Martin Reichardt:",
+      "selector": "官方WordPress API post.id=1235 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "„Ein Vorsprung von 18 Prozentpunkten ist in der Geschichte dieses Landes ohne Beispiel. Er ist nicht das Ergebnis eines Momentes, sondern einer politischen Entwicklung, die sich seit Jahren abzeichnet. Wer 80 Prozent der Bürger gegen seine Bundesregierung hat und 62 Prozent gegen seine Landesregierung, der regiert nicht mehr im Auftrag des Volkes, sondern an ihm vorbei. Die Menschen in Sachsen-Anhalt wollen keinen weiteren Verwaltungswechsel zwischen den Einheitsparteien, sie wollen einen echten Politikwechsel.“",
+      "selector": "官方WordPress API post.id=1235 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P006",
+      "text": "Der Spitzenkandidat der AfD Sachsen-Anhalt, Ulrich Siegmund, ergänzt:",
+      "selector": "官方WordPress API post.id=1235 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P007",
+      "text": "„62 Prozent der Menschen in Sachsen-Anhalt sind mit dieser Landesregierung unzufrieden, 80 Prozent mit der Bundesregierung. Das ist ein vernichtendes Zeugnis für das politische Establishment und zeigt, dass die Zeit der Ausreden endgültig vorbei ist. Wenn eine relative Mehrheit der Bürger inzwischen damit rechnet, dass die nächste Landesregierung von der AfD geführt wird, dann liegt das an unserer inhaltlichen Beständigkeit und dem tiefen Wunsch der Sachsen-Anhalter nach einer Regierung, die endlich wieder Politik für das eigene Volk macht. Ich nehme diese Erwartung sehr ernst, aber ich sage auch klar: Eine Umfrage allein gewinnt keine Wahl. Bis zum 6. September fließt noch viel Wasser die Elbe herab. Wir bleiben bodenständig und konzentrieren uns weiterhin darauf, gute und ehrliche Arbeit zu leisten. Wer wirklich Veränderung will und keine Pattsituation im Landtag, muss am 6. September mit beiden Stimmen die AfD wählen.“",
+      "selector": "官方WordPress API post.id=1235 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

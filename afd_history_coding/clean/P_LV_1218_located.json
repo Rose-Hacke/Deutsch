@@ -1,0 +1,32 @@
+{
+  "source_id": "P_LV_1218",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 1218,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Sachsen-Anhalts Ex-Ministerpräsident Haseloff hat damit gedroht, nach einer Regierungsübernahme durch die AfD könne es sein, dass ein in Sachsen-Anhalt abgeleistetes Abitur in anderen Bundesländern nicht mehr ohne weiteres anerkannt werde. Näher begründet wurde diese Aussage nicht.",
+      "selector": "官方WordPress API post.id=1218 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Dazu erklärt Dr. Hans-Thomas Tillschneider, stellv. Vorsitzender der AfD Sachsen-Anhalt, Programmkoordinator und Bildungspolitiker:",
+      "selector": "官方WordPress API post.id=1218 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "„Die Befürchtung von Ex-Ministerpräsident Haseloff, nach einer Regierungsübernahme durch die AfD werde das Sachsen-Anhalt-Abitur nicht mehr bundesweit anerkannt, ist an Absurdität kaum noch zu überbieten. Es ist unser erklärtes Ziel, die Maßstäbe des Abiturs anzuheben und die Noteninflation einzudämmen. Wir werden die von der Kultusministerkonferenz festgelegten Mindeststandards übererfüllen.",
+      "selector": "官方WordPress API post.id=1218 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Die Kultusministerkonferenz schreibt beispielsweise vor, dass für eine Note 4 (ausreichend) mindestens 45 Prozent der Maximalpunktzahl erreicht werden müssen. Wir wollen die Note 4 erst ab 50 Prozent der Maximalpunktzahl vergeben. Wer eine Prüfung bestehen will, sollte mindestens die Hälfte wissen. Auch in den fachspezifischen Bildungsstandards werden wir die Maßstäbe anheben. Dadurch und durch ein ganzes Bündel weiterer Maßnahmen sorgen wir dafür, dass das Abitur in Sachsen-Anhalt zum besten Abitur in ganz Deutschland wird. Wir werden den Vergleich mit anderen Bundesländern nicht scheuen müssen, aber möglicherweise scheuen andere Bundesländer diesen Vergleich mit uns. Es bestünde jedenfalls mehr Anlass, sich um die Qualifikation der Abiturienten aus Bremen Sorgen zu machen.“",
+      "selector": "官方WordPress API post.id=1218 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

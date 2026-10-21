@@ -1,0 +1,38 @@
+{
+  "source_id": "P_LV_725",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 725,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Evangelische Kirche begrüßt Regenbogenflaggen und hetzt gegen AfD!",
+      "selector": "官方WordPress API post.id=725 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Die Ratsvorsitzende der Evangelischen Kirche in Deutschland (EKD), Kirsten Fehrs, hat auf der Synode in Dresden eine noch strengere Abgrenzung von der AfD gefordert. Gleichzeitig hat sie für die Abschaffung eines Kirchengesetzes plädiert, das verbietet, Kirchen mit anderen Fahnen als der Kreuzesfahne zu beflaggen. Damit soll die schon lange geübte Praxis, Regenbogenfahnen an Kirchen aufzuhängen, kirchenrechtlich legitimiert werden.",
+      "selector": "官方WordPress API post.id=725 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Dazu erklärt Dr. Hans-Thomas Tillschneider, stellv. Vorsitzender der AfD Sachsen-Anhalt: „Wer eine Partei verteufelt, die so sehr wie keine andere Partei für das Christentum in Deutschland kämpft, und gleichzeitig dafür plädiert, die Regenbogenfahne an die Kirche zu hängen, der zeigt selbst, wessen Geistes Kind er ist.",
+      "selector": "官方WordPress API post.id=725 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Die Ratsvorsitzende Fehrs wirft uns vor, wir hätten für bestimmte Gruppen die Menschenwürde für ‚antastbar‘ erklärt. Das aber wäre ein Ding der Unmöglichkeit, erklärt doch gerade Art. 1 GG dass die Menschenwürde unantastbar ist. Alles, was diese Kirchenfrau offenbart, scheint ihr intellektuelles Defizit zu sein. Falls sie meinen sollte, dass wir bestimmte Personengruppen ungerechtfertigterweise ungleich behandeln, mithin diskriminieren, so möge sie uns bitte genau nachweisen, wo das der Fall ist. Sie wird es nicht können.",
+      "selector": "官方WordPress API post.id=725 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "Was bleibt, ist die Erkenntnis, dass die evangelische Kirche Deutschlands völlig dem Widersacher verfallen und unrettbar verloren ist. Wir raten jedem Noch-Mitglied dieser Institution, besser heute als morgen auszutreten und sich eine kleine glaubenstreue Kirche zu suchen, von denen es in Deutschland – Gott sei Dank – mehrere gibt.“",
+      "selector": "官方WordPress API post.id=725 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

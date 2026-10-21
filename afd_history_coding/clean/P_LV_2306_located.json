@@ -1,0 +1,56 @@
+{
+  "source_id": "P_LV_2306",
+  "raw_path": "raw/search_WP010_20261021T085802143898Z.json",
+  "raw_sha256": "8bc193844454283212ef755c529652494c30918a22ae5996fd3dcadfc83e24f1",
+  "api_post_id": 2306,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Nach einer Flugblattverteilaktion im Saalekreis stellte ein Wahlkampfhelfer der AfD fest, dass beim Vorderrad seines Fahrzeugs drei Muttern fehlten. In der Werkstatt wurde darüber hinaus bemerkt, dass auch bei den drei anderen Rädern die Muttern gelockert wurden. Da der betroffene Wahlkampfhelfer nach jedem Radwechsel immer wie vorgeschrieben die Radmuttern nachzuziehen pflegt, kann ausgeschlossen werden, dass die Muttern sich infolge einer Fehlmontage von alleine gelockert haben. Es besteht vielmehr der dringende Verdacht, dass Personen, die der AfD feindlich gesonnen sind, die Radmuttern gelockert haben. Der Fall wurde zur Anzeige gebracht. Der Staatsschutz ermittelt.",
+      "selector": "官方WordPress API post.id=2306 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Dazu erklärt Dr. Hans-Thomas Tillschneider, stellv. Vorsitzender der AfD Sachsen-Anhalt:",
+      "selector": "官方WordPress API post.id=2306 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "„Die Gewaltbereitschaft und der Fanatismus unserer Feinde kennen keine Grenzen mehr. Wer die Radmuttern eines Fahrzeugs lockert, provoziert schwere Unfälle und nimmt nicht nur den Tod des Fahrers, sondern auch völlig unbeteiligter Personen in Kauf. Damit nähern sich die heutigen Linksextremisten dem sittlichen Niveau des damaligen RAF-Terrors an.",
+      "selector": "官方WordPress API post.id=2306 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Anstatt friedliche, tolerante und demokratisch gesinnte Patrioten zu verfolgen, sollte der Verfassungsschutz alle Kraft auf die Bekämpfung des mittlerweile völlig enthemmt agierenden, gewaltbereiten Linksextremismus konzentrieren!“",
+      "selector": "官方WordPress API post.id=2306 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "Der Landesvorsitzende der AfD Sachsen-Anhalt, Martin Reichardt, ergänzt:",
+      "selector": "官方WordPress API post.id=2306 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P006",
+      "text": "„Der seit Jahren von SPD, Grünen und Linken politisch geförderte linke Straßenterror hat erneut zugeschlagen. Die CDU verharmlost ihn aus falscher Rücksicht auf mögliche Koalitionsverhandlungen. Diesmal hat es einen Ehrenamtlichen getroffen, der sich in seiner Freizeit für unsere Partei engagiert.",
+      "selector": "官方WordPress API post.id=2306 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P007",
+      "text": "Von den Vorsitzenden der anderen Parteien in Sachsen-Anhalt erwarte ich jetzt eine klare Haltung und die Verurteilung solch hinterhältiger Taten, die auf den Tot politisch Andersdenkender abzielen oder diesen zumindest billigend in Kauf nehmen.",
+      "selector": "官方WordPress API post.id=2306 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P008",
+      "text": "An unserem Wahlkampf ändert dieser Angriff nichts. Wir lassen uns nicht einschüchtern.“",
+      "selector": "官方WordPress API post.id=2306 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

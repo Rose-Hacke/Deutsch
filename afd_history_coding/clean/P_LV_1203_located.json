@@ -1,0 +1,62 @@
+{
+  "source_id": "P_LV_1203",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 1203,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Mittlerweile 67 Kultureinrichtungen aus Sachsen-Anhalt werden als Zeichner einer Erklärung gegen die AfD unter dem Titel „Kulturinstitutionen warnen vor nationalistisch ausgerichteter Kulturpolitik in Sachsen-Anhalt“ ausgewiesen. Der Wortlaut der Erklärung kann hier eingesehen werden: https://blogs.urz.uni-halle.de/romanikzentrum/files/2026/04/Gemeinsame-Stellungnahme-der-Kultursinstitutionen.pdf. Viele Kultureinrichtungen sind nicht dabei. Einige Kultureinrichtungen haben sich ausdrücklich geweigert zu unterzeichnen.",
+      "selector": "官方WordPress API post.id=1203 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Dazu erklärt Dr. Hans-Thomas Tillschneider, stellvertretender Vorsitzender der AfD Sachsen-Anhalt und Landesprogrammkoordinator:",
+      "selector": "官方WordPress API post.id=1203 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "„Das einzig Erfreuliche an dieser Erklärung ist, dass es doch einige Kulturträger im Land gibt, die sich ihr nicht angeschlossen haben, und das offen bekennen, wie etwa das Anhaltische Theater, das Mitteldeutsche Theater oder das Technikmuseum Hugo Junkers.",
+      "selector": "官方WordPress API post.id=1203 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Weiterhin ist bei einer Kulturausschusssitzung des Dessauer Stadtrates durch Nachfrage von Laurens Nothdurft (AfD) bekannt geworden, dass die Unterzeichnung der Kulturstiftung Dessau-Roßlau und der Bauhausstiftung ohne Beteiligung des zuständigen Gremiums und ohne Mitwirkung der Mitglieder geleistet wurde. Von einer bestätigten Initiative gegen die AfD kann daher keine Rede sein. Einige der unterzeichnenden Institutionen sind zudem mit Steuergeld geförderte öffentlich-rechtliche Stiftungen, hätten also bei dieser parteipolitisch motivierten Stimmungsmache gegen die AfD Zurückhaltung üben müssen.",
+      "selector": "官方WordPress API post.id=1203 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "Abgesehen von solchen formalen Einwänden ist aber auch die Stellungnahme selbst inhaltlich äußerst schwach. Sie zeigt vor allem, dass die Unterzeichnenden nichts von Kultur verstehen.",
+      "selector": "官方WordPress API post.id=1203 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P006",
+      "text": "In der Erklärung wird uns vorgeworfen, wir würden aus Kultur ein ‚Instrument zur Herstellung einer parteipolitisch definierten kollektiven Identität‘ machen. Kultur aber ist ihrem Wesen nach nichts anderes als ein Instrument zur Herstellung kollektiver Identität. Diese wiederum ist nicht parteipolitisch definiert, sondern liegt vor als deutsche, russische, französische etc. Identität. Wenn Kultur sich diesem Befund verweigert, gerät sie in Widerspruch zu sich selbst. Wer die nationale Identität für ‚parteipolitisch‘ hält, leidet selbst unter parteipolitisch deformierter Wahrnehmung.",
+      "selector": "官方WordPress API post.id=1203 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P007",
+      "text": "Die Kulturinstitutionen werfen uns weiterhin vor, wir würden ‚staatliche Leitbilder‘ für die Kulturpolitik und damit für die staatliche Kulturförderung formulieren, so als wäre es etwas Übergriffiges, finden aber nichts daran, dass die Altparteien mit der ‚#moderndenken-Kampagne‘ ein starkes Leitbild definiert haben. Widersprüche und Inkonsistenzen, wohin man blickt.",
+      "selector": "官方WordPress API post.id=1203 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P008",
+      "text": "Es vergeht einem die Lust, sich mit dieser Phrasendrescherei überhaupt näher zu befassen. Nur noch eines: Die Unterzeichnenden werfen uns vor, unsere Erinnerungspolitik würde den ‚Fokus von einer differenzierten, auf wissenschaftlichen Erkenntnissen beruhenden Erinnerungskultur hin zu einer selektiven Geschichtsdarstellung‘ verschieben. Abgesehen davon, dass jede Erinnerungskultur nicht auf Wissenschaft (Logos) beruht, sondern auf Mythos, ist Erinnerung als solche stets auf das Vergessen bezogen und insofern notwendigerweise selektiv.",
+      "selector": "官方WordPress API post.id=1203 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P009",
+      "text": "Worum es also geht, ist, welche Selektivität gewählt wird: Die identitätsbejahende Selektivität, die in aller unpolitischen Gelassenheit mit der eigenen Nationalkultur im Reinen ist, oder die identitätsfeindliche Selektivität, die an einem verklemmten Verhältnis zur eigenen Nationalkultur leidet und die Kultur linken Dogmen unterstellt. Die AfD wird nach einer Regierungsübernahme allen gutwilligen Kulturträgern im Land die Hand reichen, um die Kultur von unzulässiger politischer Einflussnahme, wie sie in dieser erbärmlichen Anti-AfD-Kampfschrift zum Ausdruck kommt, zu befreien.“",
+      "selector": "官方WordPress API post.id=1203 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

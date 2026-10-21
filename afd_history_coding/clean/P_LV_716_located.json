@@ -1,0 +1,56 @@
+{
+  "source_id": "P_LV_716",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 716,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "AfD Sachsen-Anhalt stellt weitere Direktkandidaten auf",
+      "selector": "官方WordPress API post.id=716 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Am vergangenen Wochenende stellte die AfD in Sachsen-Anhalt weitere Direktkandidaten zur Landtagswahl 2026 auf.",
+      "selector": "官方WordPress API post.id=716 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Gewählt wurden:",
+      "selector": "官方WordPress API post.id=716 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "﻿✔﻿Wahlkreis 10 (Magdeburg I) Herr Oliver Kirchner mit 100 Prozent der abgegebenen Stimmen",
+      "selector": "官方WordPress API post.id=716 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "﻿✔﻿Wahlkreis 11 (Magdeburg II) Herr Hagen Kohl mit 100 Prozent der abgegebenen Stimmen",
+      "selector": "官方WordPress API post.id=716 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P006",
+      "text": "﻿✔﻿ Wahlkreis 12 (Magdeburg III) Herr Christian Mertens mit 100 Prozent der abgegebenen Stimmen",
+      "selector": "官方WordPress API post.id=716 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P007",
+      "text": "﻿✔﻿ Wahlkreis 13 (Magdeburg IV) Herr Ronny Kumpf mit 100 Prozent der abgegebenen Stimmen",
+      "selector": "官方WordPress API post.id=716 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P008",
+      "text": "Martin Reichardt, Landesvorsitzender der AfD Sachsen-Anhalt, kommentiert die Aufstellungen in den vier Wahlkreisen der Landeshauptstadt wie folgt: „Vier Wahlkreise, viermal 100 Prozent. Das ist ein ganz starkes Signal, das hier am Sonnabend von Magdeburg ausging, und ich beglückwünsche alle Gewählten. Diese Aufstellungen sind zudem ein deutliches Zeichen dafür, wie sehr die Arbeit meines Freundes Oliver Kirchner als mittlerweile langjähriger Vorsitzender und Sozialpolitiker unserer Landtagsfraktion geschätzt wird. Gleiches gilt für Hagen Kohl und Christian Mertens, die in ihren jeweiligen Fachbereichen – Innenpolitik und Verwaltung (Kohl) sowie Bildung und Kultur (Mertens) – hervorragende Arbeit leisten. Ich freue mich auch über die verdiente Nominierung von Ronny Kumpf, der nun die Chance hat, erstmals in den Landtag einziehen. Daneben danke ich meinem Kollegen Dr. Jan Moldenhauer, dem Landtagsabgeordneten und Kreisvorsitzenden der AfD-Magdeburg, für die professionelle Vorbereitung und Durchführung der Aufstellungsversammlungen.“",
+      "selector": "官方WordPress API post.id=716 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

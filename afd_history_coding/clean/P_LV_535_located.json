@@ -1,0 +1,26 @@
+{
+  "source_id": "P_LV_535",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 535,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Am heutigen 17. Oktober 2025 findet im Burgenlandkreis eine öffentliche Veranstaltung des Stendaler Europaabgeordneten Arno Bausemer unter dem Titel „Europa trifft Landespolitik“ im Gutshof Schnaudertal statt. Anfang dieser Woche wurden Werbetafeln, die unter anderem den Europaabgeordneten sowie den vor Ort direkt gewählten AfD-Landtagsabgeordneten Lothar Waehler zeigen, beschmiert. Am Mittwochabend wurde auf dem linksextremen Internetportal „Indymedia“ ein Bekennerschreiben veröffentlicht. Dies enthält auch weitere Drohungen gegenüber den gewählten Abgeordneten sowie den Gästen der heutigen Veranstaltung, welche nichts desto trotz ab 18:30 Uhr in der Dragsdorfer Großpörthner Straße 16 in Schnaudertal stattfinden wird.",
+      "selector": "官方WordPress API post.id=535 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Arno Bausemer, Mitglied der ESN-Fraktion im Europäischen Parlament, erklärt zu den Attacken und Drohungen:",
+      "selector": "官方WordPress API post.id=535 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "„Es ist absolut inakzeptabel, was hier passiert. Als Europaabgeordneter werde ich für eine Informationsveranstaltung von der Antifa bedroht, Plakatflächen werden beschmiert oder zerstört. Das ist kein demokratischer Diskurs, sondern ein Versuch, Meinungen zu unterdrücken. Aber wir lassen uns nicht einschüchtern! Heute führen wir unsere Veranstaltung wie geplant durch und zeigen dadurch ganz klar: Drohungen und Gewalt werden uns nicht davon abhalten, unsere politische Arbeit fortzusetzen und den Bürgern Rede und Antwort zu stehen. Wer Meinungen unterdrücken will, stellt sich gegen unsere freiheitlich-demokratische Ordnung. Wir bleiben standhaft und setzen unseren patriotischen Kurs fort, damit Deutschland und Europa zu einer Normalität zurückkehren, in der Debatten ohne Angst geführt werden und der Rechtsstaat für alle gilt.“",
+      "selector": "官方WordPress API post.id=535 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

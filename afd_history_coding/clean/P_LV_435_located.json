@@ -1,0 +1,20 @@
+{
+  "source_id": "P_LV_435",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 435,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Wenn am kommenden Sonntag Landtagswahl in Sachsen-Anhalt wäre, würden 39 Prozent die AfD wählen. Mit diesen fast 40 Prozent hätte sich die Alternative gegenüber der Landtagswahl 2021 annähernd verdoppelt (+18,2 Prozentpunkte). Die CDU hingegen käme bei einem Minus von 10 Prozentpunkten auf nur noch 27 Prozent. Grüne und FDP würde einen Wiedereinzug in den Landtag misslingen. SPD und BSW würden knapp über der 5-Prozent-Hürde liegen. Die Linke käme mit einem schmalen Zugewinn auf 13 Prozent.",
+      "selector": "官方WordPress API post.id=435 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Martin Reichardt, Vorsitzender der AfD Sachsen-Anhalt kommentiert: „Wenn Reiner Haseloff diese Zahlen sieht, holt er dann schon mal die Koffer raus? Schließlich wolle er das Land verlassen, sollte die AfD 2026 die Regierung übernehmen. Nach dieser Umfrage scheint das tatsächlich nicht unwahrscheinlich zu sein. Zumindest aber zeigen die Zahlen, dass die Bürger den politischen Wandel wollen. Und dieser Wandel wird 2026 von Sachsen-Anhalt ausgehen. Bis zur Wahl ist es nur noch knapp ein Jahr. In den nächsten 12 Monaten werden wir uns darauf konzentrieren, die Menschen von unserer Vision für dieses Land zu überzeugen, um über 40 Prozent plus X der Stimmen zu erreichen und eine parlamentarische Mehrheit zu sichern.“",
+      "selector": "官方WordPress API post.id=435 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

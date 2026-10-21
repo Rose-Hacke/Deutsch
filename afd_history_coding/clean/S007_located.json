@@ -1,0 +1,187 @@
+{
+  "source_id": "S007",
+  "raw_path": "raw/S007_20261021T084619343756Z_dfd59245c4eb.html",
+  "raw_sha256": "dfd59245c4eb7092b27721a8189edfdfca62128091ebbe11ce34c559d9630eae",
+  "records": [
+    {
+      "locator": "P001",
+      "text": "DeineHeimatfraktion.",
+      "html_tag": "h1",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P002",
+      "text": "Stark für dich: Positionen und Initiativen der AfD-Fraktion im Landtag Sachsen-Anhalt – für Sicherheit, Bildung, Kultur, Gesundheit, Wirtschaft und Infrastruktur.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P003",
+      "text": "Termine",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P004",
+      "text": "Veranstaltungen und Dialoge im ganzen Land",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P005",
+      "text": "Aktuelles",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P006",
+      "text": "Pressemitteilungen und Meldungen der Fraktion",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P007",
+      "text": "Fraktionszeitung",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P008",
+      "text": "„Blauer Aufbruch“ – aktuelle Ausgabe lesen",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P009",
+      "text": "Kontakt",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P010",
+      "text": "Fragen, Anliegen, Presseanfragen – schreiben Sie uns",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P011",
+      "text": "Aktuelles.",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P012",
+      "text": "Dr. Jan Moldenhauer einstimmig zum Parlamentarischen Geschäftsführer der AfD-Fraktion gewählt",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P013",
+      "text": "Nach Bohai jetzt KmB – rund 200 Arbeitsplätze in Gefahr",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P014",
+      "text": "Internationaler Tag der Katastrophenvorsorge 2026",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P015",
+      "text": "Geschwisterermäßigung muss über 2026 hinaus gesichert werden",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P016",
+      "text": "Linke Demonstranten verhindern Teilnahme von AfD-Landtagsvizepräsident an Gedenkveranstaltung!",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P017",
+      "text": "Sonderplenum für gemeinsame Friedensinitiative von AfD- und BSW-Fraktion beantragt",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P018",
+      "text": "Stark für dich.",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P019",
+      "text": "Positionspapiere, Standpunkte und Initiativen der Fraktion – gebündelt nach Themen, die Sachsen-Anhalt bewegen.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P020",
+      "text": "Pressemitteilungen.",
+      "html_tag": "h2",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P021",
+      "text": "Stellungnahmen der Fraktion und ihrer Sprecher zu aktuellen Themen im Land.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P022",
+      "text": "Dr. Jan Moldenhauer einstimmig zum Parlamentarischen Geschäftsführer der AfD-Fraktion gewählt",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P023",
+      "text": "Nach Bohai jetzt KmB – rund 200 Arbeitsplätze in Gefahr",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P024",
+      "text": "Geschwisterermäßigung muss über 2026 hinaus gesichert werden",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P025",
+      "text": "Linke Demonstranten verhindern Teilnahme von AfD-Landtagsvizepräsident an Gedenkveranstaltung!",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P026",
+      "text": "Sonderplenum für gemeinsame Friedensinitiative von AfD- und BSW-Fraktion beantragt",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P027",
+      "text": "Landtag von Sachsen-Anhalt wählt Dr. Hans-Thomas Tillschneider zum Vizepräsidenten",
+      "html_tag": "h3",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P028",
+      "text": "Sie sehen gerade einen Platzhalterinhalt von Vimeo. Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P029",
+      "text": "Sie sehen gerade einen Platzhalterinhalt von YouTube. Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    },
+    {
+      "locator": "P030",
+      "text": "Sie müssen den Inhalt von reCAPTCHA laden, um das Formular abzuschicken. Bitte beachten Sie, dass dabei Daten mit Drittanbietern ausgetauscht werden.",
+      "html_tag": "p",
+      "selector": "entry-content、main或body"
+    }
+  ]
+}

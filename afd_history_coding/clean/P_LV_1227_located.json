@@ -1,0 +1,38 @@
+{
+  "source_id": "P_LV_1227",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 1227,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Heute vor 81 Jahren war die deutsche Wehrmacht zu bedingungsloser Kapitulation gezwungen. Dieser Tag war für alle vom NS-Regime Verfolgten, auch und gerade die Deutschen, eine Befreiung von Willkür und Unrecht. Doch die Befreiung können wir nicht feiern, denn es war eine Befreiung um den Preis einer totalen Niederlage der Nation, einer Zerstörung fast der gesamten Infrastruktur, einer Vertreibung Millionen deutscher Menschen aus ihrer Heimat und einer Amputation ausgedehnter deutscher Kulturlandschaften im Osten. Das deutsche Volk wurde von einem Verbrecherregime in eine ausweglose Lage manövriert.",
+      "selector": "官方WordPress API post.id=1227 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "„Von einer solchen Niederlage erholt man sich nicht“, soll Ernst Jünger gesagt haben. Und damit verweist er auf die geistigen Nachwirkungen der Niederlage. Das Eine ist der Zusammenbruch, das Andere der Umgang mit ihm. Während die ersten Jahre nach der Niederlage noch von einer Verfolgung tatsächlich Schuldiger bei gleichzeitiger Abwehr einer Kollektivschuld des deutschen Volkes geprägt waren, entwickelte sich mit wachsendem Zeitenabstand ein zunehmend absurder Schuldkult.",
+      "selector": "官方WordPress API post.id=1227 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Bald lastete die imaginierte Kollektiv- und Dauerschuld so schwer auf allen Deutschen, dass diesem Schuldgefühl nur noch zu entkommen war, indem man sich nachträglich auf die Seite der Sieger stellte und die Niederlage als Befreiung feierte. Auf die militärische Kapitulation folgte so 40 Jahre später mit Richard von Weizäckers Rede am 8. Mai 1985 im Bundestag die geistige Kapitulation. Das nationale Selbstbewusstsein von immerhin 30 Bundestagsabgeordneten der CDU war damals noch so intakt, dass sie Anstand bewiesen und der Rede des Richard von Weizäcker fernblieben. Heute fällt es der AfD zu, den Reden, in denen diese Niederlage als Befreiung gefeiert wird, fernzubleiben.",
+      "selector": "官方WordPress API post.id=1227 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "Die AfD steht für die Renaissance eines intakten deutschen Nationalgefühls als Voraussetzung selbstbewusster Politik und effizienter Interessenvertretung. Wir widerlegen Ernst Jüngers Skepsis, indem wir mit unserem Verhalten zeigen: Es ist gut, deutsch zu sein! Wir leben eine normale deutsche Identität vor. Franz Josef Strauß hatte bereits 1986 erklärt: „Die ewige Vergangenheitsbewältigung als gesellschaftliche Dauerbüßaufgabe lähmt ein Volk! (…) Wir sind eine normale, tüchtige, leistungsfähige Nation, die das Unglück hatte, zweimal schlechte Politik an der Spitze ihres Landes zu haben.“ Dem ist nichts hinzuzufügen.",
+      "selector": "官方WordPress API post.id=1227 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "gez. Dr. Hans-Thomas Tillschneider, stellv. Vorsitzender der AfD Sachsen-Anhalt",
+      "selector": "官方WordPress API post.id=1227 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

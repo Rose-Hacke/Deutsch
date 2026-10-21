@@ -1,0 +1,20 @@
+{
+  "source_id": "P_LV_1760",
+  "raw_path": "raw/search_WP010_P2_20261021T091746693401Z.json",
+  "raw_sha256": "0f70481d119d1fee79fadb2e09e554448e6975b4ffcd973c9b1d1281b8698559",
+  "api_post_id": 1760,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Hier finden Sie die Transparenzerklärung zur o.g. Werbemaßnahme sowie ggf. die Transparenzerklärungen von Anbietern pol. Werbung gemäß der Verordnung (EU) 2024/900 des Europäischen Parlamentes und des Rates vom 13. März 2024 über die Transparenz und das Targeting politischer Werbung.",
+      "selector": "官方WordPress API post.id=1760 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Kampagne: Landtagswahl Sachsen-Anhalt 2026 – AfD Magdeburg",
+      "selector": "官方WordPress API post.id=1760 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

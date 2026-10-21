@@ -1,0 +1,29 @@
+{
+  "executed_at": "2026-10-21T17:42:45.374380+08:00",
+  "status": "passed",
+  "checks_by_category": {
+    "unique_ids": 2,
+    "complete_decisions": 842,
+    "raw_archives": 526,
+    "scope": 38,
+    "foreign_keys": 934,
+    "bilingual_units": 70,
+    "review_status": 910,
+    "german_provenance": 70,
+    "locators": 42,
+    "exclusion_reasons": 596,
+    "explanations": 840,
+    "versions": 841,
+    "exact_evidence": 244,
+    "review_coverage": 55,
+    "narrative_links": 33,
+    "deduplication": 1,
+    "denominators": 10
+  },
+  "errors": [],
+  "sources": 264,
+  "units": 70,
+  "judgments": 840,
+  "human_review_completed": false,
+  "meaning_limit": "脚本核对溯源及数据结构，不证明翻译语义和研究解释正确；人工复核仍待进行"
+}

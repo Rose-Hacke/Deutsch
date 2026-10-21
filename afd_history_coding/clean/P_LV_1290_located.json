@@ -1,0 +1,56 @@
+{
+  "source_id": "P_LV_1290",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 1290,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Bei der gestrigen Landratswahl im Saalekreis hat AfD-Kandidat Uwe Arendt einen deutlichen und richtungsweisenden Sieg im ersten Wahlgang errungen. Mit 43,3 Prozent der Stimmen verwies der Merseburger den CDU-Kreischef Sven Czekalla (36,6 Prozent) klar auf den zweiten Platz. Die Kandidatin der Linken, Kerstin Eisenreich (13,2 Prozent), sowie Einzelbewerber Lars Zaruba (6,9 Prozent) spielten im Rennen um das Landratsamt keine nennenswerte Rolle.",
+      "selector": "官方WordPress API post.id=1290 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Getragen wurde dieser politische Umschwung von einer verhältnismäßig hohen Wahlbeteiligung, die von 32 Prozent vor sieben Jahren auf nunmehr gut 49 Prozent angestiegen ist. Da keiner der Bewerber die absolute Mehrheit erreichte, wird die abschließende Entscheidung in der Stichwahl am 28. Juni fallen.",
+      "selector": "官方WordPress API post.id=1290 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Dazu erklärt der Vorsitzende des AfD-Kreisverbandes Saalekreis und stellvertretende Vorsitzende der AfD Sachsen-Anhalt, Dr. Hans-Thomas Tillschneider:",
+      "selector": "官方WordPress API post.id=1290 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "„Uwe Arendt hat mit 43,3 Prozent ein herausragendes Ergebnis erzielt. Seine herzliche, sachliche Art, ein hochengagierter Wahlkampf und eine Bürgernähe, die man bei den Kandidaten der Altparteien vergeblich sucht, haben zu diesem klaren Erfolg geführt. Der gestandene Kriminalkommissar Uwe Arendt hat den CDU-Kandidaten – einen weitgehend farb- und profillosen Parteisoldaten mit wenig Berufs- und Lebenserfahrung – deutlich auf den zweiten Platz verwiesen.",
+      "selector": "官方WordPress API post.id=1290 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P005",
+      "text": "In den Wahllokalen vor Ort erzielte Uwe Arendt oft 60 Prozent und mehr, teils doppelt so viele Stimmen wie die CDU. Erst die Briefwahl, bei der die CDU vorne lag, führte zum aktuellen Gesamtergebnis. Der Umstand, dass die Altparteien die manipulationsanfällige Briefwahl, bei der sie ihre besten Ergebnisse erzielen, immer offensiver bewerben, wirft zumindest Fragen auf.",
+      "selector": "官方WordPress API post.id=1290 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P006",
+      "text": "Davon lassen wir uns aber nicht beirren: Wir gehen nun mit voller Tatkraft in die Stichwahl, um die Bürger davon zu überzeugen, dass Uwe Arendt die beste Wahl für den Saalekreis ist.“",
+      "selector": "官方WordPress API post.id=1290 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P007",
+      "text": "Der Landesvorsitzende der AfD Sachsen-Anhalt, Martin Reichardt, betont die landespolitische Tragweite dieses Wahlerfolgs:",
+      "selector": "官方WordPress API post.id=1290 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P008",
+      "text": "„Dieses starke Zeichen bei der Landratswahl im Saalekreis ist ein politischer Paukenschlag. Unser Kandidat Uwe Arendt hat den Unionskandidaten mit 43,3 Prozent der Stimmen regelrecht deklassiert. Das Ergebnis gibt uns einen gewaltigen Rückenwind für die Landtagswahl im September, denn es beweist eindrucksvoll: 43 Prozent plus X sind für die AfD im gesamten Bundesland erreichbar. Jetzt gilt es, die Kräfte zu bündeln, die Stichwahl am 28. Juni zu gewinnen und Uwe Arendt zum ersten AfD-Landrat Sachsen-Anhalts zu machen.“",
+      "selector": "官方WordPress API post.id=1290 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

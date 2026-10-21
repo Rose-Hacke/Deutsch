@@ -1,0 +1,20 @@
+{
+  "source_id": "P_LV_1986",
+  "raw_path": "raw/search_WP003_20261021T085758907212Z.json",
+  "raw_sha256": "445900b9f311ed3e851dfb7964da4983affec44139808a22ea62693e271c3752",
+  "api_post_id": 1986,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Hier finden Sie die Transparenzerklärung zur o.g. Werbemaßnahme sowie ggf. die Transparenzerklärungen von Anbietern pol. Werbung gemäß der Verordnung (EU) 2024/900 des Europäischen Parlamentes und des Rates vom 13. März 2024 über die Transparenz und das Targeting politischer Werbung.",
+      "selector": "官方WordPress API post.id=1986 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Kampagne: Landtagswahl Sachsen-Anhalt 2026 – Kreisverband Mansfeld-Südharz",
+      "selector": "官方WordPress API post.id=1986 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

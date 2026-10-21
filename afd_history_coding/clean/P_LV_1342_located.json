@@ -1,0 +1,32 @@
+{
+  "source_id": "P_LV_1342",
+  "raw_path": "raw/search_WP011_20261021T085801219264Z.json",
+  "raw_sha256": "71613c7993590ba4d4d93e9ac95728ecb788f3651d85294641df55e94a5ef112",
+  "api_post_id": 1342,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Bürgermeisterwahl Mansfelder Grund-Helbra – AfD-Bewerber geht als Stimmenstärkster in die Stichwahl",
+      "selector": "官方WordPress API post.id=1342 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Bei der Wahl zum Bürgermeister in der Verbandsgemeinde Mansfelder Grund-Helbra hat der Kandidat der AfD, Gunter Wakan, im ersten Wahlgang die meisten Stimmen erhalten. Nach Auszählung aller 17 Wahlbezirke entfielen auf ihn 35,0 Prozent. Da kein Bewerber die absolute Mehrheit erreichte, kommt es zu einer Stichwahl zwischen Wakan und dem CDU-Bewerber Gerd Wyszkowski, auf den 28,5 Prozent entfielen.",
+      "selector": "官方WordPress API post.id=1342 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Dazu erklärt der Landesvorsitzende der AfD Sachsen-Anhalt, Martin Reichardt:",
+      "selector": "官方WordPress API post.id=1342 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "„Ich gratuliere Gunter Wakan herzlich zu diesem guten Ergebnis im ersten Wahlgang. Dass er vor allen Mitbewerbern liegt, ist sein persönlicher Erfolg und zugleich der Erfolg unserer fleißigen Mitglieder vor Ort, die seit Jahren verlässliche und bürgernahe Arbeit leisten. Auf diese starke regionale Verankerung können wir stolz sein. Das Ergebnis zeigt, dass viele Menschen hier einen politischen Wechsel wollen. Für die Stichwahl wünsche ich Gunter Wakan und allen Unterstützern viel Kraft.“",
+      "selector": "官方WordPress API post.id=1342 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

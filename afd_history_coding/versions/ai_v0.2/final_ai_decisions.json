@@ -1,0 +1,2991 @@
+{
+  "version": "v0.2",
+  "coder": "AI",
+  "created_at": "2026-10-21T17:15:13.944192+08:00",
+  "units": [
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U001",
+      "section": "序言：1953年与当下的反讽类比",
+      "printed_page": "3",
+      "pdf_page_index": "3",
+      "web_paragraph_locator": "",
+      "german_original": "Wir sind schon sehr unerzogene Bürger, undankbar, anspruchsvoll und unbequem. Wie hat es nicht Bertolt Brecht anlässlich der Niederschlagung des Volksaufstandes in der DDR am 17. Juni 1953 so schön formuliert? Die Altparteien haben es schlecht mit uns erwischt. Wir haben ihr Vertrauen verscherzt. Es wäre besser, die Altparteien würden uns auflösen und sich ein anderes Volk wählen.",
+      "chinese_translation": "我们可真是一群不守规矩、忘恩负义、要求多又难应付的公民。布莱希特在1953年6月17日民主德国民众起义遭镇压之际，不是曾如此贴切地表述吗？老牌政党摊上我们可真不走运。我们失去了它们的信任。老牌政党最好把我们解散，另选一个人民。",
+      "context_unit_ids": "",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "反讽批评老牌政党；所述解散人民不是作者支持的行动",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "H2": [
+          "Volksaufstandes in der DDR am 17. Juni 1953",
+          "明确指出DDR民众起义及具体日期，历史事件并非由关键词猜测"
+        ],
+        "F1": [
+          "Es wäre besser, die Altparteien würden uns auflösen und sich ein anderes Volk wählen.",
+          "以反讽批评政党排斥不顺从的人民，不是支持解散人民；政治排斥／代表关系倒置"
+        ],
+        "I1": [
+          "Wir sind schon sehr unerzogene Bürger",
+          "以反讽的我们公民建构与老牌政党相对的共同体；不限定为东部人"
+        ],
+        "B1": [
+          "Die Altparteien haben es schlecht mit uns erwischt.",
+          "把当下老牌政党放到对立一侧；需结合反讽识别立场"
+        ],
+        "T1": [
+          "Wie hat es nicht Bertolt Brecht anlässlich der Niederschlagung",
+          "用1953年的布莱希特典故转述当下政党与人民关系；属于类比，不验证当代等同DDR"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "序言：1953年与当下的反讽类比",
+      "group_referent": "公民／人民，非特指东部",
+      "f2_type": "",
+      "f1_type": "政治排斥／代表关系",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U002",
+      "section": "文化导言：AfD作为身份修复者",
+      "printed_page": "55",
+      "pdf_page_index": "55",
+      "web_paragraph_locator": "",
+      "german_original": "Die AfD-Sachsen-Anhalt wird diese Identitätsstörung durch eine neue, patriotische Kulturpolitik heilen. Die Kulturpolitik muss den Deutschen ihr Selbstbewusstsein zurückgeben. Wir werden durch gezielte Maßnahmen und Bezugnahmen auf die guten Seiten der deutschen Geschichte eine unverkrampfte und auf gesunde Weise selbstbewusste deutsche Identität fördern.",
+      "chinese_translation": "萨克森—安哈尔特州AfD将以新的爱国文化政策治愈这种身份认同障碍。文化政策必须把自信还给德国人。我们将通过有针对性的措施及对德国历史积极方面的援引，促进一种不拘束且以健康方式拥有自信的德国认同。",
+      "context_unit_ids": "",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "F2": [
+          "Selbstbewusstsein zurückgeben",
+          "明确要求恢复德国人的自信；子类型为尊严／自信的规范目标，不是已实现自豪"
+        ],
+        "I1": [
+          "den Deutschen ihr Selbstbewusstsein",
+          "明确以德国人为认同对象；不能改写成东部德国人"
+        ],
+        "T1": [
+          "Bezugnahmen auf die guten Seiten der deutschen Geschichte",
+          "把对历史积极方面的援引作为当下身份政策手段"
+        ],
+        "R1": [
+          "Die AfD-Sachsen-Anhalt wird diese Identitätsstörung",
+          "党自称能治愈集体认同障碍，并归还德国人自信；超过一般行政政策承诺"
+        ]
+      },
+      "questions": {
+        "F1": [
+          "diese Identitätsstörung",
+          "身份障碍或自信不足不当然等于不公待遇；需与前文归责及象征贬损论述共同复核"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "文化导言：AfD作为身份修复者",
+      "group_referent": "德国人",
+      "f2_type": "尊严／自信（规范目标）",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U003",
+      "section": "deutschdenken：地方历史贡献与国家身份",
+      "printed_page": "56",
+      "pdf_page_index": "56",
+      "web_paragraph_locator": "",
+      "german_original": "Die AfD Sachsen-Anhalt setzt dem eine deutschdenken-Kampagne entgegen, die darauf hinweist, dass Sachsen-Anhalt Wesentliches zur Entwicklung der deutschen Nation beigetragen hat. Von Heinrich I. und Otto I. über Luther bis hin zu Bismarck und Nietzsche: Aus Sachsen-Anhalt kommen Figuren, die Deutschland entscheidend geprägt haben. Das Gebiet des heutigen Sachsen-Anhalts war im Mittelalter das Zentrum des deutschen Reiches. Mit den Merseburger Zaubersprüchen kommt das älteste Dokument deutscher Sprache aus Sachsen-Anhalt. Noch viel mehr ließe sich erwähnen.",
+      "chinese_translation": "萨克森—安哈尔特州AfD以“deutschdenken”运动与之相对，指出该州为德意志民族的发展作出了重要贡献。从亨利一世、奥托一世，经路德，到俾斯麦和尼采：决定性地塑造德国的人物来自萨克森—安哈尔特。今天萨克森—安哈尔特所在的地区在中世纪是德意志帝国的中心。德语最古老的文献《梅泽堡咒语》也出自该州。还可以列举更多。",
+      "context_unit_ids": "S002_U010|S002_U002",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "H1": [
+          "Von Heinrich I. und Otto I. über Luther bis hin zu Bismarck und Nietzsche",
+          "明确列举长时段人物及文化文本，并叙述地方与国家历史关系；历史断言作为党派主张记录"
+        ],
+        "F2": [
+          "Sachsen-Anhalt Wesentliches zur Entwicklung der deutschen Nation beigetragen hat",
+          "明确肯定州的历史贡献，不仅是人物名出现"
+        ],
+        "I1": [
+          "Entwicklung der deutschen Nation",
+          "把地方历史放入德意志民族共同历史；内群体指向州与德国的嵌合，解释性较强"
+        ],
+        "T1": [
+          "eine deutschdenken-Kampagne entgegen",
+          "以这些历史贡献作为当下替代文化运动的依据；dem需前段文化政策语境"
+        ]
+      },
+      "questions": {
+        "R1": [
+          "Die AfD Sachsen-Anhalt setzt dem eine deutschdenken-Kampagne entgegen",
+          "党实施认同运动可支持代表性解释，但本单元尚无明确守护／代表资格措辞；不把党名自动当代表资格"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "deutschdenken：地方历史贡献与国家身份",
+      "group_referent": "州的历史贡献者—德意志民族",
+      "f2_type": "历史贡献",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U004",
+      "section": "战争纪念：牺牲、失敬与修复",
+      "printed_page": "57",
+      "pdf_page_index": "57",
+      "web_paragraph_locator": "",
+      "german_original": "Beinahe jeder Ort in Sachsen-Anhalt verfügt über ein Denkmal für die Gefallenen der beiden Weltkriege. An einigen Orten sind auch noch Denkmäler für die Gefallenen des deutsch-französischen Krieges 1870/71 oder der Schlacht von Königgrätz 1866 zu finden. Die meisten gerade auch der seltenen Denkmäler befinden sich in einem miserablen und beschämenden, das Andenken geradezu entehrenden Zustand. Wir werden deshalb einen Landesbeauftragten für den Erhalt der Kriegerdenkmäler einsetzen, der ein landesweites Verzeichnis erstellt, den Restaurierungsbedarf erfasst und in Zusammenarbeit mit Denkmalschutzbehörden die Kommunen zur Durchführung notwendiger Erhaltungsmaßnahmen bewegt. Dabei soll, wo nötig, auch eine finanzielle Förderung gewährt werden können. Die Förderung soll ohne kleingeistige politische Wertungen allen Denkmälern gleichermaßen zugutekommen. Gefallene Soldaten haben ihr Leben für die Verteidigung ihres Landes gegeben. Es ist ein erstes Zeichen der patriotischen Wende, dass wir dieses große Opfer anerkennen und ehren.",
+      "chinese_translation": "萨克森—安哈尔特几乎每个地方都有纪念两次世界大战阵亡者的纪念碑。一些地方还保留着纪念1870／71年德法战争或1866年克尼格雷茨战役阵亡者的纪念碑。多数纪念碑，尤其是那些罕见的纪念碑，状况糟糕而可耻，几乎有辱死者纪念。因此我们将设置州级战争纪念碑保护专员，编制全州名录，登记修复需要，并与文保部门合作促使各市镇采取必要保护措施。必要时还可给予财政支持。资助应不带狭隘的政治评判，平等惠及所有纪念碑。阵亡军人为保卫自己的国家献出了生命。我们承认并尊崇这一巨大牺牲，是爱国转向的第一个标志。",
+      "context_unit_ids": "",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "F1": [
+          "das Andenken geradezu entehrenden Zustand",
+          "明示纪念状况使死者荣誉受损；象征失敬的对象是阵亡者，非东部选民"
+        ],
+        "F2": [
+          "Gefallene Soldaten haben ihr Leben für die Verteidigung ihres Landes gegeben.",
+          "明确肯定阵亡士兵的牺牲；不能把牺牲评价改写成军事实力优越"
+        ],
+        "T1": [
+          "Wir werden deshalb einen Landesbeauftragten",
+          "以历史战争纪念碑及其现状为理由提出当下保护制度，deshalb连接直接"
+        ],
+        "H4": [
+          "Gefallenen der beiden Weltkriege",
+          "新增历史类型：两次世界大战、1866及1870/71年战争的纪念；不把这些全归为文化人物资源"
+        ]
+      },
+      "questions": {
+        "R1": [
+          "dass wir dieses große Opfer anerkennen und ehren",
+          "可以理解为记忆守护者主张，也可能只是保护政策；需按收紧后的代表资格规则复核"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "战争纪念：牺牲、失敬与修复",
+      "group_referent": "阵亡士兵及其纪念共同体",
+      "f2_type": "牺牲／荣誉",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U005",
+      "section": "东部形象：转述劣势而否定其评价",
+      "printed_page": "58",
+      "pdf_page_index": "58",
+      "web_paragraph_locator": "",
+      "german_original": "Gerade Altparteienpolitiker, die sich als Anwälte des Ostens aufspielen, zeichnen ein Bild von Ostdeutschland, das durch angebliche Benachteiligungen und Defizite geprägt ist. Der Osten habe weniger Wirtschaftskraft, sei anfälliger für „Populismus“ und weniger gefestigt in der Demokratie als der Westen. Diese Sicht wird dem Osten nicht gerecht. Der Osten ist kein schlechteres, er ist das bessere Deutschland.",
+      "chinese_translation": "恰恰是那些以东方代言人自居的老牌政党政治家，把东部德国描绘成具有所谓不利处境和缺陷的地方。他们说，东方经济实力较弱，更易受“民粹主义”影响，民主不如西方稳固。这种看法并不公正地对待东方。东方不是较差的德国，而是更好的德国。",
+      "context_unit_ids": "",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "否定转述的缺陷框架；肯定东部更好及其被错误评价",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "F1": [
+          "Diese Sicht wird dem Osten nicht gerecht.",
+          "作者肯定的是东部遭错误描绘的象征贬损；前面的物质劣势是带有angeblich及间接引语的对手说法，不能赋为作者赞同"
+        ],
+        "F2": [
+          "er ist das bessere Deutschland",
+          "明确宣称东方更好，子类型是优越性，不能降格为一般自豪"
+        ],
+        "I1": [
+          "Der Osten ist kein schlechteres",
+          "构造作为德国组成部分的东方共同体，并与西部比较"
+        ],
+        "B1": [
+          "die sich als Anwälte des Ostens aufspielen",
+          "否定老牌政党自称东方代理人的资格"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "东部形象：转述劣势而否定其评价",
+      "group_referent": "东部德国人与西部的比较",
+      "f2_type": "优越性",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U006",
+      "section": "革命经验与东部示范地位：事件年份不明",
+      "printed_page": "58",
+      "pdf_page_index": "58",
+      "web_paragraph_locator": "",
+      "german_original": "Die Bürger im Osten haben den Bürgern im Westen voraus, dass sie durch die Erfahrung einer Revolution hindurchgegangen sind. Deshalb sind sie politisch reflektierter und wacher. Der Osten ist kein Problemfall der deutschen Demokratie, er ist ihr Vorbild. Vom Konsummaterialismus des Westens und der Deutschlandfeindlichkeit der 68er-Bewegung verschont, hat der Osten mehr Deutschland bewahrt als der Westen. Eine AfD-Landesregierung wird dies zur Grundlage ihrer Kommunikationsstrategie machen.",
+      "chinese_translation": "东方公民比西方公民多了一种经历，即经历过一场革命。因此他们在政治上更有反思能力，也更警觉。东方不是德国民主的问题地区，而是它的榜样。东方未受西方消费物质主义和六八运动敌视德国的倾向侵扰，因而比西方保存了更多德国性。AfD州政府将以此作为其传播战略的基础。",
+      "context_unit_ids": "S002_U005",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "F2": [
+          "politisch reflektierter und wacher",
+          "把过去经验解释为今日政治能力优势；子类型为示范／优越性"
+        ],
+        "I1": [
+          "Die Bürger im Osten haben den Bürgern im Westen voraus",
+          "明确对比东西部公民"
+        ],
+        "B1": [
+          "Konsummaterialismus des Westens und der Deutschlandfeindlichkeit der 68er-Bewegung",
+          "通过对西方／六八运动的负面属性描绘划界"
+        ],
+        "T1": [
+          "durch die Erfahrung einer Revolution hindurchgegangen sind. Deshalb",
+          "明确把革命经验与当前政治素养用deshalb连接"
+        ]
+      },
+      "questions": {
+        "H2": [
+          "Erfahrung einer Revolution",
+          "语境很可能指1989年，但本单元未说DDR或年份；保留?，不能自动认定"
+        ],
+        "R1": [
+          "Eine AfD-Landesregierung wird dies zur Grundlage ihrer Kommunikationsstrategie machen.",
+          "明确承诺政府传播框架，但是否构成自我代表资格仍待定；不是因为出现AfD就取1"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "革命经验与东部示范地位：事件年份不明",
+      "group_referent": "东部德国人与西部的比较",
+      "f2_type": "示范／优越性",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S003",
+      "unit_id": "S003_U001",
+      "section": "提案第二项：七种历史资源",
+      "printed_page": "1",
+      "pdf_page_index": "1",
+      "web_paragraph_locator": "",
+      "german_original": "a) Die Merseburger Zaubersprüche - die Anfänge unserer Sprache; b) Otto in Magdeburg - das Zentrum des Reiches; c) Eike von Repgow und der Sachsenspiegel - die Entstehung des deutschen Rechts; d) Martin Luther - die Renaissance des deutschen Christentums; e) Friedrich Nietzsche - die Geburt einer deutschen Philosophie; f) Goethe-Theater in Bad Lauchstädt - Weimarer Klassik in Sachsen-Anhalt; g) Die Altmark - Bismarck und Preußentum in Sachsen-Anhalt.",
+      "chinese_translation": "a）《梅泽堡咒语》——我们语言的开端；b）马格德堡的奥托——帝国的中心；c）埃克·冯·雷普高与《萨克森法典》——德国法的形成；d）马丁·路德——德国基督教的复兴；e）弗里德里希·尼采——一种德国哲学的诞生；f）巴特劳赫施泰特歌德剧院——萨克森—安哈尔特的魏玛古典主义；g）阿尔特马克——萨克森—安哈尔特的俾斯麦与普鲁士传统。",
+      "context_unit_ids": "",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "Fraktion AfD",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "H1": [
+          "a) Die Merseburger Zaubersprüche",
+          "通过成组历史人物、文本与文化场所组织州的历史资源"
+        ],
+        "F2": [
+          "die Anfänge unserer Sprache",
+          "将地方资源表述为语言、法律和哲学的起源／形成；是贡献叙事而非人物仅被点名"
+        ],
+        "I1": [
+          "unserer Sprache",
+          "我们语言指向德语及德国共同体，不是仅指党组织"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "提案第二项：七种历史资源",
+      "group_referent": "德语共同体",
+      "f2_type": "起源／文化贡献",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S003",
+      "unit_id": "S003_U002",
+      "section": "提案理由：历史贡献及跨地域影响",
+      "printed_page": "3",
+      "pdf_page_index": "3",
+      "web_paragraph_locator": "",
+      "german_original": "Sachsen-Anhalt hat mit seiner Geschichte maßgebliche Impulse für die Entwicklung deutscher Sprache, Kultur und Identität gesetzt. Das Königtum Ottos I., die Reformation durch Martin Luther und die deutsche Bibelübersetzung waren prägende Meilensteine, die weit über die Landesgrenzen hinauswirkten. Orte wie der Magdeburger Dom und Wittenberg stehen als Symbole deutscher Geschichte und ziehen Besucher aus aller Welt an. Darüber hinaus war Sachsen-Anhalt immer ein Ort geistiger Erneuerung. Ein herausragendes Beispiel dafür ist Friedrich Nietzsche, der hier geboren wurde und die Philosophie tiefgreifend prägte.",
+      "chinese_translation": "萨克森—安哈尔特以自身历史为德国语言、文化和身份的发展提供了重要推动。奥托一世的王权统治、马丁·路德的宗教改革和德语《圣经》翻译，都是影响远超州界的重要里程碑。马格德堡大教堂和维滕贝格等地方象征着德国历史，吸引世界各地的游客。此外，该州一直是思想革新的地方。一个突出例子是在此出生、深刻影响哲学的弗里德里希·尼采。",
+      "context_unit_ids": "",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "Fraktion AfD",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "H1": [
+          "Das Königtum Ottos I., die Reformation durch Martin Luther",
+          "点名王权、宗教改革与文化贡献"
+        ],
+        "F2": [
+          "maßgebliche Impulse für die Entwicklung deutscher Sprache, Kultur und Identität",
+          "明确肯定州对德国语言、文化和认同的贡献"
+        ],
+        "T1": [
+          "stehen als Symbole deutscher Geschichte und ziehen Besucher aus aller Welt an",
+          "以历史符号连接当前旅游吸引力；是功能联系，不足以证明选民被动员"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "提案理由：历史贡献及跨地域影响",
+      "group_referent": "州历史资源，非明确当代内群体",
+      "f2_type": "历史贡献",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S003",
+      "unit_id": "S003_U003",
+      "section": "提案理由：被低估的贡献与认同解放",
+      "printed_page": "4",
+      "pdf_page_index": "4",
+      "web_paragraph_locator": "",
+      "german_original": "Die Kampagne „#deutschdenken“ bündelt die wichtigsten Elemente, die Sa chsen-Anhalt zur deutschen Kultur und Geschichte beigetragen hat. Sie verdeutlicht, dass unser kleines Bundesland mehr zur deutschen Identität beigetraten hat, als man vermuten mag und nutzt diesen Fokus, um die Bezugnahme auf deutsche Identität von den V erkrampfungen und Hemmungen der letzten Jahrzehnte zu befreien.",
+      "chinese_translation": "“deutschdenken”运动汇集萨克森—安哈尔特为德国文化和历史所贡献的最重要元素。它表明，我们这个小州对德国认同的贡献比人们或许以为的更多，并利用这一重点，使对德国认同的援引摆脱过去几十年的拘束和顾虑。",
+      "context_unit_ids": "S003_U002",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "Fraktion AfD",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "H1": [
+          "zur deutschen Kultur und Geschichte beigetragen hat",
+          "回指前页具体历史资源；如脱离前页，仅泛称贡献不够，故需关联上下文"
+        ],
+        "F2": [
+          "unser kleines Bundesland mehr zur deutschen Identität beigetraten hat",
+          "明确肯定小州超出预期的贡献；保留原文拼写beigetraten"
+        ],
+        "I1": [
+          "unser kleines Bundesland",
+          "以我们的小州构造共同体，并嵌入德国认同"
+        ],
+        "T1": [
+          "nutzt diesen Fokus, um die Bezugnahme auf deutsche Identität",
+          "明确把历史贡献焦点作为当下解除认同拘束的手段"
+        ]
+      },
+      "questions": {
+        "F1": [
+          "als man vermuten mag",
+          "贡献被低估可以含承认不足，但未明确不公待遇主体；Hemmungen也可能是心理诊断，故保留歧义"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "提案理由：被低估的贡献与认同解放",
+      "group_referent": "州居民／德国人嵌合",
+      "f2_type": "历史贡献",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U001",
+      "section": "议会发言：奥托墓穴与承认不足",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P024",
+      "german_original": "Wenn man dann sieht, wie angesichts dieser Bedeutung das Grab Ottos I. im Magdeburger Dom förmlich versteckt ist, wie sich kaum jemand dorthin verirrt und wie dort nichts auf seine nationale Bedeutung hinweist, dann erkennt man: Eine Kampagne „#deutschdenken“ ist längst überfällig.",
+      "chinese_translation": "再看看与这种重要性相比，奥托一世在马格德堡大教堂的墓穴几乎被隐藏起来，几乎无人走到那里，也没有任何东西提示他的国家意义，就会认识到：“deutschdenken”运动早就该开展了。",
+      "context_unit_ids": "S004_U013",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "H1": [
+          "das Grab Ottos I. im Magdeburger Dom",
+          "具体历史人物及纪念场所"
+        ],
+        "F1": [
+          "wie dort nichts auf seine nationale Bedeutung hinweist",
+          "以无人关注和无国家意义提示表达纪念承认不足；对象是历史遗产，不直接等于东部选民的不公"
+        ],
+        "T1": [
+          "dann erkennt man: Eine Kampagne „#deutschdenken“ ist längst überfällig.",
+          "由纪念状况推出当前运动的必要性"
+        ]
+      },
+      "questions": {
+        "F2": [
+          "angesichts dieser Bedeutung",
+          "本段以其重要性为前提，但贡献内容位于P020—P022；需核对上下文后决定是否同时赋贡献码"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：奥托墓穴与承认不足",
+      "group_referent": "奥托遗产与国家纪念",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U002",
+      "section": "议会发言：普鲁士历史与党组织纪念活动",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P026",
+      "german_original": "Nicht nur die Gründerfiguren des alten Deutschen Reiches, das 1806 aufgelöst wurde, kommen aus Sachsen-Anhalt. Auch der Begründer des Reiches von 1871, Otto von Bismarck, wurde 1815 bei Stendal in Sachsen-Anhalt geboren. Die Altmark gilt als die Wiege Preußens und das Vorgängergebilde Sachsen-Anhalts war die 1815 geschaffene preußische Provinz Sachsen. Die Geschichte Sachsen-Anhalts ist so aufs Engste mit der Geschichte Preußens verbunden, woran der AfD-Kreisverband Saalekreis in jedem Spätsommer mit seinem Preußenfest erinnert.",
+      "chinese_translation": "出自萨克森—安哈尔特的不仅有1806年解体的旧德意志帝国的缔造者。1871年帝国的缔造者奥托·冯·俾斯麦也于1815年出生在萨克森—安哈尔特施滕达尔附近。阿尔特马克被视为普鲁士的摇篮，而该州的前身是1815年成立的普鲁士萨克森省。因此，该州历史与普鲁士历史极为紧密地联系着，AfD萨勒县支部每年夏末以普鲁士节纪念这一联系。",
+      "context_unit_ids": "",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "H1": [
+          "Otto von Bismarck",
+          "具体调用俾斯麦、普鲁士与州历史关系"
+        ],
+        "T1": [
+          "woran der AfD-Kreisverband Saalekreis in jedem Spätsommer mit seinem Preußenfest erinnert.",
+          "文本用woran把历史关联与当下党组织的周期纪念活动直接连接"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：普鲁士历史与党组织纪念活动",
+      "group_referent": "地方—普鲁士历史联系，党组织作为活动者",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U003",
+      "section": "议会发言：隐秘德国与公众探访邀请",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P037",
+      "german_original": "Da ist sicher noch mehr, das nur auf seine Entdeckung wartet. Unsere Themenliste versteht sich nicht als eine abschließende Liste, sondern soll offen für Ergänzungen bleiben. Wenn man es wagt, all das zusammen zu sehen, dann erscheint unser Bundesland als ein Land, wo abseits der großen Szenen unserer jüngeren und jüngsten Geschichte im Stillen und in etwas fernerer Vergangenheit die Fundamente dessen gelegt wurden, was es bedeutet, deutsch zu sein. Man könnte davon sprechen, dass in Sachsen-Anhalt das geheime Deutschland zu finden sei. Unsere Kampagne „#deutschdenken“ will dazu einladen, sich in Sachsen-Anhalt auf die Suche nach diesem geheimen Deutschland zu machen. Denn in Sachsen-Anhalt steckt mehr Deutschland, als es den Anschein hat.",
+      "chinese_translation": "肯定还有更多内容等待发现。我们的主题清单并不自称封闭，而应继续开放补充。若敢于把这些放在一起看，我们这个州就显现为这样的地方：远离较近和最近历史的大场面，在宁静而稍远的过去，奠定了何为德国性的基础。可以说，在萨克森—安哈尔特能够找到隐秘的德国。我们的“deutschdenken”运动邀请人们在该州寻找这个隐秘的德国。因为该州蕴含的德国性比表面看起来更多。",
+      "context_unit_ids": "S004_U002|S004_U008",
+      "context_relation": "同一论证段落或相邻段；仅在编码行明确说明时用于判断",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "作者／发言者肯定立场",
+      "source_version": "本次获取版；见sources.csv原始文件SHA-256",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订，非已有人工作业）",
+      "quotation_verification": "AI对照已存文字层／网页段落；无OCR；PDF另作图像抽查",
+      "analysis_selection_reason": "试编码：覆盖清晰、边界及可能反例",
+      "segment_status": "AI试编码，非人工复核",
+      "ones": {
+        "H1": [
+          "in etwas fernerer Vergangenheit die Fundamente",
+          "回指前文具体历史清单，建构较长时段德国性起源；依赖前述资源段的语境"
+        ],
+        "F2": [
+          "die Fundamente dessen gelegt wurden, was es bedeutet, deutsch zu sein",
+          "把州定位为德国性的奠基之地，明确肯定贡献"
+        ],
+        "I1": [
+          "unser Bundesland",
+          "把我们州与德国性嵌合，群体指向并非单一东部人"
+        ],
+        "T1": [
+          "Unsere Kampagne „#deutschdenken“ will dazu einladen",
+          "将历史起源主张转成当下探访运动的依据"
+        ],
+        "A1": [
+          "sich in Sachsen-Anhalt auf die Suche nach diesem geheimen Deutschland zu machen.",
+          "向公众邀请探访与参与文化体验；不是投票号召，也不是单纯政府承诺"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：隐秘德国与公众探访邀请",
+      "group_referent": "州与德国认同的嵌合",
+      "f2_type": "历史奠基贡献",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "H4新增后逐码回溯检查；R1按明确代表资格标准收紧"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U007",
+      "section": "文化导言：否认恶意而归因于文化弱势",
+      "printed_page": "54",
+      "pdf_page_index": "54",
+      "web_paragraph_locator": "",
+      "german_original": "Wir unterstellen den Altparteien allerdings auch nicht, dass sie uns schaden wollen und hüten uns vor polemisch überschießenden Vorwürfen, die kein echtes Verständnis der Situation fördern. Grund für das destruktive Handeln der Altparteien ist weniger ein böser Wille, als eher Hemmung und Schwäche. Es ist eine Unfähigkeit, deutsche Interessen zu verteidigen und ein manischer Zwang, sich selbst zu schaden. Nationalmasochismus und fehlendes Selbstbewusstsein aber beruhen auf kulturellen Voraussetzungen. Die letzten Ursachen der aktuellen Misere sind somit kultureller Art und können deshalb nur durch gezielte Arbeit an den kulturellen Voraussetzungen geheilt werden.",
+      "chinese_translation": "但我们并不认定老牌政党想伤害我们，也避免提出不能真正增进理解的过度论战指控。其破坏性行为的原因与其说是恶意，不如说是拘束和软弱：没有能力捍卫德国利益，且有一种伤害自己的强迫冲动。民族受虐倾向和缺乏自信又有文化前提。因此，当前困境的最终根源在文化，只能通过有针对性地改变文化前提来治愈。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "肯定文化软弱归因；明确否定老牌政党主观想伤害我们的断言",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "I1": [
+          "deutsche Interessen zu verteidigen",
+          "以德国共同利益界定受损共同体"
+        ],
+        "B1": [
+          "weniger ein böser Wille, als eher Hemmung und Schwäche",
+          "归责为老牌政党的文化软弱，明确否定恶意动机；不把被否定的伤害意图当其主张"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "文化导言：否认恶意而归因于文化弱势",
+      "group_referent": "德国共同体与老牌政党",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U008",
+      "section": "文化导言：罪责记忆与民族自信受损的因果叙述",
+      "printed_page": "54",
+      "pdf_page_index": "54,55",
+      "web_paragraph_locator": "",
+      "german_original": "Eine Vergangenheitsbewältigung, die das genaue Gegenteil von Bewältigung ist, nämlich die Verewigung eines Schuldkomplexes, hat mittlerweile dazu geführt, dass Nationalstolz grundsätzlich als anrüchig gilt, die Verteidigung der eigenen Interessen als unanständig wahrgenommen wird und Politiker jede positive Bezugnahme auf unsere reiche Geschichte vor 1933 vermeiden. Eine Tradition der Traditionsvernichtung hat, von der 68er-Bewegung in Westdeutschland ausgehend, unser kulturelles Erbe entkernt und damit Möglichkeiten einer stabilen nationalen Identitätsbildung verbaut. Seiner Selbstbehauptungskräfte beraubt, ist Deutschland dem Einfluss der Regenbogenideologie hilflos ausgeliefert.",
+      "chinese_translation": "一种与真正克服过去恰恰相反、让罪责情结永续存在的“反思过去”，如今使民族自豪普遍被视为可疑，捍卫自身利益被认为不体面，政治家也回避对我们1933年前丰富历史作任何积极援引。一种从西德六八运动开始的摧毁传统的传统，掏空了我们的文化遗产，堵塞了稳定民族认同形成的可能。德国失去自我维护的力量，因而无助地暴露于彩虹意识形态的影响之下。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "von der 68er-Bewegung",
+          "具体调用西德六八文化运动及文化传统毁损的历史叙述"
+        ],
+        "F1": [
+          "Nationalstolz grundsätzlich als anrüchig gilt",
+          "作者主张民族自豪被贬为可疑、维护利益被斥不体面；是象征贬损，不是物质分配"
+        ],
+        "F2": [
+          "unsere reiche Geschichte vor 1933",
+          "肯定1933年前历史丰富；与自豪受贬直接处于同一因果论证"
+        ],
+        "I1": [
+          "unser kulturelles Erbe",
+          "构造拥有共同文化遗产的德国我们"
+        ],
+        "B1": [
+          "Eine Tradition der Traditionsvernichtung",
+          "把六八运动／文化政治视为认同损伤的责任来源"
+        ],
+        "T1": [
+          "hat mittlerweile dazu geführt",
+          "把记忆实践与六八历史解释为当下自豪／利益捍卫受抑的原因"
+        ]
+      },
+      "questions": {
+        "H4": [
+          "Verewigung eines Schuldkomplexes",
+          "很可能涉及NS罪责记忆，但此段未明确其历史对象；不从1933这个边界独自补成NS事件叙述"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "文化导言：罪责记忆与民族自信受损的因果叙述",
+      "group_referent": "德国人及国家文化遗产",
+      "f2_type": "历史文化价值",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U009",
+      "section": "文化导言：排他性认同示范能力主张",
+      "printed_page": "55",
+      "pdf_page_index": "55",
+      "web_paragraph_locator": "",
+      "german_original": "Angesichts der verkorksten und unattraktiven Identität, wie sie die Altparteien vorleben, kann man den Ausländern kaum verübeln, dass sie sich darin nicht integrieren wollen. Welcher vernünftige und stabile Türke oder Syrer will denn zu einem von Selbsthass geplagten, zerknirschten Regenbogen-Deutschen werden? Allein die AfD kann den Ausländern eine deutsche Identität vorleben, die attraktiv ist und Lust macht, daran Teil zu haben. Wir müssen mit uns selbst ins Reine kommen – erst dann können wir daran denken, Fremde zu integrieren.",
+      "chinese_translation": "面对老牌政党呈现的那种扭曲而没有吸引力的身份认同，很难责怪外国人不愿融入其中。哪个理性而稳定的土耳其人或叙利亚人愿意成为一个自我憎恨、懊丧的“彩虹德国人”？唯有AfD能向外国人示范一种具有吸引力、让人愿意加入的德国认同。我们必须先与自己和解，然后才谈得上整合外来者。",
+      "context_unit_ids": "S002_U002|S002_U008",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F2": [
+          "eine deutsche Identität vorleben, die attraktiv ist",
+          "肯定一种有吸引力的德国认同；是规范性自我价值目标，不是选民已接受"
+        ],
+        "I1": [
+          "Wir müssen mit uns selbst ins Reine kommen",
+          "将德国我们与外来者置于不同位置"
+        ],
+        "B1": [
+          "wie sie die Altparteien vorleben",
+          "将负面认同归于老牌政党，另划分德国人／外国人"
+        ],
+        "R1": [
+          "Allein die AfD kann",
+          "明确以唯有AfD宣称独特的集体认同示范与修复能力"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "文化导言：排他性认同示范能力主张",
+      "group_referent": "德国人；外国人作为整合对象",
+      "f2_type": "尊严／自信（规范目标）",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U010",
+      "section": "deutschdenken前提：反对包豪斯认同来源",
+      "printed_page": "56",
+      "pdf_page_index": "56",
+      "web_paragraph_locator": "",
+      "german_original": "Die Landesregierung betreibt unter dem Titel „moderndenken“ eine Imagekampagne, die versucht, aus dem Bauhaus die Identität des Landes Sachsen-Anhalt abzuleiten. Dabei war gerade die Bauhaus-Architekturschule immer bestrebt, jedes Anzeichen von nationaler Verwurzelung zu vermeiden. Die moderndenken-Kampagne treibt so die Politik der Identitätslosigkeit auf die Spitze.",
+      "chinese_translation": "州政府以“moderndenken”为名开展形象运动，试图从包豪斯推导该州认同。然而，包豪斯建筑学校一向试图避免任何民族扎根的迹象。“moderndenken”运动因而把缺乏身份认同的政治推向了极致。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "aus dem Bauhaus die Identität des Landes Sachsen-Anhalt abzuleiten",
+          "调用具体建筑学校传统，作为被否定的身份资源；H1不表示作者赞同该资源"
+        ],
+        "I1": [
+          "Identität des Landes Sachsen-Anhalt",
+          "明确讨论州共同身份及民族扎根"
+        ],
+        "B1": [
+          "Die moderndenken-Kampagne treibt",
+          "将州政府的包豪斯运动置于对立位置"
+        ],
+        "T1": [
+          "Dabei war gerade die Bauhaus-Architekturschule immer bestrebt",
+          "以建筑学校的历史属性解释当前形象运动的身份后果"
+        ]
+      },
+      "questions": {
+        "F1": [
+          "Politik der Identitätslosigkeit",
+          "可被理解为剥夺认同的指控，也可能仅为不认同其文化路线；不把所有政策批评都判不公"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "deutschdenken前提：反对包豪斯认同来源",
+      "group_referent": "州居民—德国民族认同",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U011",
+      "section": "deutschdenken手段：学校、旅游与纪念活动",
+      "printed_page": "56",
+      "pdf_page_index": "56",
+      "web_paragraph_locator": "",
+      "german_original": "Dass eine Landesregierung angesichts dieser Überfülle an großer deutscher Geschichte zu keinem anderen Stoff als einer umstrittenen Architekturschule greift, ist selbst schon ein deutliches Zeichen der Identitätsstörung, die wir kritisieren und die wir heilen werden. Unsere Kampagne #deutschdenken wird die schönsten Beispiele deutscher Geschichte, die Sachsen-Anhalt zu bieten hat, verknüpfen und selbstbewusst herausstellen. Durch Einbeziehung der Schulen, durch neue patriotische Tourismuskonzepte, die Vergabe von Preisen und die Durchführung von Gedenkveranstaltungen soll ein neues nationales Selbstbewusstsein angestoßen werden.",
+      "chinese_translation": "面对如此丰富的德国历史，州政府却只能选取一所存在争议的建筑学校，本身就是我们所批评并将治愈的认同障碍的明显表现。我们的“deutschdenken”运动将联结并自信展示该州能够提供的最美好的德国历史实例。通过纳入学校、推出新的爱国旅游方案、颁发奖项和举行纪念活动，将推动新的民族自信。",
+      "context_unit_ids": "S002_U003|S002_U010",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "dieser Überfülle an großer deutscher Geschichte",
+          "明确回指S002_U003刚列出的具体历史资源"
+        ],
+        "F2": [
+          "ein neues nationales Selbstbewusstsein",
+          "明确民族自信的规范目标；不是宣称已实现"
+        ],
+        "I1": [
+          "nationales Selbstbewusstsein",
+          "将州文化政策嵌入德国民族共同身份"
+        ],
+        "B1": [
+          "zu keinem anderen Stoff als einer umstrittenen Architekturschule greift",
+          "批评州政府的历史资源选择"
+        ],
+        "T1": [
+          "Durch Einbeziehung der Schulen",
+          "把选取的历史资源通过具体制度与旅游渠道用于当前认同塑造"
+        ],
+        "R1": [
+          "die wir kritisieren und die wir heilen werden",
+          "政党自称治愈州／国家认同障碍；结合前段AfD具名，记录明确回指"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "deutschdenken手段：学校、旅游与纪念活动",
+      "group_referent": "州居民与德国人",
+      "f2_type": "尊严／自信（规范目标）",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U012",
+      "section": "来源研究：附有补偿限定的罪责记忆批评",
+      "printed_page": "56",
+      "pdf_page_index": "56,57",
+      "web_paragraph_locator": "",
+      "german_original": "In Magdeburg befindet sich das „Deutsche Zentrum Kulturgutverluste“. Die dort betriebene sogenannte „Provenienzforschung“ durchforstet Museumsbestände auf nicht rechtmäßige Erwerbungen während der Kolonialzeit, der NS-Zeit und in der SBZ/DDR. Problematisch daran ist, dass diese Nachforschungen völlig ohne Anlass auch dann durchgeführt werden, wenn weder ein Alteigentümer noch ein Erbe die Restitution begehrt. In Fällen, in denen Geschädigte auftreten, muss selbstverständlich Unrecht wiedergutgemacht werden, der anlasslose Generalverdacht gegen alle Museumsbestände und die Suche nach Rechtsbrüchen, die niemand mehr beklagt, aber dienen nur der künstlichen Aufrechterhaltung eines Schuldgefühls, das wir endlich ablegen sollten. Besonders absurd ist dabei die Konstruktion einer kolonialen Schuld. Aktuell fördert das Land Sachsen-Anhalt das „Deutsche Zentrum Kulturgutverluste“ durch einen Zuschuss in Höhe von 73.500 Euro pro Jahr. Wir werden diesen Zuschuss komplett streichen.",
+      "chinese_translation": "马格德堡设有“德国文化财产损失中心”。那里所谓的“来源研究”检查博物馆藏品在殖民时期、纳粹时期及苏占区／民主德国时期是否被非法取得。其问题在于，即使旧所有者或继承人未要求返还，也在毫无起因的情况下开展这些调查。有受害者提出要求时，当然应当弥补不法行为；但对全部博物馆藏品作无具体起因的普遍怀疑，并搜寻已无人申诉的违法行为，只是在人工维持一种我们终于应当放下的罪责感。构造殖民罪责尤其荒谬。该州目前每年向该中心补助73500欧元。我们将完全取消这一补助。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "批评普遍调查与罪责维持；同时明确支持有受害者要求时弥补不法",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H2": [
+          "in der SBZ/DDR",
+          "明确回溯苏占区／DDR时期非法取得财物的核查；非1989记忆"
+        ],
+        "H4": [
+          "während der Kolonialzeit, der NS-Zeit",
+          "明确列举殖民与NS历史对象，不能据其批评推断作者赞同历史非法行为"
+        ],
+        "F1": [
+          "der anlasslose Generalverdacht gegen alle Museumsbestände",
+          "作者将对全部藏品的普遍怀疑描为无根据；对象是共享遗产／博物馆，非东部物质弱势"
+        ],
+        "I1": [
+          "eines Schuldgefühls, das wir endlich ablegen sollten",
+          "构造应摆脱共同罪责感的我们；群体指向德国认同语境，需人工核对"
+        ],
+        "B1": [
+          "dienen nur der künstlichen Aufrechterhaltung eines Schuldgefühls",
+          "把研究实践归为维持罪责感的责任者"
+        ],
+        "T1": [
+          "Wir werden diesen Zuschuss komplett streichen.",
+          "围绕具体历史取得争议，推出当下取消资助；同一连续论证且有明确dabei／dienen指涉"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "来源研究：附有补偿限定的罪责记忆批评",
+      "group_referent": "德国文化遗产共同体／博物馆",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U013",
+      "section": "老建筑：有历史属性但无明确转型回溯的反例",
+      "printed_page": "58",
+      "pdf_page_index": "58",
+      "web_paragraph_locator": "",
+      "german_original": "In Sachsen-Anhalt verfügen viele Städte über eine gute Altbau substanz, vor allem in den historischen Innenstadtbereichen. Der Erhalt dieser identitätsstiftenden und Wohnraum schaffenden Altbausubstanz ist jetzt, 20 bis 30 Jahre nach der letzten Sanierung, mit großen Fragezeichen behaftet.",
+      "chinese_translation": "萨克森—安哈尔特许多城市拥有良好的老建筑存量，尤其在历史内城。保护这些能够塑造认同并提供住房的老建筑，如今在上一次修缮过去二三十年后，面临很大的不确定性。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {},
+      "questions": {
+        "I1": [
+          "identitätsstiftenden",
+          "明确说建筑塑造认同，但未指认共同体；是否足以构成内群体建构待核"
+        ],
+        "T1": [
+          "20 bis 30 Jahre nach der letzten Sanierung",
+          "有建筑与维修时间关系，但是否足以构成研究问题所要求的历史—当下叙事连接不清；不可直接说统一后转型"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "老建筑：有历史属性但无明确转型回溯的反例",
+      "group_referent": "未明确指认身份群体",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U014",
+      "section": "建筑政策：1990年时间标记不自动等于统一后转型",
+      "printed_page": "59",
+      "pdf_page_index": "59",
+      "web_paragraph_locator": "",
+      "german_original": "Öffentliche Gebäude, die nach 1990 in Sachsen-Anhalt errichtet wurden, sind oft von einer außerordentlichen Hässlichkeit. Für sehr viel Geld werden nichtssagende Klötze oder andere kalt wirkende, traditionslose geometrische Formen in die Welt gesetzt. Zu nennen wäre etwa die sogenannte „Sinuskurve“ in Magdeburg, August-Bebel-Damm, oder das Gebäude der Nord-LB in Magdeburg am Domplatz. Wir werden dem ein Ende bereiten, indem wir der Bauordnung des Landes Sachsen-Anhalt (BauO LSA) eine Richtlinie einfügen, die vorschreibt, dass jedes Bauobjekt, bei dem das Land oder eine Kommune Träger ist und das einem öffentlichen Zweck dient, eine anerkannte Bautradition aufzugreifen hat. Traditionslose Konstruktionen sind zu vermeiden, regionale Materialien von hoher Langlebigkeit zu bevorzugen. Wir orientieren uns damit an einer von Donald Trump während seiner ersten Amtszeit erlassenen Exekutivorder. Öffentliche Gebäude müssen von der Mehrheit der Bevölkerung als schön empfunden werden und müssen historische Identität widerspiegeln.",
+      "chinese_translation": "1990年后在萨克森—安哈尔特建成的公共建筑往往极其丑陋。花费巨资，却造出毫无意味的方块或其他冰冷、没有传统的几何形式。例如马格德堡奥古斯特—倍倍尔堤的“正弦曲线”建筑，或大教堂广场的北德意志州银行建筑。我们将终结这种状况，在州建筑法中加入规范，要求由州或市镇建设并服务公共目的的建筑采用一种得到认可的建筑传统。应避免没有传统的构造，优先使用耐久的地方材料。我们在此参照唐纳德·特朗普首个任期中的一项行政命令。公共建筑必须被多数居民视为美，也必须反映历史认同。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "T1": [
+          "müssen historische Identität widerspiegeln",
+          "要求当前公共建筑继承历史形式，以历史身份作为设计规范"
+        ]
+      },
+      "questions": {
+        "H3": [
+          "nach 1990",
+          "明确说1990年以后，但未把建筑变化与统一／转型经历相连；年代标记与转型记忆之间留?"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "建筑政策：1990年时间标记不自动等于统一后转型",
+      "group_referent": "州居民；公共建筑的历史认同",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U015",
+      "section": "乡土传统：财政工具与身份延续",
+      "printed_page": "61",
+      "pdf_page_index": "61",
+      "web_paragraph_locator": "",
+      "german_original": "Wir bekennen uns zur kulturellen Identität unserer Heimat. Statt einer Landeszentrale für politische Bildung, die linken Ungeist verbreitet, werden wir Aktivitäten fördern, die das Heimatgefühl und die Nationalidentität stärken. Dazu gehört, dass Brauchtum und Traditionen erhalten werden müssen. Zu diesem Zweck sollen Ortschaften fünf Euro pro Einwohner und Jahr als ungebundene Schlüsselzuweisung für Brauchtum und Tradition vom Land erhalten. Wofür genau innerhalb des breiten Rahmens der Brauchtums- und Traditionspflege diese Zuweisung verwendet wird, hat der Ortschaftsrat per Abstimmung zu beschließen.",
+      "chinese_translation": "我们认同家乡的文化身份。与传播左派不良精神的政治教育中心不同，我们将资助强化乡土感和民族认同的活动，其中包括保存习俗与传统。为此，州每年按每位居民五欧元向村镇提供不指定用途的习俗传统经费。具体在广泛的习俗传统维护范围内如何使用，由村镇议会表决决定。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "I1": [
+          "kulturellen Identität unserer Heimat",
+          "明确以家乡及民族认同构造内群体"
+        ],
+        "B1": [
+          "Statt einer Landeszentrale für politische Bildung, die linken Ungeist verbreitet",
+          "把现有政治教育机构设为相反路线"
+        ],
+        "T1": [
+          "Brauchtum und Traditionen erhalten werden müssen",
+          "明确以保留传统为当下财政措施的目的；延续关系直接，但未列具体历史事件"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "乡土传统：财政工具与身份延续",
+      "group_referent": "乡土共同体与德国民族认同",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U016",
+      "section": "教会给付：制度历史解释，非受辱共同体叙事",
+      "printed_page": "66",
+      "pdf_page_index": "66",
+      "web_paragraph_locator": "",
+      "german_original": "Jedes Jahr zahlt das Land Sachsen-Anhalt den großen Kirchensteuerkirchen über 40 Millionen Euro Steuergeld als sogenannte „Staatsleistungen“. Diese Zahlungen sind letztlich eine Entschädigung für Kirchengüter, die 1803 enteignet wurden. Schon die 1919 in Kraft getretene Weimarer Reichsverfassung forderte, diese Staatsleistungen abzulösen, ohne dass dem nachgekommen worden wäre. Der ursprüngliche Grund – ein Rechtsakt des 1806 untergegangen Heiligen Römischen Reiches deutscher Nation – ist nach realistischer Betrachtung längst erloschen. Die Geschäftsgrundlage ist mehrfach weggefallen. De facto haben sich die Staatsleistungen von einer Enteignungsentschädigung zu einer allgemeinen Kirchenförderung entwickelt.",
+      "chinese_translation": "该州每年向大型征收教会税的教会支付四千多万欧元所谓“国家给付”。这些付款归根到底是对1803年被征收教产的补偿。1919年生效的魏玛宪法已要求终结这些给付，但至今未执行。原始理由——1806年消亡的德意志民族神圣罗马帝国的一项法律行为——在现实考量中早已失效，交易基础已多次消失。事实上，国家给付已由征收补偿变成一般教会资助。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "die 1919 in Kraft getretene Weimarer Reichsverfassung",
+          "具体追溯1803年征收、1919年宪制与历史政治实体"
+        ],
+        "T1": [
+          "von einer Enteignungsentschädigung zu einer allgemeinen Kirchenförderung entwickelt",
+          "以历史法律基础的演变论证当下制度性质，属于过去—现在连续性／断裂解释"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "教会给付：制度历史解释，非受辱共同体叙事",
+      "group_referent": "教会给付制度；未构造受损东部共同体",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U017",
+      "section": "旅游：经济政策替代解释",
+      "printed_page": "151",
+      "pdf_page_index": "151",
+      "web_paragraph_locator": "",
+      "german_original": "Der heimische Tourismus ist ein wichtiger und zukunftsträchtiger Wirtschaftsfaktor für Sachsen-Anhalt. Für unser überwiegend ländlich geprägtes Bundesland schafft er Einkommensmöglichkeiten, Bleibeperspektiven für einheimische Fachkräfte und die Möglichkeit, die Infrastruktur vor Ort zu entwickeln. Während der Inlandstourismus in den meisten Bundesländern floriert, verharrt er in Sachsen-Anhalt in trister Stagnation. Verantwortlich dafür ist die CDU-geführte Landesregierung. Seit ihrem Amtsantritt ist es ihr nicht gelungen, den Tourismus angemessen zu fördern und dabei die kulturellen Eigenheiten sowie die historische Prägung des Landes zu nutzen. Eine AfD-geführte Landesregierung wird im Rahmen der neuen Kampagne #deutschdenken ein in sich stimmiges Konzept entwickeln und umsetzen, um dem Tourismus in Sachsen-Anhalt zu neuer Blüte zu verhelfen.",
+      "chinese_translation": "本地旅游是该州重要而有前景的经济因素。对于以乡村为主的州，它创造收入、为本地专业人才留下来提供前景，也能发展地方基础设施。多数州的国内旅游蓬勃发展，萨克森—安哈尔特却陷于黯淡停滞。对此负责的是CDU领导的州政府。它任职以来未能妥善促进旅游，也未能利用地方文化特点与历史烙印。AfD领导的州政府将围绕新的“deutschdenken”运动制定并落实协调的方案，使该州旅游重新繁荣。",
+      "context_unit_ids": "S002_U003|S002_U011",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "B1": [
+          "Verantwortlich dafür ist die CDU-geführte Landesregierung.",
+          "明确将旅游停滞归责CDU政府；不把停滞本身自动编码为不公"
+        ]
+      },
+      "questions": {
+        "T1": [
+          "die historische Prägung des Landes zu nutzen",
+          "有概括历史资源的政策利用，却未在此段指认特定过去；与文化章节的连接须按明确同名运动回指复核"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "旅游：经济政策替代解释",
+      "group_referent": "州经济／地方就业；不是明确的东部受辱身份",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U018",
+      "section": "关键词反例：Lutherstadt只是交通地名",
+      "printed_page": "200",
+      "pdf_page_index": "200",
+      "web_paragraph_locator": "",
+      "german_original": "Die AfD-Sachsen-Anhalt bekennt sich ohne Wenn und Aber zum klassischen Automobil mit Verbrennungsmotor als Grundlage unserer Mobilität. Gleichwohl werden wir, nicht als Ersatz, aber als sinnvolle Ergänzung zum privaten PKW, den öffentlichen Personen-Nahverkehr weiter ausbauen. Der Rückbau von Bahnhöfen, wie zum Beispiel der Bahnhof Jütrichau zwischen Zerbst und Roßlau wird gestoppt. Gleichzeitig werden stillgelegte Bahngleise, wo immer es möglich und sinnvoll ist und nicht gegen die Interessen der Bürger verstößt, wiederbelebt. Die Heidebahn zwischen der Lutherstadt Wittenberg und Eilenburg muss länderübergreifend (Sachsen-Anhalt und Sachsen) in den öffentlichen Personen-Nahverkehr übernommen und regelmäßig befahren werden.",
+      "chinese_translation": "萨克森—安哈尔特州AfD明确支持以传统内燃机汽车作为出行基础。同时，我们将继续扩建公共短途客运，作为私人汽车的合理补充而非替代。将停止拆减车站，例如采尔布斯特和罗斯劳之间的于特里豪车站。只要可能、合理且不违反公民利益，也将恢复停用铁路。路德城维滕贝格与艾伦堡之间的海德铁路，必须跨州纳入萨克森—安哈尔特和萨克森的公共短途客运并定期运行。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {},
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "关键词反例：Lutherstadt只是交通地名",
+      "group_referent": "普通交通政策；Luther不是历史调用",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U019",
+      "section": "无历史的公民能力与被居高临下对待框架",
+      "printed_page": "219",
+      "pdf_page_index": "219",
+      "web_paragraph_locator": "",
+      "german_original": "Unseren Bürgern in Sachsen-Anhalt muss man Demokratie nicht erklären! Wir brauchen keine betreute Meinung, sondern echten Pluralismus! Medien müssen wieder das ganze Meinungsspektrum abbilden, nicht nur, was gerade in Redaktionssitzungen dem eigenen Wunschbild entspricht. Wir werden deshalb als Regierung darauf hinwirken, den öffentlichen Rundfunk und aus öffentlichen Mitteln geförderte Radiosender zu politischer Neutralität und Ausgewogenheit zu verpflichten.",
+      "chinese_translation": "不需要向我们萨克森—安哈尔特的公民解释什么是民主！我们不需要受照管的意见，而要真正的多元！媒体必须再次反映全部意见，而非只反映编辑会议自己的理想图景。因此，作为政府，我们将推动公共广播及接受公款资助的电台遵守政治中立与平衡。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F1": [
+          "Wir brauchen keine betreute Meinung",
+          "拒绝对公民意见的居高临下管理，属于象征／政治承认主张"
+        ],
+        "F2": [
+          "muss man Demokratie nicht erklären",
+          "肯定州公民的民主理解能力；未提供历史经验作为理由，不能默补1989"
+        ],
+        "I1": [
+          "Unseren Bürgern in Sachsen-Anhalt",
+          "明确构造州公民共同体"
+        ],
+        "B1": [
+          "nicht nur, was gerade in Redaktionssitzungen dem eigenen Wunschbild entspricht",
+          "把编辑部偏好与公民多元意见置于对立"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "无历史的公民能力与被居高临下对待框架",
+      "group_referent": "萨克森—安哈尔特州公民",
+      "f2_type": "公民能力肯定",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S002",
+      "unit_id": "S002_U020",
+      "section": "序言：对1953类比的限定与投票号召",
+      "printed_page": "4",
+      "pdf_page_index": "4",
+      "web_paragraph_locator": "",
+      "german_original": "Keine Sorge! Die Diktatur der Altparteien ist im Moment noch nicht Realität. Am 6. September wählen noch nicht die Altparteien ein neues Volk, wenn sie es auch gerne wollten, sondern das Volk, also wir, entscheiden, welche Parteien unsere Interessen vertreten sollen. Noch können wir das. Und wir sollten es tun, solange wir es noch können. Es ist vielleicht unsere letzte Chance.",
+      "chinese_translation": "别担心！老牌政党的专政目前还不是现实。9月6日还不是由它们挑选新的人民，尽管它们愿意如此，而是由人民，也就是我们，决定哪些政党应代表我们的利益。我们还能够这样做。只要还能够，我们就应该去做。这或许是我们最后的机会。",
+      "context_unit_ids": "S002_U001",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "AfD Landesverband Sachsen-Anhalt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "肯定选举必要；明确否定当下已是老牌政党专政",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F1": [
+          "wenn sie es auch gerne wollten",
+          "把让政党选择人民描述为其意愿及将来威胁，但明确说尚非现实"
+        ],
+        "I1": [
+          "das Volk, also wir",
+          "明确把我们等同人民，非特指东部"
+        ],
+        "B1": [
+          "die Altparteien ein neues Volk",
+          "将老牌政党与人民选择权置于潜在对立"
+        ],
+        "T1": [
+          "Am 6. September wählen noch nicht die Altparteien ein neues Volk",
+          "直接延续前页布莱希特1953典故，并强调当下尚未成为专政，不能说作者宣布当下等同DDR"
+        ],
+        "A1": [
+          "Und wir sollten es tun, solange wir es noch können.",
+          "明确劝公众利用仍存在的选举选择权"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "序言：对1953类比的限定与投票号召",
+      "group_referent": "公民／人民",
+      "f2_type": "",
+      "f1_type": "政治排斥威胁",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S003",
+      "unit_id": "S003_U004",
+      "section": "提案第一项：历史态度与州示范角色",
+      "printed_page": "1",
+      "pdf_page_index": "1",
+      "web_paragraph_locator": "",
+      "german_original": "1. Die Kampagne „#deutschdenken“ wird als Ersatz für die Landeskampagne „#moderndenken“ als neues Markenzeichen für Sachsen-Anhalt eingeführt. Dadurch soll ein grundsätzlich bejahender, unbelasteter, respektvoller und wertschätzender Umgang mit der deutschen Geschichte etabliert werden. Diese identitäts- und kulturpolitische Akzentsetzung soll Sachsen-Anhalt im Bundesvergleich ein Alleinstellungsmerkmal verleihen, das nicht nur unsere Landesmarke nachhaltig prägen und den kulturellen und kulturpolitischen Tourismus anregen wird, sondern Sachsen-Anhalt auch eine Führungsrolle bei der anstehenden kulturpolitischen Wende zuweist.",
+      "chinese_translation": "“deutschdenken”将取代州“moderndenken”运动，成为该州的新标识。由此应建立一种原则上肯定、不背负包袱、尊重且珍视德国历史的态度。这种身份及文化政策重点，应赋予该州在各州比较中的独特特征，不仅持续塑造州品牌、促进文化及文化政策旅游，还使该州在即将到来的文化政策转向中发挥领导作用。",
+      "context_unit_ids": "S003_U001",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Fraktion AfD",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F2": [
+          "eine Führungsrolle",
+          "要求州取得文化政策领先地位；标为未来目标，不说已经优越"
+        ],
+        "I1": [
+          "unsere Landesmarke",
+          "在身份政策论证中以我们州品牌构造州共同体"
+        ],
+        "T1": [
+          "Umgang mit der deutschen Geschichte",
+          "把特定的肯定历史态度直接连接当前品牌与旅游政策；资源内容由紧随的主题名单明确"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "提案第一项：历史态度与州示范角色",
+      "group_referent": "州共同体与德国认同",
+      "f2_type": "示范／领先（未来目标）",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S003",
+      "unit_id": "S003_U005",
+      "section": "提案第三项a：历史遗址旅游路线",
+      "printed_page": "1",
+      "pdf_page_index": "1,2",
+      "web_paragraph_locator": "",
+      "german_original": "a) Eine Straße des deutschen Reiches, die alle bedeutenden historischen Stätten des 10. bis 16. Jahrhunderts nach Vorbild der Straße der Romanik zu einer auch touristisch nutzbaren Route verbindet. Neben dem Magdeburger Dom, der Kaiserpfalz in Memleben, dem Quedlinburger Dom und den Wirkungsstätten Martin Luthers in Eisleben und Wittenberg sollen auch weniger bekannte historische Stätten, vor allem Burgen und Schlösser, erfasst werden und dadurch in ihrer Entwicklung profitieren.",
+      "chinese_translation": "仿照罗曼式建筑之路，建立一条将十至十六世纪重要历史遗址联为旅游路线的“德意志帝国之路”。除马格德堡大教堂、梅姆莱本行宫、奎德林堡大教堂及路德在艾斯莱本、维滕贝格的活动地点外，也应纳入较少知名的历史场所，特别是城堡和宫殿，使它们的发展受益。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Fraktion AfD",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "historischen Stätten des 10. bis 16. Jahrhunderts",
+          "明确点名时期、建筑、行宫及路德地点"
+        ],
+        "T1": [
+          "zu einer auch touristisch nutzbaren Route verbindet",
+          "把具体历史场所组织为当下可利用旅游产品；并非公众投票号召"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "提案第三项a：历史遗址旅游路线",
+      "group_referent": "历史地点与旅游发展",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S003",
+      "unit_id": "S003_U006",
+      "section": "提案第三项b：学校中的记忆资源替换",
+      "printed_page": "2",
+      "pdf_page_index": "2",
+      "web_paragraph_locator": "",
+      "german_original": "b) Die Themen der Kampagne sollen in den Lehrplänen verstärkte Berücksichtigung finden. Dazu sind vor allem die Lehrpläne in den Fächern Deutsch, Geschichte und Politik/Sozialkunde zu überarbeiten. Weiterhin sind anstelle der sog. Gedenkstättenfahrten, die zurzeit an den Schulen in Kooperation mit der Landeszentrale für politische Bildung durchgeführt werden, Exkursionen zu historischen Stätten, die einen Bezug zu den jeweiligen Themen aufweisen, durchzuführen. Die Landesregierung regt außerdem Schulumbenennungen an, um an herausragende historische Persönlichkeiten in Verbindung mit der Landeskampagne zu erinnern.",
+      "chinese_translation": "运动主题应在课程中得到更多考虑，尤其应修改德语、历史及政治／社会学课程。此外，应以与各主题相关的历史遗址考察取代目前学校与州政治教育中心合作开展的所谓纪念场所参访。州政府还应推动学校改名，以结合州运动纪念杰出的历史人物。",
+      "context_unit_ids": "S003_U001",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Fraktion AfD",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "herausragende historische Persönlichkeiten",
+          "回指提案第二项具体人物名单，作为课程与校名资源"
+        ],
+        "T1": [
+          "anstelle der sog. Gedenkstättenfahrten",
+          "明确提出当下学校纪念参访的资源替换；不能因Gedenkstätten一词就默认为所有参访都是集中营参访"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "提案第三项b：学校中的记忆资源替换",
+      "group_referent": "学校中的德国历史认同",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S003",
+      "unit_id": "S003_U007",
+      "section": "提案第三项e：奖项制度与认同贡献标准",
+      "printed_page": "2",
+      "pdf_page_index": "2",
+      "web_paragraph_locator": "",
+      "german_original": "e) Die Landesregierung lobt namhaft dotierte Historiker-, Kunst-, Philosophie- und Literaturpreise aus, die sich je einem Thema der Kampagne zuordnen lassen und für herausragende Leistungen auf den jeweiligen Gebieten vergeben werden, die einen Beitrag zur Bestätigung oder Weiterentwicklung deutscher Identität erkennen lassen.",
+      "chinese_translation": "州政府设置奖金可观的历史学、艺术、哲学及文学奖，各奖对应运动的一项主题，奖励有关领域中能够表明对确认或进一步发展德国认同作出贡献的突出成就。",
+      "context_unit_ids": "S003_U001",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Fraktion AfD",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F2": [
+          "herausragende Leistungen",
+          "明确肯定对德国认同作贡献的成就；是奖项遴选规范，不是已获公众承认"
+        ],
+        "I1": [
+          "Bestätigung oder Weiterentwicklung deutscher Identität",
+          "以共同的德国认同作为贡献尺度"
+        ],
+        "T1": [
+          "je einem Thema der Kampagne zuordnen lassen",
+          "奖项与既列历史主题直接对应；注明跨单元的制度化联系"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "提案第三项e：奖项制度与认同贡献标准",
+      "group_referent": "德国认同共同体",
+      "f2_type": "贡献／成就（规范目标）",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S003",
+      "unit_id": "S003_U008",
+      "section": "提案第三项h：产品名称并非自动自豪表达",
+      "printed_page": "3",
+      "pdf_page_index": "3",
+      "web_paragraph_locator": "",
+      "german_original": "h) Die Landesregierung führt einen „Stolz-Pass“ ein, der an allen historischen Stätten, die im Zusammenhang mit der Kampagne stehen, erworben werden kann. Nach Art einer Stempelkarte sind auf ihm alle historischen Stätten im Zusammenhang mit der Kampagne verzeichnet, wobei der Eintritt sich je mehr vergünstigt, je mehr Stätten bereits besucht wurden.",
+      "chinese_translation": "州政府推出“自豪通行证”，可在与运动有关的所有历史遗址购买。它像集章卡一样列出相关历史遗址，去过的地点越多，门票优惠就越大。",
+      "context_unit_ids": "S003_U001",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Fraktion AfD",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "T1": [
+          "an allen historischen Stätten, die im Zusammenhang mit der Kampagne stehen",
+          "把运动所调用的历史场所接入当下集章优惠制度；并非公众明确行动号召"
+        ]
+      },
+      "questions": {
+        "F2": [
+          "„Stolz-Pass“",
+          "自豪只是产品名；是否可单凭名称赋情感评价不清，保留?而不关键词命中即1"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "提案第三项h：产品名称并非自动自豪表达",
+      "group_referent": "潜在游客，未明确集体身份",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U004",
+      "section": "议会发言：包豪斯、普遍主义与德国特殊性",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P010",
+      "german_original": "Die Kampagne „#moderndenken“ beruht auf einem verflachten Modernitätsverständnis im Sinne einer geistig armen, spezifisch linken Progressivitätsideologie: vorwärts immer, rückwärts nimmer! Was aber ließe sich diesem selbstzweckhaften Fortschrittlichkeitsdenken entgegenhalten? Da die Modernität des Bauhauses auf die Aufhebung der nationalen Besonderheiten zielt und die Bindung des Menschen an den Boden einer Nationalkultur im Sinne einer totalen Globalisierung aufzuheben trachtet; da also diese Art von Modernität mit einem starken Universalitätsanspruch einhergeht, scheint das Festhalten an deutscher Identität und Partikularität als eigentliche Gegenthese zur Kampagne „#moderndenken“ der Landesregierung deshalb „#deutschdenken“ zu sein.",
+      "chinese_translation": "“moderndenken”运动基于一种扁平的现代性理解，即精神贫乏、具有特定左派色彩的进步意识形态：永远向前，绝不后退！但有什么能与这种以进步自身为目的的思维相对？包豪斯现代性旨在消除民族特征，并以彻底全球化的意义解除人与民族文化土壤的联系；这种现代性因此带有强烈普遍性诉求。所以，坚持德国认同与特殊性、以“deutschdenken”相对，似乎就是州政府“moderndenken”运动真正的反命题。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "Modernität des Bauhauses",
+          "调用包豪斯的历史文化特征，作者对其作负面评价"
+        ],
+        "I1": [
+          "Festhalten an deutscher Identität und Partikularität",
+          "明确以德国认同及特殊性为共同体尺度"
+        ],
+        "B1": [
+          "spezifisch linken Progressivitätsideologie",
+          "将左派进步主义／普遍主义与德国特殊性对立"
+        ],
+        "T1": [
+          "eigentliche Gegenthese zur Kampagne",
+          "从历史文化流派属性推出当前两种州品牌的对立"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：包豪斯、普遍主义与德国特殊性",
+      "group_referent": "德国民族文化共同体",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U005",
+      "section": "议会发言：语言熟悉感与跨时间我们",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P014",
+      "german_original": "Aus einer Zeit, aus der sonst nichts überliefert ist, sprechen uns die Merseburger Zaubersprüche an; einem heutigen Deutschen kaum noch verständlich, aber eben auch nicht ganz unverständlich. Die „Schwester“ erscheint als „Suister“, das Verb „fahren“ als „fuorun“, der Wald als „Holz“, als Gehölz, wie wir heute noch sagen würden, und den Vers „ben zibena“ dürften die meisten auch heute verstehen: „Bein zu Bein“ oder, in einer mittlerweile veralteten, aber immer noch brauchbaren Form: „Bein zu Beine“; ein urvertrauter Klang aus den Tiefen unserer Geschichte.",
+      "chinese_translation": "《梅泽堡咒语》从一段几乎没有其他文献传世的时代向我们说话；今天的德国人几乎已无法理解，却又不是完全陌生。“姐妹”写作Suister，“行驶”是fuorun，“森林”是Holz，犹如我们今天仍会说的Gehölz。多数人今天大概也懂ben zibena，即“骨与骨”，或者用一种已旧却仍可使用的形式Bein zu Beine；这是来自我们历史深处的一种原初而熟悉的声音。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "Merseburger Zaubersprüche",
+          "具体使用古代语言文献与词例"
+        ],
+        "I1": [
+          "aus den Tiefen unserer Geschichte",
+          "构造拥有同一语言历史的德国我们"
+        ],
+        "T1": [
+          "wie wir heute noch sagen würden",
+          "明确比较古代词形与今天可理解的语言，建构连续性"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：语言熟悉感与跨时间我们",
+      "group_referent": "德语／德国共同体",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U006",
+      "section": "议会发言：UNESCO承认延迟的指控",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P015,P016,P018",
+      "german_original": "Die in der Merseburger Dombibliothek 1842 aufgefundene Zaubersprüche markieren als die ältesten Dokumente des Althochdeutschen den Beginn der deutschen Sprachgeschichte. Die Merseburger Zaubersprüche sollen deshalb im Jahr 2026 in das Weltdokumentenerbe der UNESCO eingetragen werden. Dieses Weltdokumentenerbe besteht allerdings schon seit dem Jahr 1992. Ich frage mich: Weshalb mussten mehr als 30 Jahre vergehen, bis jemand auf die Idee kam, man könnte auch die Merseburger Zaubersprüche aufnehmen?\n\nDie Merseburger Zaubersprüche hätten wie selbstverständlich schon bei der Gründung des Weltdokumentenerbes mit dabei sein müssen. Dass der deutsche UNESCO-Vertreter damals nicht aufgestanden ist und das gefordert hat,\n\nkann nur mit einem Mangel an Bildung und einem Mangel an nationalem Selbstbewusstsein erklärt werden. Beidem soll unsere Kampagne abhelfen.",
+      "chinese_translation": "1842年在梅泽堡大教堂图书馆发现的咒语，作为最古老的古高地德语文献，标志德语史的开端。因此，它们应在2026年被列入联合国教科文组织世界记忆名录。然而，该名录自1992年就存在。我想问：为什么三十多年后才有人想到也可收录它们？它们本应在名录设立之初就理所当然地在内。当时德国代表没有起身提出这一要求，只能以教育不足和民族自信不足来解释。我们的运动要补救这两者。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "Beginn der deutschen Sprachgeschichte",
+          "将古文献定位为德语历史起点；历史与名录事实仅作为发言者断言"
+        ],
+        "F1": [
+          "hätten wie selbstverständlich schon bei der Gründung",
+          "明确认为该文化资源应更早获国际纪念承认"
+        ],
+        "F2": [
+          "als die ältesten Dokumente des Althochdeutschen",
+          "用最古老文献与语言起源肯定文化贡献及地位"
+        ],
+        "I1": [
+          "nationalem Selbstbewusstsein",
+          "将个别资源承认与德国民族自信相连"
+        ],
+        "B1": [
+          "der deutsche UNESCO-Vertreter damals",
+          "将延迟归于德国代表的教育／自信不足"
+        ],
+        "T1": [
+          "Beidem soll unsere Kampagne abhelfen.",
+          "以所称历史资源承认不足推出当前运动的补救任务"
+        ]
+      },
+      "questions": {
+        "R1": [
+          "Beidem soll unsere Kampagne abhelfen.",
+          "提出修复任务但此段未明确党—群体代表资格；结合AfD发言者及运动归属可解释为修复者，待核"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：UNESCO承认延迟的指控",
+      "group_referent": "德国文化遗产与德国民族共同体",
+      "f2_type": "语言起源／文化贡献",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U007",
+      "section": "议会发言：哲学贡献与现代性争夺",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P028",
+      "german_original": "Aber nicht nur die deutsche politische Geschichte, auch die Geschichte der deutschen Philosophie hat aus Sachsen-Anhalt heraus wesentliche Impulse empfangen. Nachdem der deutsche Idealismus der Welt gezeigt hatte, was deutsches Denken erreichen kann, hat der 1844 in Röcken im heutigen Burgenlandkreis geborene Friedrich Nietzsche eine Variante der deutschen Philosophie geschaffen, der man das Prädikat „modern“ durchaus zuerkennen könnte; freilich nicht im Sinne einer subjektivistisch-linken Progressivität, sondern in dem Sinne, dass Nietzsche die abgestandenen Abstraktionen der Aufklärung und die lebensfernen Sondereinstellungen einer irreführenden Wissenschaft überwindet, um das Denken wieder beim Leben selbst ansetzen zu lassen. Nietzsche hat übrigens die heute noch bestehende Landesschule Pforta besucht.",
+      "chinese_translation": "不仅德国政治史，德国哲学史也从萨克森—安哈尔特获得重要推动。德国唯心主义向世界展示德国思维所能达到的成就后，1844年出生在今天布尔根兰县勒肯的尼采创造了某种可被称为现代的德国哲学；当然，这里的现代并非主体主义左派进步性，而指尼采超越启蒙运动陈腐的抽象与误导性科学脱离生活的特殊取向，使思想重新从生活自身出发。尼采还曾就读于今天仍存在的普福尔塔州立学校。",
+      "context_unit_ids": "S004_U004",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "Friedrich Nietzsche",
+          "具体调用德国唯心主义、尼采及地方学校"
+        ],
+        "F2": [
+          "wesentliche Impulse empfangen",
+          "明确肯定州对德国哲学的贡献"
+        ],
+        "B1": [
+          "nicht im Sinne einer subjektivistisch-linken Progressivität",
+          "以否定限定划分其认可的现代性与左派进步主义"
+        ]
+      },
+      "questions": {
+        "T1": [
+          "Prädikat „modern“",
+          "与当下modern／deutschdenken争论有主题联系，但此段未直接回扣政策；须结合S004_U004而非默拼"
+        ]
+      },
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：哲学贡献与现代性争夺",
+      "group_referent": "德国思想传统及州文化贡献",
+      "f2_type": "哲学贡献",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U008",
+      "section": "议会发言：文化贡献与历史性内外区分",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P036",
+      "german_original": "So ähnlich wie Martin Luther gegen Rom ein deutsches Christentum festgehalten hat, so ähnlich hat Eike von Repgow aus Reppichau im heutigen Landkreis Anhalt-Bitterfeld mit dem Sachsenspiegel erstmals deutsches Recht kodifiziert und damit einen Kontrapunkt gegen das römische Recht gesetzt. Schließlich ist da das Goethe-Theater in Bad Lauchstädt als Ableger der Weimarer Klassik, wodurch auch unser Bundesland Anteile an dieser Hochphase der deutschen Nationalliteratur hat.",
+      "chinese_translation": "如同路德对抗罗马而坚持一种德国基督教，来自今天安哈尔特—比特费尔德县雷皮绍的埃克·冯·雷普高，也以《萨克森法典》首次将德国法成文化，与罗马法相对。还有作为魏玛古典主义分支的巴特劳赫施泰特歌德剧院，我们这个州因而也分享德国民族文学这一高峰。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "Eike von Repgow",
+          "调用路德、法典、歌德剧院及魏玛古典主义"
+        ],
+        "F2": [
+          "Anteile an dieser Hochphase der deutschen Nationalliteratur",
+          "明确肯定州参与民族文学高峰的贡献"
+        ],
+        "I1": [
+          "unser Bundesland",
+          "将我们州嵌入德国民族文学的共同过去"
+        ],
+        "B1": [
+          "einen Kontrapunkt gegen das römische Recht",
+          "以德国／罗马的历史区分建构差异；不把历史罗马直接当今日敌人"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：文化贡献与历史性内外区分",
+      "group_referent": "州与德意志文化共同体",
+      "f2_type": "法律／文学贡献",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U009",
+      "section": "议会发言：认同教育与旅游市场的结合",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P045,P046",
+      "german_original": "Identitätserfahrung, Bildung und Erholung sollen sich zu einem touristischen Erlebnis ergänzen, das nirgendwo anders zu haben ist. Da viele Momente, in denen deutsche Identität in Sachsen-Anhalt geprägt wurde, im Mittelalter liegen, soll eine „Straße des Deutschen Reiches“ mehrere Themen der Kampagne verbinden. Die Themen Merseburger Zaubersprüche, Luther und Goethe-Theater wiederum verbindet das Thema Sprache, das mit den Festspielen der deutschen Sprache heute schon in Bad Lauchstädt aufgegriffen wird. Allerdings wollen wir diese Festspiele von einem auf Bad Lauchstädt beschränkten Ereignis zu einem veritablen Landesfestival mit Standorten in Merseburg, Eisleben, Wittenberg und Bad Lauchstädt aufwerten, das sprach- und kulturbegeisterte Patrioten aus ganz Deutschland anziehen wird.\n\nWenn es uns gelingen sollte, ab September 2026 mit einer AfD-Landesregierung diese „#deutschdenken“-Kampagne umzusetzen, dann werden wir einen ganz neuartigen Volksbildungstourismus schaffen und Sachsen-Anhalt zum Sehnsuchtsort aller deutschen Patrioten machen.",
+      "chinese_translation": "认同体验、教育和休闲应组成一种别处没有的旅游体验。许多塑造德国认同的时刻发生于中世纪，因此应以“德意志帝国之路”串联运动主题。《梅泽堡咒语》、路德及歌德剧院又由语言主题联系；巴特劳赫施泰特已有德语节。我们要将它从当地活动提升为在梅泽堡、艾斯莱本、维滕贝格和巴特劳赫施泰特举办的真正州级节庆，吸引全德国热爱语言文化的爱国者。若能从2026年9月起由AfD州政府实施“deutschdenken”运动，我们就将创造一种全新的大众教育旅游，使该州成为所有德国爱国者向往的地方。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "Merseburger Zaubersprüche, Luther und Goethe-Theater",
+          "明确历史资源和中世纪脉络"
+        ],
+        "I1": [
+          "sprach- und kulturbegeisterte Patrioten aus ganz Deutschland",
+          "把全国爱国者作为共享认同的目标人群"
+        ],
+        "T1": [
+          "Da viele Momente, in denen deutsche Identität",
+          "直接用历史身份形成地点推出旅游路线和节庆制度"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：认同教育与旅游市场的结合",
+      "group_referent": "德国文化爱国者及州旅游目标群体",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U010",
+      "section": "议会答辩：在德国框架内有条件纳入多样性",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P079,P081,P083",
+      "german_original": "Zum Kern Ihrer Intervention. Sie haben ins Feld geführt, dass ich die Vielfalt übersehen hätte. - Nein, unser Antrag ist doch vielfältig.\n\nDie Vielfalt des deutschen Wesens wird sehr sichtbar\n\nund eine Zuwanderung aus Griechenland widerspricht doch gar nicht dem deutschen Wesen. Ich denke, ich habe am Schluss auch deutlich gemacht, dass das Entscheidende ist, dass diese Vielfalt, die hier zusammenkommt, unter einem deutschen Dach geeint und deutsch geprägt wird.",
+      "chinese_translation": "谈谈您发言的核心。您提出我忽视了多样性。——不，我们的提案恰恰是多样的。德国性的多样性清晰可见，而来自希腊的移民并不违背德国性。我想我在结尾也说清了：关键是，汇集到这里的多样性应在一个德国屋顶下统一，并受到德国性的塑造。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "否定自己排除一切多样性的转述；肯定德国文化框架内的多样性",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "I1": [
+          "unter einem deutschen Dach geeint und deutsch geprägt",
+          "明确共同体的统一与文化塑造尺度"
+        ],
+        "B1": [
+          "eine Zuwanderung aus Griechenland widerspricht doch gar nicht",
+          "拒绝把一切移民都视为冲突，转而提出德国屋顶的条件性纳入边界"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会答辩：在德国框架内有条件纳入多样性",
+      "group_referent": "德国共同体；有条件纳入外来者",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U011",
+      "section": "议会答辩：名单可修改，表决对象不是公众",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P118",
+      "german_original": "Händel können wir natürlich ergänzen. Die Liste ist offen. Wenn der Antrag für Sie genießbar wird, wenn wir Händel dazu nehmen, dann nehmen wir noch Händel dazu. Dann stimmen Sie zu.",
+      "chinese_translation": "当然可以补上亨德尔。名单是开放的。若加入亨德尔能使这项提案对您而言可接受，我们就再加上亨德尔。那么请您投赞成票。",
+      "context_unit_ids": "S003_U001",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "向反对党议员提出增补与表决要求；不计公众行动A1",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "Händel können wir natürlich ergänzen.",
+          "把具体历史文化人物提议加入已明确的运动历史清单"
+        ],
+        "T1": [
+          "Wenn der Antrag für Sie genießbar wird",
+          "将历史名单的修改直接置于当前提案协商中"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会答辩：名单可修改，表决对象不是公众",
+      "group_referent": "议员协商；非面向公众的投票动员",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U012",
+      "section": "议会答辩：承认建构，同时主张历史深度",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P123",
+      "german_original": "Und dann zu diesem blöden Einwand, dass die deutsche Nationalidentität ein Konstrukt aus dem 19. Jahrhundert sei. Natürlich ist die Nationalidentität wie jede kulturelle Identität und wie auch die Sprache selbst ein Konstrukt. Aber das heißt nicht, dass es etwas Beliebiges wäre oder irgendwie flüchtig oder instabil. Es gibt schon bei Walter von der Vogelweide - damit kenne ich mich ein bisschen aus - Texte, die ein Nationalbewusstsein erkennen lassen, ein deutsches Volk, das im Hintergrund steht. Dabei müssen Sie gar nicht Ihre Glatze streicheln; es ist einfach so.",
+      "chinese_translation": "再说那个认为德国民族认同是十九世纪建构的愚蠢反驳。民族认同当然与所有文化认同及语言一样，是一种建构。但这并不意味着它任意、短暂或不稳定。在瓦尔特·冯·德·福格尔韦德那里已有体现民族意识、背后站着一个德国民族的文本——这一点我多少懂一些。您不必在那里摸自己的光头；事实就是如此。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "肯定认同是建构；否定由此推出任意／不稳定；不是作者接受仅十九世纪才形成的全部对手论断",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "Walter von der Vogelweide",
+          "调用中世纪作者作为民族意识历史深度的资源；不认证其历史论断"
+        ],
+        "I1": [
+          "ein deutsches Volk, das im Hintergrund steht",
+          "用历史文本建构跨时代德国民族"
+        ],
+        "B1": [
+          "diesem blöden Einwand",
+          "与对手关于民族认同形成的观点明确对立"
+        ],
+        "T1": [
+          "Aber das heißt nicht, dass es etwas Beliebiges wäre",
+          "把历史证据用于当下争论：承认建构却否定其任意短暂，主张稳定连续"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会答辩：承认建构，同时主张历史深度",
+      "group_referent": "跨时代德国民族",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "S004",
+      "unit_id": "S004_U013",
+      "section": "议会发言：奥托意义的上文，保留为定位及推断上下文",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P020,P022",
+      "german_original": "In Sachsen-Anhalt aber liegen nicht nur die Anfänge unserer Sprachgeschichte, hier beginnt auch die politische Geschichte unseres Landes. Im Quedlinburger Dom\n\nwurde Heinrich I., König des Ostfrankenreiches, aus dem unser Deutschland hervorging, beerdigt. Im Magdeburger Dom liegt sein Sohn Otto I., der als Begründer des ersten Deutschen Reiches gilt. Gestorben sind beide in Memleben im südlichen Sachsen-Anhalt. Heinrich I. wurde auch in Memleben geboren, Otto I. wahrscheinlich in Wallhausen im heutigen Landkreis Mansfeld-Südharz. Kein Bundesland weist eine solche Dichte an Kaiserpfalzen auf wie Sachsen-Anhalt, sodass man mit Fug und Recht sagen kann, dass hier das Zentrum des mittelalterlichen Reiches lag. - Sie müssen gar nicht den Kopf schütteln, Herr Tullner, diese Feststellung habe ich nämlich aus einem der Bücher Ihres Vaters.",
+      "chinese_translation": "该州不仅有我们语言史的开端，也有我们国家政治史的开端。东法兰克王国的国王亨利一世葬于奎德林堡大教堂，我们的德国从那个王国而来。其子奥托一世葬于马格德堡大教堂，他被视为第一个德意志帝国的奠基者。两人都逝于该州南部的梅姆莱本。亨利也出生在梅姆莱本；奥托很可能出生在今天曼斯费尔德—南哈尔茨县的瓦尔豪森。没有一个州的王家行宫密度如此高，因此可以有理由说这里曾是中世纪帝国的中心。——图尔纳先生，您不用摇头，这个说法是我从您父亲的一本书中读来的。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H1": [
+          "Heinrich I., König des Ostfrankenreiches",
+          "具体叙述国王、帝国及地方历史节点"
+        ],
+        "F2": [
+          "Kein Bundesland weist eine solche Dichte an Kaiserpfalzen auf",
+          "明确以相对其他州的高密度历史资源肯定地方地位"
+        ],
+        "I1": [
+          "aus dem unser Deutschland hervorging",
+          "把历史王国与我们德国连接，建构国家共同过去"
+        ],
+        "T1": [
+          "im heutigen Landkreis",
+          "以今天地理标识定位共同历史，结合unser Deutschland的起源主张呈现连续性"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "议会发言：奥托意义的上文，保留为定位及推断上下文",
+      "group_referent": "州—德国共同历史",
+      "f2_type": "历史地位／相对独特性",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_1129",
+      "unit_id": "P_LV_1129_U001",
+      "section": "新闻稿：一般纲领与政府承诺的对照",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P004",
+      "german_original": "„Am Wochenende haben wir in großer Einigkeit ein Regierungsprogramm beschlossen, mit dem wir unser schönes Sachsen-Anhalt zu neuer Blüte führen werden. Es bildet die inhaltliche Grundlage für die mögliche spätere Regierungsarbeit einer von Ulrich Siegmund geführten AfD-Landesregierung. Dieses Programm ist besonders vielschichtig und setzt sich unter anderem konsequent dafür ein, die Sicherheit auf unseren Straßen wieder herzustellen, Familien zu entlasten und Wohlstand zu sichern, damit Sachsen-Anhalt zu einem Land wird, in dem sich Leistung endlich wieder lohnt. Unser Ziel ist es, den großen Ansprüchen, die die Bürger in unsere Arbeit setzen, vollumfänglich gerecht zu werden.",
+      "chinese_translation": "周末我们高度团结地通过了一份执政纲领，要用它让我们美丽的州重新繁荣。它将成为由乌尔里希·西格蒙德领导的AfD州政府可能开展工作的内容基础。该纲领十分广泛，坚定主张恢复街道安全、减轻家庭负担并保障富裕，使该州成为付出终于再次值得的地方。我们的目标是充分满足公民对我们工作寄予的高期待。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {},
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：一般纲领与政府承诺的对照",
+      "group_referent": "州居民与政党组织",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_1129",
+      "unit_id": "P_LV_1129_U002",
+      "section": "新闻稿：自豪指向党内代表，非东部历史贡献",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P006",
+      "german_original": "Auch die an den Tag gelegte Disziplin der Delegierten war beispiellos und hinterließ ein Zeichen der Stärke, das mich mit großem Stolz erfüllt. Die Debatten über die einzelnen Kapitel und Änderungsanträge verliefen absolut konstruktiv und zielstrebig.“",
+      "chinese_translation": "代表们表现出的纪律也无与伦比，留下了令我充满巨大自豪的力量标志。对各章和修正案的讨论完全是建设性而目标明确的。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F2": [
+          "das mich mit großem Stolz erfüllt",
+          "明确自豪，但自豪对象是代表大会纪律及政党力量，不是东部共同体历史"
+        ],
+        "I1": [
+          "Disziplin der Delegierten",
+          "结合代表大会语境，肯定作为组织共同体的代表集体；指向党组织而非州居民"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：自豪指向党内代表，非东部历史贡献",
+      "group_referent": "AfD代表大会／党组织",
+      "f2_type": "政党组织成就／自豪",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_1235",
+      "unit_id": "P_LV_1235_U001",
+      "section": "新闻稿：当下代表缺失，无历史连接",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P005",
+      "german_original": "Wer 80 Prozent der Bürger gegen seine Bundesregierung hat und 62 Prozent gegen seine Landesregierung, der regiert nicht mehr im Auftrag des Volkes, sondern an ihm vorbei. Die Menschen in Sachsen-Anhalt wollen keinen weiteren Verwaltungswechsel zwischen den Einheitsparteien, sie wollen einen echten Politikwechsel.“",
+      "chinese_translation": "谁让百分之八十的公民反对联邦政府、百分之六十二反对州政府，谁就不再受人民委托执政，而是在绕过人民执政。州里的人不希望在一体化政党之间再换一批管理者，而希望真正的政策变化。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "党派对民意与代表关系的断言；不能当独立民调证据或选民接受历史叙事证据",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F1": [
+          "regiert nicht mehr im Auftrag des Volkes",
+          "指控执政者脱离人民委托，属于代表／政治排斥框架；民调数字未独立核验"
+        ],
+        "I1": [
+          "Die Menschen in Sachsen-Anhalt",
+          "明确构造具有共同政治愿望的州居民"
+        ],
+        "B1": [
+          "zwischen den Einheitsparteien",
+          "把被视为同质的既有政党与人民愿望相对"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：当下代表缺失，无历史连接",
+      "group_referent": "州居民／人民",
+      "f2_type": "",
+      "f1_type": "政治代表",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_1235",
+      "unit_id": "P_LV_1235_U002",
+      "section": "新闻稿：为自己人民施政与明确投票号召",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P007",
+      "german_original": "Wenn eine relative Mehrheit der Bürger inzwischen damit rechnet, dass die nächste Landesregierung von der AfD geführt wird, dann liegt das an unserer inhaltlichen Beständigkeit und dem tiefen Wunsch der Sachsen-Anhalter nach einer Regierung, die endlich wieder Politik für das eigene Volk macht. Ich nehme diese Erwartung sehr ernst, aber ich sage auch klar: Eine Umfrage allein gewinnt keine Wahl. Bis zum 6. September fließt noch viel Wasser die Elbe herab. Wir bleiben bodenständig und konzentrieren uns weiterhin darauf, gute und ehrliche Arbeit zu leisten. Wer wirklich Veränderung will und keine Pattsituation im Landtag, muss am 6. September mit beiden Stimmen die AfD wählen.“",
+      "chinese_translation": "若相对多数公民如今预期下届州政府由AfD领导，那是因为我们在内容上始终如一，也是因为州民深切希望有一个终于再次为本国人民施政的政府。我认真对待这一期待，但也明确说：单靠民调赢不了选举。9月6日之前，易北河还会流过许多水。我们保持踏实，继续做好且诚实的工作。真正想要变化而非州议会僵局的人，必须在9月6日把两票都投给AfD。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Ulrich Siegmund",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "I1": [
+          "für das eigene Volk",
+          "界定政治服务对象为本国人民，结合州民愿望"
+        ],
+        "R1": [
+          "unserer inhaltlichen Beständigkeit und dem tiefen Wunsch der Sachsen-Anhalter",
+          "以自身一致性及州民愿望论证AfD执政的资格，后续明确为自己人民施政"
+        ],
+        "A1": [
+          "muss am 6. September mit beiden Stimmen die AfD wählen",
+          "明确面向公众的投票要求"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：为自己人民施政与明确投票号召",
+      "group_referent": "州居民／本国人民",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_1342",
+      "unit_id": "P_LV_1342_U001",
+      "section": "新闻稿：地方党组织成就与自豪，无历史资源",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P004",
+      "german_original": "„Ich gratuliere Gunter Wakan herzlich zu diesem guten Ergebnis im ersten Wahlgang. Dass er vor allen Mitbewerbern liegt, ist sein persönlicher Erfolg und zugleich der Erfolg unserer fleißigen Mitglieder vor Ort, die seit Jahren verlässliche und bürgernahe Arbeit leisten. Auf diese starke regionale Verankerung können wir stolz sein. Das Ergebnis zeigt, dass viele Menschen hier einen politischen Wechsel wollen. Für die Stichwahl wünsche ich Gunter Wakan und allen Unterstützern viel Kraft.“",
+      "chinese_translation": "我热烈祝贺贡特·瓦坎首轮取得这个好结果。他领先所有竞争者，是个人成功，也是在当地多年可靠、贴近公民地工作的勤勉党员们的成功。我们可以为这种牢固的地方扎根感到自豪。结果说明，许多人希望政治变化。我祝瓦坎和所有支持者在第二轮充满力量。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F2": [
+          "Auf diese starke regionale Verankerung können wir stolz sein.",
+          "明确对党员工作、候选人成绩与地方扎根表示自豪；不能改写为悠久地方历史贡献"
+        ],
+        "I1": [
+          "unserer fleißigen Mitglieder vor Ort",
+          "把当地党员塑造为共享成就的组织共同体"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：地方党组织成就与自豪，无历史资源",
+      "group_referent": "AfD地方党组织／支持者",
+      "f2_type": "政党选举与组织成就／自豪",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_2306",
+      "unit_id": "P_LV_2306_U001",
+      "section": "新闻稿：当代攻击与RAF恐怖的历史类比",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P003",
+      "german_original": "„Die Gewaltbereitschaft und der Fanatismus unserer Feinde kennen keine Grenzen mehr. Wer die Radmuttern eines Fahrzeugs lockert, provoziert schwere Unfälle und nimmt nicht nur den Tod des Fahrers, sondern auch völlig unbeteiligter Personen in Kauf. Damit nähern sich die heutigen Linksextremisten dem sittlichen Niveau des damaligen RAF-Terrors an.",
+      "chinese_translation": "我们敌人的暴力意愿和狂热已经没有边界。松动车辆轮螺母的人会造成严重事故，不仅将驾驶者、也将毫不相关者的死亡纳入风险。他们由此正在道德上接近当年RAF恐怖活动的水平。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Dr. Hans-Thomas Tillschneider",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "党派对敌对攻击者的指控与历史类比；未外部事实核验",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "H4": [
+          "damaligen RAF-Terrors",
+          "明确调用过去的RAF恐怖记忆，促使H4范围扩展为非DDR政治暴力；不补写文中未给年份"
+        ],
+        "F1": [
+          "provoziert schwere Unfälle",
+          "将针对本方及无辜者的生命威胁描述为不正当伤害；是党派指控，未外部核实"
+        ],
+        "I1": [
+          "unserer Feinde",
+          "以共同受威胁的我们／敌人关系构造党派共同体"
+        ],
+        "B1": [
+          "heutigen Linksextremisten",
+          "把被指控行为归于今天的左翼极端分子；归责真实性不由本文分析认证"
+        ],
+        "T1": [
+          "nähern sich die heutigen Linksextremisten",
+          "直接把今天行为与当年RAF作道德类比"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：当代攻击与RAF恐怖的历史类比",
+      "group_referent": "AfD及被描为受威胁者",
+      "f2_type": "",
+      "f1_type": "政治暴力／不正当伤害",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_2306",
+      "unit_id": "P_LV_2306_U002",
+      "section": "新闻稿：攻击归责与本党受损，不含特定历史调用",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P006,P007,P008",
+      "german_original": "„Der seit Jahren von SPD, Grünen und Linken politisch geförderte linke Straßenterror hat erneut zugeschlagen. Die CDU verharmlost ihn aus falscher Rücksicht auf mögliche Koalitionsverhandlungen. Diesmal hat es einen Ehrenamtlichen getroffen, der sich in seiner Freizeit für unsere Partei engagiert.\n\nVon den Vorsitzenden der anderen Parteien in Sachsen-Anhalt erwarte ich jetzt eine klare Haltung und die Verurteilung solch hinterhältiger Taten, die auf den Tot politisch Andersdenkender abzielen oder diesen zumindest billigend in Kauf nehmen.\n\nAn unserem Wahlkampf ändert dieser Angriff nichts. Wir lassen uns nicht einschüchtern.“",
+      "chinese_translation": "由SPD、绿党和左党在政治上多年助长的左翼街头恐怖再次发作。CDU因顾及可能的联合执政谈判而淡化它。这次遭袭的是一位在业余时间为本党工作的志愿者。我期待该州其他政党主席现在明确表态，谴责这类意在、或至少放任持不同政治观点者死亡的卑劣行为。这次攻击不会改变我们的竞选。我们不会被吓倒。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "党派攻击归责与要求其他党主席表态；不是面向公众的A1",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F1": [
+          "auf den Tot politisch Andersdenkender abzielen",
+          "指控针对政治异见者的致命攻击；保留原文Tot拼写"
+        ],
+        "I1": [
+          "Wir lassen uns nicht einschüchtern.",
+          "以本党竞选共同体表述共同威胁与决心"
+        ],
+        "B1": [
+          "von SPD, Grünen und Linken politisch geförderte",
+          "明确归责其他政党及CDU的淡化行为"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：攻击归责与本党受损，不含特定历史调用",
+      "group_referent": "AfD志愿者／竞选共同体",
+      "f2_type": "",
+      "f1_type": "政治暴力／不平等保护",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_2381",
+      "unit_id": "P_LV_2381_U001",
+      "section": "新闻稿：创造历史是未来修辞，不是过去叙事",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P005",
+      "german_original": "„Unser Wahlkampf läuft. 42 Prozent in der neuesten Umfrage und ein Wählerpotenzial von 49 Prozent zeigen, dass wir auf dem Weg zu unserem Ziel von 45 Prozent plus X weiter voranschreiten. Wenn wir diese Zielmarke erreichen, regieren wir auch dann, wenn von den drei kleinsten Parteien nur zwei endgültig aus dem Parlament fallen. Unser Wahlkampf ist darauf gerichtet, die Menschen im Land davon zu überzeugen, dass wir bereit sind, Verantwortung für unser Land zu übernehmen. Hierfür haben wir mit Ulrich Siegmund den richtigen Spitzenkandidaten. Am 6. September wollen wir Geschichte schreiben und mit der ersten AfD-Landesregierung den politischen Neuanfang, den unser Land so dringend braucht, einleiten.“",
+      "chinese_translation": "我们的竞选正在进行。最新民调的百分之四十二和百分之四十九潜在支持率表明，我们朝着百分之四十五加X的目标前进。达到它，即使三个最小党中仅两个未进议会，我们也能执政。竞选旨在说服州里的人，我们准备好为这个州承担责任。为此，西格蒙德是合适的首席候选人。9月6日我们希望创造历史，以首届AfD州政府开启该州迫切需要的政治新开始。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {},
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：创造历史是未来修辞，不是过去叙事",
+      "group_referent": "党派竞选组织与州治理",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_2446",
+      "unit_id": "P_LV_2446_U001",
+      "section": "新闻稿：媒体不承认与受害者等级；Nazi为当代标签",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P006,P007,P008",
+      "german_original": "„Von den Medien und insbesondere vom öffentlich-rechtlichen Rundfunk weitgehend unbeachtet, ereignete sich damit bereits der dritte Angriff auf AfD-Wahlkämpfer in Sachsen-Anhalt. Nach gelösten Radmuttern und Faustschlägen in das Gesicht eines 13-Jährigen wurden nun neben Sachbeschädigungen am Infostand zwei unserer Direktkandidaten angegriffen.\n\nDas zeigt das hohe Gewaltpotenzial, das die vom politischen Establishment aufgehetzten linken Schläger und Kriminellen mittlerweile an den Tag legen. Die Grundlagen für die Brutalisierung dieses Wahlkampfs haben der weisungsgebundene Verfassungsschutz, die etablierten Medien und der politische Gegner gelegt. Ihre wahllosen und haltlosen Zuschreibungen wie ‚Nazi‘ und ‚Rechtsextremist‘ liefern gewaltbereiten Schlägern die scheinbare Legitimation für ihr Handeln. Einen besonders hetzerischen Höhenpunkt lieferte in diesem Zusammenhang erst kürzlich der Spiegel, der unseren Spitzenkandidaten Ulrich Siegmund auf seiner Titelseite zum gefährlichsten Mann Deutschlands erklärte.\n\nWer Vertreter einer gewählten Partei in einseitiger Berichterstattung Tag für Tag und über Jahre hinweg entmenschlicht, der senkt die Hemmschwelle für genau solche Taten und trägt maßgeblich zur Verschlechterung des gesellschaftlichen Klimas bei. Fest steht: Die Angriffe auf unsere demokratische Partei sind schäbig und müssten von allen Parteien, ebenso wie von den Medien, scharf verurteilt werden. Dass dies nicht geschieht, zeigt, dass es in Deutschland offenbar Opfer erster und zweiter Klasse gibt, und legt die Vermutung nahe, dass sich unsere politischen Gegner, aber auch Teile der Medien, darüber womöglich sogar freuen.“",
+      "chinese_translation": "媒体尤其公共广播几乎未予关注，这已是该州AfD竞选人员第三次遇袭。此前有轮螺母被松动、十三岁少年面部遭拳击，这次除摊位财物受损外，两名本党直选候选人也遭攻击。这表明，被政治建制煽动的左派打手与罪犯已具有高度暴力性。受指令约束的宪法保卫机构、主流媒体及政治对手为竞选暴力化奠定了基础。它们随意且无依据的“纳粹”“右翼极端分子”标签，为暴力打手提供貌似的正当性。最近《明镜》把本党首席候选人西格蒙德称为德国最危险人物，是其中尤其煽动性的高点。谁长期片面报道、将民选政党代表非人化，谁就降低了实施此类行为的门槛，恶化社会气氛。对我们民主政党的攻击卑劣，理应被所有政党和媒体严厉谴责。它们未如此做，说明德国似乎有一等和二等受害者，也令人怀疑政治对手及部分媒体或许还为此高兴。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "党派指控；转述并否定Nazi等标签，不据此赋历史NS记忆",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F1": [
+          "Opfer erster und zweiter Klasse",
+          "明确主张本党受害者被差别对待；不认证事件因果及媒体实际表现"
+        ],
+        "I1": [
+          "unsere demokratische Partei",
+          "构造被侵害而自称民主的党组织共同体"
+        ],
+        "B1": [
+          "Die Grundlagen für die Brutalisierung dieses Wahlkampfs",
+          "明确把暴力化归责政治建制、媒体和对手；不是本文研究者的事实归责"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：媒体不承认与受害者等级；Nazi为当代标签",
+      "group_referent": "AfD竞选人员／党组织",
+      "f2_type": "",
+      "f1_type": "尊重／承认与不平等保护",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_2446",
+      "unit_id": "P_LV_2446_U002",
+      "section": "新闻稿：惩罚政策承诺，非公众行动号召",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P011,P012",
+      "german_original": "Wenn wir in Regierungsverantwortung sind, werden wir den Strafrahmen, den das Gesetz für solche Taten vorsieht, ausschöpfen. Eine Kuscheljustiz wird es mit uns nicht geben, egal ob die Gewalt von rechts, von links oder aus religiöser Richtung kommt.\n\nBei Angriffen und Gewalt gegen Andersdenkende gehört das höchste Strafmaß angesetzt, und diese Leute gehören mit aller Härte des Rechtsstaates zur Verantwortung gezogen.“",
+      "chinese_translation": "我们进入政府后，将充分使用法律对此类行为规定的刑罚幅度。我们不会实行宽纵司法，不论暴力来自右翼、左翼还是宗教方向。针对持不同观点者的攻击与暴力，应适用最高刑罚，以法治的一切严厉手段追究其责任。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Oliver Kirchner",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "主张对各方向暴力同样处罚；不能把提到左右宗教自动赋为排斥某方",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {},
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：惩罚政策承诺，非公众行动号召",
+      "group_referent": "一般司法政策",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_2731",
+      "unit_id": "P_LV_2731_U001",
+      "section": "新闻稿：无历史资源的唯一代表资格主张",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P003",
+      "german_original": "„Die neuesten Zahlen untermauern vor allem eins: Immer mehr Bürger in Sachsen-Anhalt wenden sich von den Altparteien ab und setzen ihr Vertrauen konsequent in die AfD. Ein Ergebnis von 42 Prozent zeigt eindrucksvoll, dass die Menschen in unserem Land die Nase von Bevormundung, falschen Wahlversprechen, Verfall, ausufernder Kriminalität und dem ständigen Weiter-So, voll haben. Während die CDU unter Spitzenkandidat Sven Schulze immer weiter in die Bedeutungslosigkeit abstürzt und sich den linken Parteien als Koalitionspartner anbiedert, sind wir die einzige verbliebene politische Kraft, die sich glaubwürdig für die Interessen unserer Bürger in Sachsen-Anhalt einsetzt. Weder einseitige Medienberichte noch die Verleumdungskampagnen unserer politischen Gegner können den Wunsch der Menschen nach einem grundlegenden Politikwechsel aufhalten. Sachsen-Anhalt steht vor einer Richtungsentscheidung. Der Trend ist unumkehrbar: Die Bürger wollen die Wende. Wir nehmen dieses starke Vertrauenssignal als Ansporn, unseren Weg für ein sicheres, gerechtes und zukunftsfähiges Sachsen-Anhalt konsequent weiterzugehen.“",
+      "chinese_translation": "最新数字尤其证明：越来越多州民离开老牌政党，持续信任AfD。百分之四十二的结果显示，本州人已受够了管教、虚假竞选承诺、衰败、失控犯罪和一成不变。由舒尔策领衔的CDU继续失势并讨好左翼政党寻求联合执政，而我们是仅存的、可信地维护该州公民利益的政治力量。片面媒体报道和对手污名化运动，都阻挡不了人们要求根本政治变化。该州正面临方向选择，趋势不可逆：公民要转向。我们把这种强烈信任信号视为激励，继续走向一个安全、公正、有未来的州。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "党派对公众信任的自我陈述，不能据此证明真实选民接受或历史叙事效果",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "F1": [
+          "Verleumdungskampagnen unserer politischen Gegner",
+          "明确声称遭污名化；未独立核验民调、污名化或趋势"
+        ],
+        "I1": [
+          "Interessen unserer Bürger in Sachsen-Anhalt",
+          "构造有共同利益的州民"
+        ],
+        "B1": [
+          "sind wir die einzige verbliebene politische Kraft",
+          "将CDU及左翼等竞争者置于不可信的代表一侧"
+        ],
+        "R1": [
+          "glaubwürdig für die Interessen unserer Bürger in Sachsen-Anhalt einsetzt",
+          "直接主张AfD是可信维护州民利益的唯一力量"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：无历史资源的唯一代表资格主张",
+      "group_referent": "萨克森—安哈尔特州公民",
+      "f2_type": "",
+      "f1_type": "象征贬损／政治排斥",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_2855",
+      "unit_id": "P_LV_2855_U001",
+      "section": "新闻稿：民调不等于选举结果的反例",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P006",
+      "german_original": "Diese Zahlen zeigen, wie sehr sich die politische Stimmung in Sachsen-Anhalt verändert hat. Aber für uns ist das kein Grund, uns zurückzulehnen. Im Gegenteil. Umfragen sind keine Wahlergebnisse. Noch ist nichts entschieden.",
+      "chinese_translation": "这些数字显示本州政治情绪发生了多大变化。但对我们而言，这不是可以松懈的理由。恰恰相反：民调不是选举结果。事情还没有定。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {},
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：民调不等于选举结果的反例",
+      "group_referent": "竞选程序判断，不是共同历史",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    },
+    {
+      "source_id": "P_LV_2855",
+      "unit_id": "P_LV_2855_U002",
+      "section": "新闻稿：无历史前提的公众投票号召",
+      "printed_page": "",
+      "pdf_page_index": "",
+      "web_paragraph_locator": "P007",
+      "german_original": "Jetzt gilt es, in den letzten Tagen noch einmal alle Kräfte zu mobilisieren. Sprecht mit euren Freunden, euren Familien und euren Nachbarn und nehmt jeden mit zur Wahl. Wer den politischen Wechsel will, muss am 6. September mit beiden Stimmen AfD wählen.“",
+      "chinese_translation": "现在要在最后几天再次动员一切力量。和你们的朋友、家人、邻居谈，带上每个人去投票。想要政治变化的人，必须在9月6日把两票都投给AfD。",
+      "context_unit_ids": "",
+      "context_relation": "见编码行具体回指；保留定位记录中的完整相邻段落",
+      "speaker": "Martin Reichardt",
+      "speaker_role": "AfD发言者／机构",
+      "speaker_stance": "发言者／作者肯定立场；历史断言为党派叙述，不作外部事实认证",
+      "source_version": "本次获取版本；原文及版本证据见sources.csv",
+      "translation_status": "AI逐句对照德语，待人工复核",
+      "translation_by": "AI辅助译文（待研究者审订）",
+      "quotation_verification": "已对照存档文字层／网页或官方API段落；PDF另作图像抽查；非人类复核",
+      "analysis_selection_reason": "研究问题相关论证或明确反例；定向段落样本，非整份长文逐句穷尽",
+      "segment_status": "AI初编，待人工复核",
+      "ones": {
+        "A1": [
+          "Sprecht mit euren Freunden, euren Familien und euren Nachbarn",
+          "明确要求公众交流并带人投票；后句给两票投AfD的要求"
+        ]
+      },
+      "questions": {},
+      "reviewed_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "F1",
+        "F2",
+        "I1",
+        "B1",
+        "T1",
+        "R1",
+        "A1"
+      ],
+      "topic": "新闻稿：无历史前提的公众投票号召",
+      "group_referent": "被号召的公众与其社会网络",
+      "f2_type": "",
+      "f1_type": "尊重／承认",
+      "ai_revision_reason": "按v0.2进行首轮AI初编"
+    }
+  ]
+}

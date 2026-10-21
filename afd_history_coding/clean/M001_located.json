@@ -1,0 +1,217 @@
+{
+  "source_id": "M001",
+  "raw_path": "raw/M001_20261021T084619474736Z_6b8c7bb6c830.html",
+  "raw_sha256": "6b8c7bb6c830ba2cd2f102123ffaa447fbe33c09852b1ea4028a78a49c98c621",
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Qualitative Content Analysis: Demarcation, Varieties, Developments",
+      "html_tag": "h1",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P002",
+      "text": "Authors",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P003",
+      "text": "Philipp Mayring Universität Klagenfurt",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P004",
+      "text": "DOI:",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P005",
+      "text": "Keywords:",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P006",
+      "text": "Abstract",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P007",
+      "text": "More than 35 years ago I developed the basic procedures of a qualitative content analysis which are still widely used in qualitative oriented social science text analysis. I want to give an overview of the reception and recent developments of this approach.",
+      "html_tag": "p",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P008",
+      "text": "Three topics are elaborated in this article: First the theoretical background of qualitative content analysis is summarized and compared to other approaches of social science text analysis. This includes a differentiation of quantitative content analysis. In quantitative content analysis the process of categorization is running automatically, following a fixed algorithm, whereas in qualitative content analysis the assignment of categories to text passages always remains an act of interpretation. But this process strictly follows rules of interpretation. Second, the reception of my conception of qualitative content analysis is retraced and some misunderstandings cleared up. Additionally, the approach of qualitative content analysis proposed by Margrit SCHREIER and Udo KUCKARTZ is compared to my concept. This is demonstrated with an example. Third, recent developments are reviewed and free available software especially developed for qualitative content analysis (QCAmap) is introduced.",
+      "html_tag": "p",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P009",
+      "text": "Downloads",
+      "html_tag": "h3",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P010",
+      "text": "Author Biography",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P011",
+      "text": "Philipp Mayring, Universität Klagenfurt",
+      "html_tag": "h3",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P012",
+      "text": "Downloads",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P013",
+      "text": "HTML",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P014",
+      "text": "PDF",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P015",
+      "text": "HTML (Deutsch)",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P016",
+      "text": "PDF (Deutsch)",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P017",
+      "text": "Published",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P018",
+      "text": "How to Cite",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P019",
+      "text": "ACM",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P020",
+      "text": "ACS",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P021",
+      "text": "APA",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P022",
+      "text": "ABNT",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P023",
+      "text": "Chicago",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P024",
+      "text": "Harvard",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P025",
+      "text": "IEEE",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P026",
+      "text": "MLA",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P027",
+      "text": "Turabian",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P028",
+      "text": "Vancouver",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P029",
+      "text": "Endnote/Zotero/Mendeley (RIS)",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P030",
+      "text": "BibTeX",
+      "html_tag": "li",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P031",
+      "text": "Issue",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P032",
+      "text": "Section",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P033",
+      "text": "License",
+      "html_tag": "h2",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P034",
+      "text": "Copyright (c) 2019 Philipp Mayring",
+      "html_tag": "p",
+      "selector": "article或body"
+    },
+    {
+      "locator": "P035",
+      "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "html_tag": "p",
+      "selector": "article或body"
+    }
+  ]
+}

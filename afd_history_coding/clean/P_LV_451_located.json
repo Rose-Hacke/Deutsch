@@ -1,0 +1,20 @@
+{
+  "source_id": "P_LV_451",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 451,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Am vergangenen Wochenende stellte die AfD in Sachsen-Anhalt weitere Direktkandidaten zur Landtagswahl 2026 auf.Gewählt wurden:✔️ Wahlkreis 18 (Aschersleben) Herr Daniel Rausch mit circa 57 Prozent der abgegebenen Stimmen✔️ Wahlkreis 21 (Bernburg) Herr Dr. Jan Moldenhauer mit 100 Prozent der abgegebenen Stimmen✔️ Wahlkreis 34 (Bad Dürrenberg-Saalekreis) Herr Gordon Köhler mit 100 Prozent der abgegebenen Stimmen",
+      "selector": "官方WordPress API post.id=451 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Martin Reichardt, Landesvorsitzender der AfD Sachsen-Anhalt, kommentiert die Aufstellungen:„Mit Daniel Rausch, Dr. Jan Moldenhauer und Gordon Köhler wurden drei weitere, erfahrene Landtagsabgeordnete gewählt. Daniel Rausch gehört dem Landesparlament bereits seit 2016 an – Dr. Jan Moldenhauer und Gordon Köhler jeweils seit 2021. Alle drei Kollegen stehen im Parlament für grundsätzliche Sacharbeit – sei es im Bereich der Jugend- und Familienpolitik (Köhler), der Finanz- und Energiepolitik (Moldenhauer) oder der Infrastruktur- und Seniorenpolitik (Rausch). Ich selbst durfte die Aufstellungsversammlung von Gordon Köhler am Sonnabend leiten und darf sagen, dass der Saalekreis mit unserem Kollegen Köhler aus dem Jerichower Land bei 100 Prozent der Stimmen eine sehr gute Wahl getroffen hat. Die Wahlen von Dr. Jan Moldenhauer und Daniel Rausch fanden gestern im Salzlandkreis statt – hier bedanke ich mich ganz herzlich bei den dortigen Kollegen für die professionelle Durchführung.“",
+      "selector": "官方WordPress API post.id=451 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

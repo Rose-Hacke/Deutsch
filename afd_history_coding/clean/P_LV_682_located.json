@@ -1,0 +1,32 @@
+{
+  "source_id": "P_LV_682",
+  "raw_path": "raw/search_WP010_P3_20261021T091746563761Z.json",
+  "raw_sha256": "752c2043f84302d1e235bf8efbecd34b2f1bb478c30570c53cc6277d3e65a3d6",
+  "api_post_id": 682,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Kein Protest gegen patriotische Buchmesse!",
+      "selector": "官方WordPress API post.id=682 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Wie Deniz Yücel, der Sprecher des Schriftstellerverbandes PEN Berlin, erklärt hat, wird sein Verband sich den Protesten gegen die Buchmesse „Seitenwechsel“ in Halle am 8. und 9. November 2025 nicht anschließen. Diese von der Buchhändlerin Susanne Dagen initiierte Buchmesse hat unter freiheitsfeindlichen Kräften des Establishments viel Widerspruch provoziert, weil im Sinne echter Toleranz und Meinungsfreiheit kein Verlag ausgeschlossen wurde.",
+      "selector": "官方WordPress API post.id=682 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P003",
+      "text": "Dazu erklärt Dr. Hans-Thomas Tillschneider, stellvertretender Vorsitzender der AfD Sachsen-Anhalt:",
+      "selector": "官方WordPress API post.id=682 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P004",
+      "text": "„Obwohl Deniz Yücel klar macht, dass die Aussteller dieser Messe in seinem Verständnis rechts bis rechtsradikal zu verorten sind, wehrt er sich doch gegen eine undifferenzierte Gleichsetzung von ‚rechts‘ und ‚rechtsextrem‘ und erklärt, dass die Meinungsfreiheit selbstverständlich auch für rechte Autoren gilt. Die Begründung ist einleuchtend: Hier werden Bücher gelesen und Gedanken ausgetauscht, keine Gewalttaten verübt. Das muss toleriert werden. Deniz Yücel kritisiert, manchmal würde ‚die Meinungsfreiheit wie das Kleingedruckte auf dem Beipackzettel‘ verstanden. Generell würde, so Yücel, die Exekutive wegen Meinungsstraftaten ‚zu schnell Verbots- und Strafverfahren‘ auslösen. Wahre und mutige Worte, für die wir Deniz Yücel Respekt zollen.“",
+      "selector": "官方WordPress API post.id=682 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}

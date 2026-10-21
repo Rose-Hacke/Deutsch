@@ -1,0 +1,20 @@
+{
+  "source_id": "P_LV_2187",
+  "raw_path": "raw/search_WP005_20261021T085759760620Z.json",
+  "raw_sha256": "6db4151a55f6874d65ce4d46ac933e5ef153d06a84fed94a533fd2fa6ac8d512",
+  "api_post_id": 2187,
+  "records": [
+    {
+      "locator": "P001",
+      "text": "Hier finden Sie die Transparenzerklärung zur o.g. Werbemaßnahme sowie ggf. die Transparenzerklärungen von Anbietern pol. Werbung gemäß der Verordnung (EU) 2024/900 des Europäischen Parlamentes und des Rates vom 13. März 2024 über die Transparenz und das Targeting politischer Werbung.",
+      "selector": "官方WordPress API post.id=2187 content.rendered",
+      "html_tag": "p"
+    },
+    {
+      "locator": "P002",
+      "text": "Kampagne: Landtagswahl Sachsen-Anhalt 2026 – Fred Truczynski",
+      "selector": "官方WordPress API post.id=2187 content.rendered",
+      "html_tag": "p"
+    }
+  ]
+}
